@@ -32,7 +32,7 @@ I'm asking anyway.
 
 No pitch. No deck. Just conversation.
 
-If you're willing, [open an issue titled "Conversation"](../../issues/new?title=Conversation) or email me directly at leonard@yri.ai.
+If you're willing, [open an issue titled "Conversation"](../../issues/new?title=Conversation) or email me directly at <leonard@yri.ai>.
 
 ---
 
@@ -80,10 +80,6 @@ A public, evolving methodology for AI-human symbiosis in deal decisioning:
 - **Frameworks**: Taxonomies of red flags, sponsor analysis patterns, decision architectures
 - **Prompts**: The actual prompts we use—tested, refined, published
 - **Journal**: Weekly logs of what we're learning, building, and getting wrong
-
-### The Product (Eventually)
-
-A deal intelligence platform for institutional investors—AI-powered analysis with human judgment integrated at every decision point. The research informs the product. The product funds the research.
 
 ---
 
@@ -148,7 +144,7 @@ Our first case study examines the BowX Acquisition Corp merger with WeWork:
 ## Project Structure
 
 ```
-deal-signal/
+DealSignals/
 ├── methodology/           # The evolving framework
 │   ├── ai-human-symbiosis.md
 │   ├── decision-architecture.md
