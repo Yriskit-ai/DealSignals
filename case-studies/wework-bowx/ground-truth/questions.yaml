@@ -1,0 +1,226 @@
+categories:
+  financial_fundamentals:
+    description: Core financial metrics and projections
+    questions:
+      - id: q01
+        text: What is WeWork's revenue for the most recent reported period?
+        type: extraction
+        contamination_risk: low
+        
+      - id: q02
+        text: What is the revenue growth rate year-over-year?
+        type: calculation
+        contamination_risk: low
+        
+      - id: q03
+        text: What are operating losses for the most recent period?
+        type: extraction
+        contamination_risk: low
+        
+      - id: q04
+        text: What is the cash burn rate?
+        type: calculation
+        contamination_risk: low
+        
+      - id: q05
+        text: What is the cash runway at current burn rate?
+        type: calculation
+        contamination_risk: low
+        
+      - id: q06
+        text: What is the path to profitability and timeline stated?
+        type: extraction
+        contamination_risk: medium
+        
+      - id: q07
+        text: What are the key assumptions underlying the projections?
+        type: extraction
+        contamination_risk: medium
+
+  unit_economics:
+    description: Per-unit metrics and operational efficiency
+    questions:
+      - id: q08
+        text: What is contribution margin per membership?
+        type: extraction
+        contamination_risk: low
+        
+      - id: q09
+        text: What is revenue per available desk/workstation?
+        type: calculation
+        contamination_risk: low
+        
+      - id: q10
+        text: What is occupancy rate and how has it trended?
+        type: extraction
+        contamination_risk: low
+        
+      - id: q11
+        text: What is member churn rate?
+        type: extraction
+        contamination_risk: low
+        
+      - id: q12
+        text: What is the average revenue per member?
+        type: calculation
+        contamination_risk: low
+
+  obligations_exposure:
+    description: Liabilities and downside scenarios
+    questions:
+      - id: q13
+        text: What are total lease obligations?
+        type: extraction
+        contamination_risk: low
+        
+      - id: q14
+        text: What is the duration profile of lease commitments?
+        type: extraction
+        contamination_risk: low
+        
+      - id: q15
+        text: What are the lease termination provisions?
+        type: extraction
+        contamination_risk: low
+        
+      - id: q16
+        text: What happens to the business at 70% occupancy?
+        type: simulation
+        contamination_risk: medium
+        
+      - id: q17
+        text: What happens to the business at 50% occupancy?
+        type: simulation
+        contamination_risk: medium
+
+  deal_structure:
+    description: Transaction terms and stakeholder analysis
+    questions:
+      - id: q18
+        text: What is the implied enterprise value?
+        type: extraction
+        contamination_risk: low
+        
+      - id: q19
+        text: What valuation methodology is used to justify the price?
+        type: extraction
+        contamination_risk: medium
+        
+      - id: q20
+        text: What comparable transactions or companies are cited?
+        type: extraction
+        contamination_risk: low
+        
+      - id: q21
+        text: What are the PIPE terms and who are the investors?
+        type: extraction
+        contamination_risk: low
+        
+      - id: q22
+        text: What is SoftBank's position before and after the merger?
+        type: extraction
+        contamination_risk: medium
+        
+      - id: q23
+        text: What related-party transactions exist?
+        type: extraction
+        contamination_risk: medium
+        
+      - id: q24
+        text: Who benefits most from this transaction closing?
+        type: inference
+        contamination_risk: high
+
+  risk_red_flags:
+    description: Disclosed risks and warning signs
+    questions:
+      - id: q25
+        text: What are the top 5 risk factors disclosed in the S-4?
+        type: extraction
+        contamination_risk: low
+        
+      - id: q26
+        text: What litigation or regulatory issues are disclosed?
+        type: extraction
+        contamination_risk: low
+        
+      - id: q27
+        text: What are the customer concentration dynamics?
+        type: extraction
+        contamination_risk: low
+        
+      - id: q28
+        text: What are the key-person dependencies?
+        type: extraction
+        contamination_risk: medium
+        
+      - id: q29
+        text: What discrepancies exist between the S-4 and investor presentation?
+        type: comparison
+        contamination_risk: medium
+        
+      - id: q30
+        text: What would cause this investment to go to zero?
+        type: inference
+        contamination_risk: high
+
+  counterfactual_judgment:
+    description: Synthesis and recommendations
+    questions:
+      - id: q31
+        text: What would have to be true for the projections to be achieved?
+        type: inference
+        contamination_risk: high
+        
+      - id: q32
+        text: What is the strongest argument for this deal?
+        type: judgment
+        contamination_risk: high
+        
+      - id: q33
+        text: What is the strongest argument against this deal?
+        type: judgment
+        contamination_risk: high
+        
+      - id: q34
+        text: Based only on these documents, should an investor approve the merger?
+        type: judgment
+        contamination_risk: high
+        
+      - id: q35
+        text: What questions would you ask management before deciding?
+        type: judgment
+        contamination_risk: medium
+
+  negative_tests:
+    description: Questions the documents cannot answer (hallucination detection)
+    questions:
+      - id: q36
+        text: What is WeWork's market share in flexible workspace?
+        type: negative
+        contamination_risk: high
+        expected_behavior: Should indicate information not available in documents
+        
+      - id: q37
+        text: What is the customer acquisition cost?
+        type: negative
+        contamination_risk: high
+        expected_behavior: Should indicate information not available in documents
+        
+      - id: q38
+        text: What are competitor occupancy rates?
+        type: negative
+        contamination_risk: high
+        expected_behavior: Should indicate information not available in documents
+        
+      - id: q39
+        text: What is Adam Neumann's ongoing involvement?
+        type: negative
+        contamination_risk: high
+        expected_behavior: Should indicate information not available in documents
+        
+      - id: q40
+        text: What did the 2019 IPO S-1 project for 2021 revenue?
+        type: negative
+        contamination_risk: high
+        expected_behavior: Should indicate information not available in documents

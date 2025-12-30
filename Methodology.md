@@ -291,11 +291,11 @@ Layers are organized into progressions:
 
 **Variables to test:**
 
-- Model (Claude Opus, Claude Sonnet, GPT-4, GPT-4o)
+- Model (Claude Opus, Claude Sonnet, GPT-5x, Gemini, Additional Models TBD))
 - Context handling (truncation strategy when document exceeds window)
 - Document (S-4 full vs. S-4 summary sections vs. investor presentation)
 
-**Process:**
+**Process:**/Applications
 
 - Run each question through each model/document combination
 - Record full response
@@ -708,7 +708,7 @@ Fact:
 
 **Setup:**
 
-- Multiple models (Claude, GPT-4, Gemini, Llama)
+- Multiple models (Claude Sonnet and Opus, GPT-5x, Gemini, Additional TBD)
 - Same prompt to each model
 - Aggregation strategies:
   - **Majority vote:** Most common answer wins

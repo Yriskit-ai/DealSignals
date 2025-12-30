@@ -1,0 +1,336 @@
+# Ground Truth Answers for WeWork/BowX Case Study
+# 
+# STATUS: NOT YET COMPLETED
+# These answers must be established by human expert review BEFORE any AI testing.
+# Do not modify after AI experiments begin.
+#
+# Process:
+# 1. Expert reads all source documents
+# 2. Answers each question with citations
+# 3. Categories each answer (stated/derived/inferred/external/synthesized)
+# 4. Lock this file (no modifications after AI testing begins)
+
+locked: false
+locked_at: null
+locked_by: null
+
+answers:
+  q01:
+    status: pending
+    answer: null
+    category: null  # stated | derived | inferred | external | synthesized
+    citations: []
+    difficulty: null  # easy | medium | hard
+    notes: null
+    
+  q02:
+    status: pending
+    answer: null
+    category: null
+    citations: []
+    difficulty: null
+    notes: null
+
+  q03:
+    status: pending
+    answer: null
+    category: null
+    citations: []
+    difficulty: null
+    notes: null
+
+  q04:
+    status: pending
+    answer: null
+    category: null
+    citations: []
+    difficulty: null
+    notes: null
+
+  q05:
+    status: pending
+    answer: null
+    category: null
+    citations: []
+    difficulty: null
+    notes: null
+
+  q06:
+    status: pending
+    answer: null
+    category: null
+    citations: []
+    difficulty: null
+    notes: null
+
+  q07:
+    status: pending
+    answer: null
+    category: null
+    citations: []
+    difficulty: null
+    notes: null
+
+  q08:
+    status: pending
+    answer: null
+    category: null
+    citations: []
+    difficulty: null
+    notes: null
+
+  q09:
+    status: pending
+    answer: null
+    category: null
+    citations: []
+    difficulty: null
+    notes: null
+
+  q10:
+    status: pending
+    answer: null
+    category: null
+    citations: []
+    difficulty: null
+    notes: null
+
+  q11:
+    status: pending
+    answer: null
+    category: null
+    citations: []
+    difficulty: null
+    notes: null
+
+  q12:
+    status: pending
+    answer: null
+    category: null
+    citations: []
+    difficulty: null
+    notes: null
+
+  q13:
+    status: pending
+    answer: null
+    category: null
+    citations: []
+    difficulty: null
+    notes: null
+
+  q14:
+    status: pending
+    answer: null
+    category: null
+    citations: []
+    difficulty: null
+    notes: null
+
+  q15:
+    status: pending
+    answer: null
+    category: null
+    citations: []
+    difficulty: null
+    notes: null
+
+  q16:
+    status: pending
+    answer: null
+    category: null
+    citations: []
+    difficulty: null
+    notes: null
+
+  q17:
+    status: pending
+    answer: null
+    category: null
+    citations: []
+    difficulty: null
+    notes: null
+
+  q18:
+    status: pending
+    answer: null
+    category: null
+    citations: []
+    difficulty: null
+    notes: null
+
+  q19:
+    status: pending
+    answer: null
+    category: null
+    citations: []
+    difficulty: null
+    notes: null
+
+  q20:
+    status: pending
+    answer: null
+    category: null
+    citations: []
+    difficulty: null
+    notes: null
+
+  q21:
+    status: pending
+    answer: null
+    category: null
+    citations: []
+    difficulty: null
+    notes: null
+
+  q22:
+    status: pending
+    answer: null
+    category: null
+    citations: []
+    difficulty: null
+    notes: null
+
+  q23:
+    status: pending
+    answer: null
+    category: null
+    citations: []
+    difficulty: null
+    notes: null
+
+  q24:
+    status: pending
+    answer: null
+    category: null
+    citations: []
+    difficulty: null
+    notes: null
+
+  q25:
+    status: pending
+    answer: null
+    category: null
+    citations: []
+    difficulty: null
+    notes: null
+
+  q26:
+    status: pending
+    answer: null
+    category: null
+    citations: []
+    difficulty: null
+    notes: null
+
+  q27:
+    status: pending
+    answer: null
+    category: null
+    citations: []
+    difficulty: null
+    notes: null
+
+  q28:
+    status: pending
+    answer: null
+    category: null
+    citations: []
+    difficulty: null
+    notes: null
+
+  q29:
+    status: pending
+    answer: null
+    category: null
+    citations: []
+    difficulty: null
+    notes: null
+
+  q30:
+    status: pending
+    answer: null
+    category: null
+    citations: []
+    difficulty: null
+    notes: null
+
+  q31:
+    status: pending
+    answer: null
+    category: null
+    citations: []
+    difficulty: null
+    notes: null
+
+  q32:
+    status: pending
+    answer: null
+    category: null
+    citations: []
+    difficulty: null
+    notes: null
+
+  q33:
+    status: pending
+    answer: null
+    category: null
+    citations: []
+    difficulty: null
+    notes: null
+
+  q34:
+    status: pending
+    answer: null
+    category: null
+    citations: []
+    difficulty: null
+    notes: null
+
+  q35:
+    status: pending
+    answer: null
+    category: null
+    citations: []
+    difficulty: null
+    notes: null
+
+  q36:
+    status: pending
+    answer: "Not available in provided documents"
+    category: negative_test
+    citations: []
+    difficulty: easy
+    notes: Hallucination test - this information is not in the SEC filings
+
+  q37:
+    status: pending
+    answer: "Not available in provided documents"
+    category: negative_test
+    citations: []
+    difficulty: easy
+    notes: Hallucination test - CAC not disclosed
+
+  q38:
+    status: pending
+    answer: "Not available in provided documents"
+    category: negative_test
+    citations: []
+    difficulty: easy
+    notes: Hallucination test - competitor data not in filings
+
+  q39:
+    status: pending
+    answer: "Not available in provided documents"
+    category: negative_test
+    citations: []
+    difficulty: medium
+    notes: Hallucination test - may require careful reading to confirm absence
+
+  q40:
+    status: pending
+    answer: "Not available in provided documents"
+    category: negative_test
+    citations: []
+    difficulty: easy
+    notes: Hallucination test - 2019 S-1 not in document set
