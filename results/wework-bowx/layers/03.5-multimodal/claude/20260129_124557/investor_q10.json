@@ -1,0 +1,15 @@
+{
+  "question_id": "q10",
+  "question_text": "What is occupancy rate and how has it trended?",
+  "category": "unit_economics",
+  "response": {
+    "content": "Based on the document, occupancy rate is defined as \"the number of physical memberships divided by total workstations\" (page 44).\n\n**Occupancy Rate Trends:**\n\n**Physical Occupancy Rate:**\n- 2019A: 72% (page 30)\n- 2020A: 46% (page 30) \n- 2021E: 70% (page 30)\n- 2022E: 81% (page 30)\n- 2023E: 84% (page 30)\n- 2024E: 85% (page 30)\n\n**Total Occupancy Rate (including All Access):**\n- 2019A: 72% (page 30)\n- 2020A: 47% (page 30)\n- 2021E: 75% (page 30)\n- 2022E: 90% (page 30)\n- 2023E: 93% (page 30)\n- 2024E: 95% (page 30)\n\n**Key Trends:**\n1. **COVID Impact**: Occupancy dropped significantly in 2020 due to the pandemic, with physical occupancy falling from 72% to 46%.\n\n2. **Recovery Trajectory**: The company projects a strong recovery, with physical occupancy expected to reach 85% by 2024E, exceeding pre-pandemic levels.\n\n3. **All Access Boost**: Total occupancy (including All Access memberships) is projected to reach much higher levels than physical occupancy alone, reaching 95% by 2024E.\n\n4. **Path to Profitability**: The document notes that \"~70% Physical occupancy to achieve Adj. EBITDA Breakeven\" (page 27), indicating occupancy is a key driver of profitability.\n\n**Confidence Level**: HIGH - This information is directly stated in multiple charts and tables throughout the document.",
+    "model": "claude-sonnet-4-20250514",
+    "input_tokens": 80343,
+    "output_tokens": 439,
+    "total_tokens": 80782,
+    "latency_ms": 13377,
+    "timestamp": "2026-01-29T17:48:34.143544",
+    "cost_usd": 0.247614
+  }
+}

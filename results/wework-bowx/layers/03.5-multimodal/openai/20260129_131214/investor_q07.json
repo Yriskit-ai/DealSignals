@@ -1,0 +1,15 @@
+{
+  "question_id": "q07",
+  "question_text": "What are the key assumptions underlying the projections?",
+  "category": "financial_fundamentals",
+  "response": {
+    "content": "Not found in document. \n\nMy confidence in this response is HIGH, as the search did not return any specific information regarding the key assumptions underlying the projections. Such details might be located deeper in the document if not indexed or might not be presented explicitly.",
+    "model": "gpt-4o",
+    "input_tokens": 3691,
+    "output_tokens": 71,
+    "total_tokens": 3762,
+    "latency_ms": 6784,
+    "timestamp": "2026-01-29T18:13:39.216391",
+    "cost_usd": 0.0099375
+  }
+}

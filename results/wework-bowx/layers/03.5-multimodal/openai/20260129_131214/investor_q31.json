@@ -1,0 +1,15 @@
+{
+  "question_id": "q31",
+  "question_text": "What is the board composition post-merger?",
+  "category": "governance_control",
+  "response": {
+    "content": "Not found in document.\n\nConfidence: HIGH.\n\nCaveats: The document provided does not contain any information about the board composition post-merger.",
+    "model": "gpt-4o",
+    "input_tokens": 3717,
+    "output_tokens": 76,
+    "total_tokens": 3793,
+    "latency_ms": 6610,
+    "timestamp": "2026-01-29T18:16:59.721974",
+    "cost_usd": 0.010052499999999999
+  }
+}

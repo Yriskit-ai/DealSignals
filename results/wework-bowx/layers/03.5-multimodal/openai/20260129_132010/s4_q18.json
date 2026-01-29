@@ -1,0 +1,15 @@
+{
+  "question_id": "q18",
+  "question_text": "What is the implied enterprise value?",
+  "category": "deal_structure",
+  "response": {
+    "content": "The implied enterprise value discussed in the document is approximately $9 billion for WeWork\u30104:1\u2020S-4_A.pdf\u3011. My confidence in this information is HIGH, as it is directly stated in the document.",
+    "model": "gpt-4o",
+    "input_tokens": 17666,
+    "output_tokens": 66,
+    "total_tokens": 17732,
+    "latency_ms": 19779,
+    "timestamp": "2026-01-29T18:27:12.831905",
+    "cost_usd": 0.044825000000000004
+  }
+}

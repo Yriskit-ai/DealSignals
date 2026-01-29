@@ -1,0 +1,15 @@
+{
+  "question_id": "q12",
+  "question_text": "What is the average revenue per member?",
+  "category": "unit_economics",
+  "response": {
+    "content": "Based on the document, I can calculate the average revenue per member (ARPM) for WeWork:\n\n**2020 Actual ARPM:**\n- Core Leased ARPM: $510 (page 41)\n- All Access ARPM: $250 (page 41)\n\n**2021-2024 Projected Core Leased ARPM (page 41):**\n- 2021E: $542\n- 2022E: $554  \n- 2023E: $576\n- 2024E: $598\n\nThe document shows that Core Leased business has significantly higher ARPM than All Access memberships. For example, in 2021E, Core Leased ARPM is projected at $542 while All Access ARPM is $250.\n\n**Confidence: HIGH** - These figures are directly stated in the financial projection assumptions table on page 41.\n\n**Caveats:** \n- The document notes that \"ARPM (Average Revenue per Member) is calculated as revenue for the year divided by average members divided by 12 months\" (page 41)\n- These figures exclude Ventures revenue and are based on management projections\n- The ARPM varies significantly between product offerings, with Core Leased generating much higher revenue per member than All Access",
+    "model": "claude-sonnet-4-20250514",
+    "input_tokens": 80339,
+    "output_tokens": 296,
+    "total_tokens": 80635,
+    "latency_ms": 13753,
+    "timestamp": "2026-01-29T18:01:10.148062",
+    "cost_usd": 0.24545699999999998
+  }
+}

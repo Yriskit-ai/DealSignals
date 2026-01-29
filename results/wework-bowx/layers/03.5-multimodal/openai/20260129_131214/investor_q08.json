@@ -1,0 +1,15 @@
+{
+  "question_id": "q08",
+  "question_text": "What is contribution margin per membership?",
+  "category": "unit_economics",
+  "response": {
+    "content": "Not found in document. \n\nConfidence: HIGH (directly searched for the specific term). \n\nCaveats: The document does not contain detailed numerical or financial breakdowns visible from the search results.",
+    "model": "gpt-4o",
+    "input_tokens": 3688,
+    "output_tokens": 62,
+    "total_tokens": 3750,
+    "latency_ms": 6950,
+    "timestamp": "2026-01-29T18:13:46.286725",
+    "cost_usd": 0.00984
+  }
+}

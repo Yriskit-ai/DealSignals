@@ -1,0 +1,15 @@
+{
+  "question_id": "q15",
+  "question_text": "What are the lease termination provisions?",
+  "category": "obligations_exposure",
+  "response": {
+    "content": "The lease termination provisions can be summarized as follows:\n\n- When a lease is terminated, the lease liability and right of use asset are derecognized, and any resulting difference is recognized as a gain or loss on termination. Any termination penalties not included in the lease payments are included in the gain or loss on termination\u30104:3\u2020S-4_A.pdf\u3011.\n- Where the modification relates to the termination of a lease with a future expiration date, termination fees are included in the remaining lease payments and recognized over the remaining term. If the termination is immediate, the lease liability and right of use asset are derecognized, with the difference being recognized as a gain or loss\u30104:4\u2020S-4_A.pdf\u3011.\n- In a restructuring context, lease termination payments or other remaining lease costs are included in restructuring and related costs if a location is closed in preparation for executing a lease termination agreement\u30104:10\u2020S-4_A.pdf\u3011.\n\nConfidence: HIGH (directly stated). \n\nCaveats: The information appears comprehensive, but context regarding the overarching strategy or frequency of such terminations would require additional data not available in the document snippet reviewed.",
+    "model": "gpt-4o",
+    "input_tokens": 17946,
+    "output_tokens": 258,
+    "total_tokens": 18204,
+    "latency_ms": 31469,
+    "timestamp": "2026-01-29T18:26:22.517243",
+    "cost_usd": 0.047445
+  }
+}

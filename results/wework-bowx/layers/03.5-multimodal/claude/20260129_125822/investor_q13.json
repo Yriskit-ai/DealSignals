@@ -1,0 +1,15 @@
+{
+  "question_id": "q13",
+  "question_text": "What are total lease obligations?",
+  "category": "obligations_exposure",
+  "response": {
+    "content": "Based on my review of the WeWork SPAC merger document, I cannot find specific information about total lease obligations. \n\n**Not found in document.**\n\nWhile the document extensively discusses WeWork's business model, financial projections, and various operational metrics, it does not provide a clear breakdown or total figure for lease obligations. The document mentions:\n\n- Lease-related cost savings from exits and amendments (~$200M+ from 200+ lease exits and amendments, page 15)\n- References to \"Core Leased\" business segments\n- Discussion of lease incentives and amortization\n\nHowever, the specific total amount of lease obligations that WeWork has committed to is not disclosed in this presentation.\n\n**Confidence: HIGH** (the information is definitively not present in the document)\n\n**Caveat:** This appears to be a management presentation rather than a comprehensive SEC filing, so detailed lease obligation schedules that would typically be found in 10-K filings or proxy statements may not be included in this particular document.",
+    "model": "claude-sonnet-4-20250514",
+    "input_tokens": 80337,
+    "output_tokens": 219,
+    "total_tokens": 80556,
+    "latency_ms": 11975,
+    "timestamp": "2026-01-29T18:01:22.172217",
+    "cost_usd": 0.24429600000000004
+  }
+}

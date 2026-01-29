@@ -1,0 +1,15 @@
+{
+  "question_id": "q38",
+  "question_text": "What post-merger integration or business model changes were planned?",
+  "category": "synthesis_judgment",
+  "response": {
+    "content": "Not found in document. My confidence in this answer is HIGH, as there was no mention of specific post-merger integration or business model changes within the search results from the provided PDF.",
+    "model": "gpt-4o",
+    "input_tokens": 3726,
+    "output_tokens": 87,
+    "total_tokens": 3813,
+    "latency_ms": 9297,
+    "timestamp": "2026-01-29T18:17:56.747934",
+    "cost_usd": 0.010185
+  }
+}

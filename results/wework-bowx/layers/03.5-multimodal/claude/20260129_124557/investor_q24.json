@@ -1,0 +1,15 @@
+{
+  "question_id": "q24",
+  "question_text": "What are management's incentives/compensation in the deal?",
+  "category": "deal_structure",
+  "response": {
+    "content": "Based on my review of the provided document, I cannot find specific information about management's incentives or compensation in relation to the SPAC transaction.\n\n**Not found in document**: The document does not contain details about:\n- Management compensation packages tied to the merger\n- Equity incentives for executives in the combined company\n- Retention bonuses or change-in-control provisions\n- Performance-based compensation metrics\n- Specific financial incentives for completing the transaction\n\n**What is included**: The document does show:\n- Pro forma board composition (page 43) indicating that CEO Sandeep Mathrani will continue as CEO of the combined company\n- Executive team profiles and backgrounds (pages 8-9) showing the management team's experience\n- Overall transaction terms including $1.283 million total cash proceeds (page 36)\n\n**Confidence**: HIGH - I have thoroughly reviewed the document and this information is definitively not included.\n\n**Recommendation**: To obtain information about management incentives and compensation related to the SPAC merger, you would need to review additional transaction documents such as the proxy statement, employment agreements, or SEC filings that specifically address executive compensation arrangements.",
+    "model": "claude-sonnet-4-20250514",
+    "input_tokens": 80343,
+    "output_tokens": 252,
+    "total_tokens": 80595,
+    "latency_ms": 12468,
+    "timestamp": "2026-01-29T17:52:04.283287",
+    "cost_usd": 0.244809
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "question_id": "q02",
+  "question_text": "What is the revenue growth rate year-over-year?",
+  "category": "financial_fundamentals",
+  "response": {
+    "content": "Based on the revenue data in the document, here are the year-over-year revenue growth rates for WeWork (excluding ChinaCo):\n\n**Historical Growth Rates:**\n- 2020A: -1% YoY growth (page 40)\n- 2021E: 1% YoY growth (page 40)\n\n**Projected Growth Rates:**\n- 2022E: 41% YoY growth (page 40)\n- 2023E: 27% YoY growth (page 40)\n- 2024E: 20% YoY growth (page 40)\n\n**Revenue Figures (Excluding ChinaCo):**\n- 2019A: $3.2B\n- 2020A: $3.2B \n- 2021E: $3.2B\n- 2022E: $4.6B\n- 2023E: $5.8B\n- 2024E: $7.0B\n\n**Confidence:** HIGH - These figures are directly stated in the financial projections table on page 40.\n\n**Note:** The company experienced minimal growth in 2020-2021 due to COVID-19 impacts, but management projects strong recovery with accelerating growth rates beginning in 2022, driven by occupancy recovery and expansion of their platform offerings (All Access, Marketplace, Platform).",
+    "model": "claude-sonnet-4-20250514",
+    "input_tokens": 80343,
+    "output_tokens": 314,
+    "total_tokens": 80657,
+    "latency_ms": 13290,
+    "timestamp": "2026-01-29T17:56:32.461801",
+    "cost_usd": 0.24573899999999999
+  }
+}

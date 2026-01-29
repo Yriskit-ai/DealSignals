@@ -1,0 +1,15 @@
+{
+  "question_id": "q32",
+  "question_text": "What is the voting structure post-merger?",
+  "category": "governance_control",
+  "response": {
+    "content": "Not found in document.",
+    "model": "gpt-4o",
+    "input_tokens": 3722,
+    "output_tokens": 57,
+    "total_tokens": 3779,
+    "latency_ms": 7062,
+    "timestamp": "2026-01-29T18:17:06.897381",
+    "cost_usd": 0.009875
+  }
+}

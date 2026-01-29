@@ -1,0 +1,15 @@
+{
+  "question_id": "q18",
+  "question_text": "What is the implied enterprise value?",
+  "category": "deal_structure",
+  "response": {
+    "content": "Not found in document  . \n\nConfidence: HIGH (after search). \n\nCaveats: The document does not explicitly state or provide calculations related to the implied enterprise value.",
+    "model": "gpt-4o",
+    "input_tokens": 3701,
+    "output_tokens": 89,
+    "total_tokens": 3790,
+    "latency_ms": 9448,
+    "timestamp": "2026-01-29T18:15:04.554842",
+    "cost_usd": 0.0101425
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "question_id": "q11",
+  "question_text": "What is member churn rate?",
+  "category": "unit_economics",
+  "response": {
+    "content": "The document does not explicitly define \"member churn rate.\" However, it mentions that the decline in memberships was primarily driven by churn, which is associated with the impacts of COVID-19\u30104:2\u2020source\u3011. Churn generally refers to the rate at which customers or members stop subscribing to a service over a particular period. \n\nConfidence: MEDIUM. The definition was derived from context rather than being directly stated. The document focuses on the effects of churn rather than directly explaining what it is.",
+    "model": "gpt-4o",
+    "input_tokens": 17333,
+    "output_tokens": 123,
+    "total_tokens": 17456,
+    "latency_ms": 15116,
+    "timestamp": "2026-01-29T18:24:59.404832",
+    "cost_usd": 0.044562500000000005
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "question_id": "q30",
+  "question_text": "Are there any material weaknesses in internal controls?",
+  "category": "risk_red_flags",
+  "response": {
+    "content": "Not found in document.\n\nThe provided WeWork presentation does not contain any information about material weaknesses in internal controls. This type of information would typically be found in SEC filings such as 10-K or 10-Q reports, or in management's assessment of internal control over financial reporting, which are not included in this investor presentation document.\n\n**Confidence: HIGH** - I have thoroughly reviewed the document and there is no mention of internal controls or material weaknesses anywhere in the presentation.",
+    "model": "claude-sonnet-4-20250514",
+    "input_tokens": 80341,
+    "output_tokens": 105,
+    "total_tokens": 80446,
+    "latency_ms": 9589,
+    "timestamp": "2026-01-29T17:53:21.701069",
+    "cost_usd": 0.24259799999999998
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "question_id": "q15",
+  "question_text": "What are the lease termination provisions?",
+  "category": "obligations_exposure",
+  "response": {
+    "content": "Based on my review of this WeWork SPAC merger document, I cannot find specific information about lease termination provisions.\n\n**Not found in document.**\n\n**Confidence: HIGH** (I thoroughly searched the document but no specific lease termination provisions are detailed)\n\n**What the document does contain:**\n- General references to \"lease exits and amendments\" (page 16)\n- Mention of savings from \"200+ Lease Exits and Amendments\" totaling $200M+ (page 16) \n- References to lease incentives and lease costs in financial calculations\n- Discussion of the company's shift away from long-term leases toward more flexible arrangements\n\n**Caveats:**\nWhile the document discusses WeWork's strategic moves away from long-term lease commitments and mentions cost savings from lease modifications, it does not provide the specific contractual terms, notice periods, penalty clauses, or other detailed provisions that would typically govern lease terminations. This level of detail would likely be found in:\n- Individual lease agreements\n- More detailed SEC filings\n- Legal due diligence materials not included in this presentation\n\nFor a complete understanding of lease termination risk and terms, additional documentation beyond this investor presentation would be required.",
+    "model": "claude-sonnet-4-20250514",
+    "input_tokens": 80339,
+    "output_tokens": 264,
+    "total_tokens": 80603,
+    "latency_ms": 13623,
+    "timestamp": "2026-01-29T17:49:41.089929",
+    "cost_usd": 0.24497699999999997
+  }
+}

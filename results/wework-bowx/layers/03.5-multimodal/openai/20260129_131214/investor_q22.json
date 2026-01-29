@@ -1,0 +1,15 @@
+{
+  "question_id": "q22",
+  "question_text": "What is SoftBank's role and ongoing obligations?",
+  "category": "deal_structure",
+  "response": {
+    "content": "Not found in document.\n\nConfidence: HIGH\n\nThe document does not provide specific details regarding SoftBank's role or ongoing obligations related to the merger or any future responsibilities.",
+    "model": "gpt-4o",
+    "input_tokens": 3710,
+    "output_tokens": 71,
+    "total_tokens": 3781,
+    "latency_ms": 7478,
+    "timestamp": "2026-01-29T18:15:46.621265",
+    "cost_usd": 0.009985
+  }
+}

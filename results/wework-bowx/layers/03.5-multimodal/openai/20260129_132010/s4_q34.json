@@ -1,0 +1,15 @@
+{
+  "question_id": "q34",
+  "question_text": "What registration rights exist?",
+  "category": "governance_control",
+  "response": {
+    "content": "The registration rights involved in the SPAC merger include the following:\n\n1. The Registration Rights Agreement involves BowX, Anchor PIPE Investors, the Sponsor, and certain WeWork Stockholders at the Closing. Holders of Registrable Securities, subject to certain conditions, will have registration rights\u30104:0\u2020S-4_A.pdf\u3011.\n2. New WeWork is required to file a registration statement registering the resale of the Registrable Securities within 30 calendar days after the Closing. New WeWork must also use best efforts to have this statement declared effective as soon as possible but no later than specific timeframes depending on SEC review status\u30104:0\u2020S-4_A.pdf\u3011.\n3. The agreement allows holders to demand up to nine underwritten offerings in any twelve-month period and up to six underwritten block trade offerings. Holders also have piggyback registration rights, subject to specified limitations\u30104:0\u2020S-4_A.pdf\u3011.\n4. The registration rights will be subject to customary limitations, such as underwriters' rights to limit the number of securities and New WeWork\u2019s rights to delay or withdraw a registration statement under certain conditions\u30104:11\u2020S-4_A.pdf\u3011.\n5. New WeWork is generally required to cover the registration expenses\u30104:11\u2020S-4_A.pdf\u3011.\n\nConfidence: HIGH, as this information is directly stated in the document provided.",
+    "model": "gpt-4o",
+    "input_tokens": 18308,
+    "output_tokens": 305,
+    "total_tokens": 18613,
+    "latency_ms": 13087,
+    "timestamp": "2026-01-29T18:33:50.921634",
+    "cost_usd": 0.04882
+  }
+}

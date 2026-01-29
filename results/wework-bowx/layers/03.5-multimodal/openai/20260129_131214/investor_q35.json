@@ -1,0 +1,15 @@
+{
+  "question_id": "q35",
+  "question_text": "What was the market context at deal time?",
+  "category": "governance_control",
+  "response": {
+    "content": "Not found in document. My confidence is HIGH that there is no specific information about the market context at deal time in the provided document.",
+    "model": "gpt-4o",
+    "input_tokens": 3692,
+    "output_tokens": 49,
+    "total_tokens": 3741,
+    "latency_ms": 7186,
+    "timestamp": "2026-01-29T18:17:31.043348",
+    "cost_usd": 0.00972
+  }
+}

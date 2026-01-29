@@ -1,0 +1,15 @@
+{
+  "question_id": "q18",
+  "question_text": "What is the implied enterprise value?",
+  "category": "deal_structure",
+  "response": {
+    "content": "Based on the transaction overview information provided on page 37, I can calculate the implied enterprise value.\n\n**Implied Enterprise Value: $8,966 million**\n\n**Confidence: HIGH** - This figure is directly stated in the \"WeWork Enterprise Value\" line on page 37.\n\n**Source:** Page 37 shows the pro forma valuation calculation where:\n- Pro Forma Equity Value: $7,927 million\n- (+) Pro Forma Debt: $2,912 million  \n- (-) Pro Forma Cash: $(1,873) million\n- **WeWork Enterprise Value: $8,966 million**\n\nThis enterprise value calculation follows the standard formula: Equity Value + Net Debt = Enterprise Value, where Net Debt equals Total Debt minus Cash.",
+    "model": "claude-sonnet-4-20250514",
+    "input_tokens": 80338,
+    "output_tokens": 175,
+    "total_tokens": 80513,
+    "latency_ms": 10616,
+    "timestamp": "2026-01-29T18:02:25.116712",
+    "cost_usd": 0.243639
+  }
+}

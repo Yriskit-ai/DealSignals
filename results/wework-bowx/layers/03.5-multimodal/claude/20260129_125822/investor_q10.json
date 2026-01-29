@@ -1,0 +1,15 @@
+{
+  "question_id": "q10",
+  "question_text": "What is occupancy rate and how has it trended?",
+  "category": "unit_economics",
+  "response": {
+    "content": "Based on the provided document, I can answer your question about occupancy rates and their trends for WeWork.\n\n## What is Occupancy Rate?\n\nAccording to the definitions on page 44, **Physical Occupancy** is defined as \"the number of physical memberships divided by total workstations.\"\n\nThe document also references **Total Occupancy**, which \"is the number of physical memberships plus All Access memberships divided by of total workstations\" (page 44).\n\n## How Has Occupancy Trended?\n\n**Physical Occupancy Trends** (page 30):\n- 2019A: 72%\n- 2020A: 46% \n- 2021E: 70%\n- 2022E: 81%\n- 2023E: 84%\n- 2024E: 85%\n\n**Total Occupancy Trends** (page 30):\n- 2019A: 72%\n- 2020A: 47%\n- 2021E: 75%\n- 2022E: 90%\n- 2023E: 93%\n- 2024E: 95%\n\n## Key Insights:\n\n1. **COVID Impact**: Both physical and total occupancy dropped significantly in 2020 (to 46-47%) due to the pandemic.\n\n2. **Recovery Trajectory**: WeWork projects a strong recovery, with occupancy rates expected to exceed pre-pandemic levels by 2022.\n\n3. **All Access Contribution**: The difference between total occupancy and physical occupancy shows the growing contribution of All Access memberships to overall capacity utilization.\n\n4. **Target Achievement**: The company projects reaching ~70% physical occupancy by Q4 2021 as a key milestone for achieving Adj. EBITDA breakeven (page 27).\n\n**Confidence Level**: HIGH - These figures are directly stated in the financial projections and definitions sections of the document.\n\n**Page References**: Pages 27, 30, and 44.",
+    "model": "claude-sonnet-4-20250514",
+    "input_tokens": 80343,
+    "output_tokens": 453,
+    "total_tokens": 80796,
+    "latency_ms": 15385,
+    "timestamp": "2026-01-29T18:00:43.312728",
+    "cost_usd": 0.247824
+  }
+}

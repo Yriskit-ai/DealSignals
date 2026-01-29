@@ -1,0 +1,15 @@
+{
+  "question_id": "q23",
+  "question_text": "What related-party transactions exist?",
+  "category": "deal_structure",
+  "response": {
+    "content": "Related-party transactions mentioned in the document include:\n\n1. **BowX Policies and Procedures for Related Party Transactions**: BowX's code of ethics aims to avoid related-party transactions that may result in conflicts of interest, except under guidelines approved by the Board of Directors or the Audit Committee\u30104:0\u2020source\u3011.\n\n2. **Transactions with SoftBank**: The company has entered into several transactions with entities where Adam Neumann, the former CEO, and other related parties have ownership interests. This includes discussions to exit certain leases with related parties, presenting potential conflicts of interest\u30104:2\u2020source\u3011\u30104:5\u2020source\u3011.\n\n3. **Stockholders\u2019 Agreement**: WeWork entered into a Stockholders\u2019 Agreement granting observer rights to Mr. Neumann or his designee to attend board meetings of WeWork\u30104:2\u2020source\u3011.\n\n4. **Indebtedness with SBG**: The company has significant financial arrangements with SBG (SoftBank Group), including letters of credit and unsecured debt agreements, presenting possible conflicts of interest\u30104:5\u2020source\u3011.\n\n5. **Vendor Services**: In past fiscal years, the company recognized expenses for services provided by a vendor in which it has an equity method investment or other related party relationship, amounting to millions of dollars over several years\u30104:6\u2020source\u3011.\n\nThis information was extracted from the financial disclosures and regulatory filings presented in the document, which also mentioned policies to manage such transactions and potential conflicts. \n\n**Confidence Level: HIGH** - These transactions and policies are directly stated in the document.",
+    "model": "gpt-4o",
+    "input_tokens": 17702,
+    "output_tokens": 342,
+    "total_tokens": 18044,
+    "latency_ms": 21686,
+    "timestamp": "2026-01-29T18:29:13.667479",
+    "cost_usd": 0.047674999999999995
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "question_id": "q09",
+  "question_text": "What is revenue per available desk/workstation?",
+  "category": "unit_economics",
+  "response": {
+    "content": "Not found in document. \n\nConfidence: HIGH. \n\nThe document does not include specific information about the revenue per available desk or workstation.",
+    "model": "gpt-4o",
+    "input_tokens": 3718,
+    "output_tokens": 75,
+    "total_tokens": 3793,
+    "latency_ms": 6212,
+    "timestamp": "2026-01-29T18:13:52.618101",
+    "cost_usd": 0.010045
+  }
+}

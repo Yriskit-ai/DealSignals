@@ -1,0 +1,15 @@
+{
+  "question_id": "q11",
+  "question_text": "What is member churn rate?",
+  "category": "unit_economics",
+  "response": {
+    "content": "Not found in document.\n\nI searched through all 50 pages of the WeWork SPAC merger document and could not find any specific information about member churn rate. The document covers various membership metrics including membership composition, enterprise mix, commitment lengths, and occupancy rates, but it does not provide data on or define member churn rate.\n\n**Confidence: HIGH** (I thoroughly reviewed the entire document and this metric is not mentioned)\n\n**Note:** While churn rate would be a relevant metric for a membership-based business like WeWork, it is not disclosed in this particular presentation document focused on the SPAC merger transaction.",
+    "model": "claude-sonnet-4-20250514",
+    "input_tokens": 80338,
+    "output_tokens": 136,
+    "total_tokens": 80474,
+    "latency_ms": 10276,
+    "timestamp": "2026-01-29T17:48:44.509906",
+    "cost_usd": 0.243054
+  }
+}

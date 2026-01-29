@@ -1,0 +1,15 @@
+{
+  "question_id": "q16",
+  "question_text": "What happens to the business at 70% occupancy?",
+  "category": "obligations_exposure",
+  "response": {
+    "content": "Based on the document, at 70% physical occupancy WeWork expects to achieve Adjusted EBITDA breakeven.\n\n**Key Information (Page 27, HIGH confidence):**\n\nThe document states: \"~70% Physical occupancy to achieve Adj. EBITDA Breakeven\"\n\n**Path to 70% Occupancy:**\n\nAccording to the projections shown on page 27, WeWork expects to reach approximately 70% physical occupancy by Q4 2021E, which is when they project achieving Adjusted EBITDA breakeven.\n\n**Current Context (Page 14):**\n\n- 2019A: 72% physical occupancy \n- 2020A: 46% physical occupancy (pandemic impact)\n- 2021E: 70% physical occupancy (projected recovery to breakeven)\n\n**Revenue Impact (Page 42):**\n\nThe document indicates that \"1 percentage point of 2023E core occupancy results in ~$59mm of revenue,\" suggesting significant operating leverage as occupancy increases toward the 70% breakeven threshold.\n\n**Caveats:**\n- This breakeven metric appears to be based on Adjusted EBITDA, not net income\n- The 70% figure represents physical occupancy specifically, not total occupancy including All Access memberships\n- Projections are management estimates subject to various business and market risks\n\nThe 70% occupancy level represents a critical inflection point where the business transitions from negative to positive Adjusted EBITDA.",
+    "model": "claude-sonnet-4-20250514",
+    "input_tokens": 80343,
+    "output_tokens": 334,
+    "total_tokens": 80677,
+    "latency_ms": 13997,
+    "timestamp": "2026-01-29T18:01:59.142730",
+    "cost_usd": 0.24603899999999998
+  }
+}

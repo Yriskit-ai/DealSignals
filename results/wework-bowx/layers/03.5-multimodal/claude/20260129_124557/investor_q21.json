@@ -1,0 +1,15 @@
+{
+  "question_id": "q21",
+  "question_text": "Who are the key executives and what is their track record?",
+  "category": "deal_structure",
+  "response": {
+    "content": "Based on the document, here are the key executives and their track record:\n\n## Key Executives (Page 4)\n\n**WeWork:**\n- **Sandeep Mathrani** - Chief Executive Officer\n- **Ben Dunham** - Chief Financial Officer\n\n**BowX Acquisition Corp:**\n- **Vivek Ranadiv\u00e9** - Chairman and Co-CEO\n- **Murray Rode** - Co-CEO and CFO\n\n## Track Records\n\n### Vivek Ranadiv\u00e9 (Pages 5-6)\n- **Experience**: ~4 decades in platform building and technology disruption\n- **Education**: MIT, BS, MS; Harvard MBA Baker Scholar\n- **Key Roles**:\n  - Tech Visionary: Invented middleware, software bus, complex event processing \"Mr. Realtime\"\n  - Company Builder: BowX, Nielsen, TIBCO, Teknekron, WebEx\n  - Sports/Media/Real Estate Operator: CEO of Kings Holdings with $1bn in office, retail, residential, and entertainment assets\n- **Investment Track Record**: Made or directed investments into Google, Golden State Warriors, Sacramento Kings, Yahoo!, WebEx\n\n### WeWork Leadership Team (Page 9)\nThe document highlights an \"experienced, results-driven management team with turnaround expertise\" and notes the leadership team has \"decades of public market experience and proven results within their first 12 months at WeWork.\"\n\n**Key Leaders Include:**\n- **Marcelo Claure** - Executive Chairman, Director\n  - Serves as CEO of SoftBank Group Int'l\n  - Founded the world's largest wireless distribution and services company\n  - Leadership experience: Brightstar, T-Mobile, SoftBank\n\n- **Sandeep Mathrani** - CEO, Director  \n  - Joined WeWork in February 2020\n  - Seasoned veteran with successful turnaround experience\n  - Leadership experience: Brookfield, GGP, ForestCity, Vornado, Host Hotels & Resorts, Dick's Sporting Goods\n\n- **Benjamin Dunham** - CFO\n  - Leadership experience: Pizza Hut, Yum!\n\n- **Anthony Yazbeck** - President and COO, Int'l\n  - Leadership experience: Vicebeaut\u00e9, Vanity Fair\n\n- **Shyam Gidumal** - President and COO, Americas\n  - Leadership experience: EY, McKinsey & Company, BCG\n\n**Confidence**: HIGH - This information is directly stated in the presentation with specific page references and detailed background information for each executive.",
+    "model": "claude-sonnet-4-20250514",
+    "input_tokens": 80343,
+    "output_tokens": 587,
+    "total_tokens": 80930,
+    "latency_ms": 22800,
+    "timestamp": "2026-01-29T17:51:18.403389",
+    "cost_usd": 0.249834
+  }
+}

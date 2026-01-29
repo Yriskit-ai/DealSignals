@@ -1,0 +1,15 @@
+{
+  "question_id": "q33",
+  "question_text": "What are the lock-up agreements?",
+  "category": "governance_control",
+  "response": {
+    "content": "Not found in document. My confidence in this finding is HIGH, as the search did not yield any results related to lock-up agreements.",
+    "model": "gpt-4o",
+    "input_tokens": 3686,
+    "output_tokens": 47,
+    "total_tokens": 3733,
+    "latency_ms": 8410,
+    "timestamp": "2026-01-29T18:17:15.428248",
+    "cost_usd": 0.009685000000000001
+  }
+}

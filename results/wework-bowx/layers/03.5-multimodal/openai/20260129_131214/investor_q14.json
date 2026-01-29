@@ -1,0 +1,15 @@
+{
+  "question_id": "q14",
+  "question_text": "What is the duration profile of lease commitments?",
+  "category": "obligations_exposure",
+  "response": {
+    "content": "Not found in document.\n\nConfidence: HIGH (directly stated that the information is not present in the search results) \n\nCaveats: None of the search results provided details on the duration profile of lease commitments in the document, indicating that this specific information might not be present or might be located in unsearched sections.",
+    "model": "gpt-4o",
+    "input_tokens": 3692,
+    "output_tokens": 86,
+    "total_tokens": 3778,
+    "latency_ms": 7240,
+    "timestamp": "2026-01-29T18:14:34.311883",
+    "cost_usd": 0.01009
+  }
+}

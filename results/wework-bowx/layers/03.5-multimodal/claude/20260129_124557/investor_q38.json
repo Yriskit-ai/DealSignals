@@ -1,0 +1,15 @@
+{
+  "question_id": "q38",
+  "question_text": "What post-merger integration or business model changes were planned?",
+  "category": "synthesis_judgment",
+  "response": {
+    "content": "Based on the document, several significant post-merger integration and business model changes were planned:\n\n**Business Model Evolution (Page 13-14):**\n- **Focus shift**: From \"Core WeWork\" in 2020 to expanding \"beyond core via All Access, Marketplace, and Platform offerings\" going forward\n- **Strategy change**: From \"disciplined focus on cost reduction, identifying the path to profitability, and exiting non-core business lines\" to \"focus on profitable market share expansion, increasing ARPM and asset light buildouts\"\n- **Customer mix**: Shift from \"mix of small and medium-sized businesses, with a shift towards Enterprise\" to \"primarily Enterprise, with a mix of small and medium-sized businesses\"\n\n**Platform and Technology Integration (Pages 21-26):**\n- Development of a \"Worldwide Property Technology Platform\" that provides flexible space management connecting enterprises and landlords\n- Launch of \"All Access\" offering providing on-demand access to global network locations\n- Expansion of \"Marketplace\" services focusing on products with sizable revenue potential\n- Implementation of \"Platform\" model for asset-light management and franchise agreements\n\n**Financial Structure Changes (Page 36-37):**\n- **Total cash proceeds**: $1.283 billion, including $800 million PIPE proceeds (Page 36)\n- **PIPE pricing**: $800 million raised at $10.00 per share (Page 36)\n- **Use of proceeds**: 100% primary use of proceeds for business operations (Page 36)\n\n**Leadership Integration (Page 43):**\nAddition of BowX leadership expertise in platform building, with the post-transaction board consisting of representatives from both companies and key investors.\n\n**Confidence Level:** HIGH - These changes are directly stated in the strategic framework sections of the document.",
+    "model": "claude-sonnet-4-20250514",
+    "input_tokens": 80343,
+    "output_tokens": 396,
+    "total_tokens": 80739,
+    "latency_ms": 17534,
+    "timestamp": "2026-01-29T17:55:24.914305",
+    "cost_usd": 0.246969
+  }
+}

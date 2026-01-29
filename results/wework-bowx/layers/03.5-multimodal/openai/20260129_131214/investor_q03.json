@@ -1,0 +1,15 @@
+{
+  "question_id": "q03",
+  "question_text": "What are operating losses for the most recent period?",
+  "category": "financial_fundamentals",
+  "response": {
+    "content": "Not found in document. Confidence: HIGH. There were no statements or data related to operating losses for the most recent period in the provided document based on the search results.",
+    "model": "gpt-4o",
+    "input_tokens": 3697,
+    "output_tokens": 59,
+    "total_tokens": 3756,
+    "latency_ms": 6914,
+    "timestamp": "2026-01-29T18:13:06.075122",
+    "cost_usd": 0.009832500000000001
+  }
+}

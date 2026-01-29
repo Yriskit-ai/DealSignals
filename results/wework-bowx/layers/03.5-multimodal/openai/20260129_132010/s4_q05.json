@@ -1,0 +1,15 @@
+{
+  "question_id": "q05",
+  "question_text": "What is the cash runway at current burn rate?",
+  "category": "financial_fundamentals",
+  "response": {
+    "content": "The document does not specifically provide information on the cash runway at the current burn rate. However, it does provide some financial metrics that might be relevant for deriving this information, such as cash flow from operations and liquidity details.\n\nFor example, for the six months ended June 30, 2021, WeWork's net cash used in operating activities was approximately $1,158,957,000\u30104:12\u2020S-4_A.pdf\u3011. Additionally, as of June 30, 2021, they had cash, cash equivalents, and restricted cash totaling $855,485,000\u30104:7\u2020S-4_A.pdf\u3011.\n\nTo calculate a cash runway, you would typically divide the total cash available by the burn rate. However, the exact burn rate (monthly cash burn) is not explicitly stated in the document, so an exact cash runway cannot be calculated from the available information.\n\nConfidence level: LOW (inferred from available data).",
+    "model": "gpt-4o",
+    "input_tokens": 16768,
+    "output_tokens": 236,
+    "total_tokens": 17004,
+    "latency_ms": 22826,
+    "timestamp": "2026-01-29T18:22:49.749556",
+    "cost_usd": 0.04428000000000001
+  }
+}

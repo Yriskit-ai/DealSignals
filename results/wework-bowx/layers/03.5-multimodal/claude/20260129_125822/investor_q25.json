@@ -1,0 +1,15 @@
+{
+  "question_id": "q25",
+  "question_text": "What is Adam Neumann's ongoing relationship/exposure?",
+  "category": "risk_red_flags",
+  "response": {
+    "content": "Based on my review of the document, I found no information about Adam Neumann's ongoing relationship with or exposure to WeWork.\n\n**Not found in document.**\n\nThe document focuses on the current management team and the SPAC merger transaction, but does not discuss Adam Neumann's current role, ownership stake, or any ongoing involvement with the company. The presentation appears to be forward-looking, emphasizing the new leadership team under CEO Sandeep Mathrani and the company's transformation since 2020.\n\n**Confidence: HIGH** - I thoroughly reviewed all pages of the document and found no references to Adam Neumann's current status with WeWork.",
+    "model": "claude-sonnet-4-20250514",
+    "input_tokens": 80343,
+    "output_tokens": 143,
+    "total_tokens": 80486,
+    "latency_ms": 10148,
+    "timestamp": "2026-01-29T18:04:18.348658",
+    "cost_usd": 0.243174
+  }
+}

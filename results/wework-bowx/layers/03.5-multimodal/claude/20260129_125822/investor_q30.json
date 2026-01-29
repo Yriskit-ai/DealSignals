@@ -1,0 +1,15 @@
+{
+  "question_id": "q30",
+  "question_text": "Are there any material weaknesses in internal controls?",
+  "category": "risk_red_flags",
+  "response": {
+    "content": "Not found in document.\n\n**Confidence: HIGH** (directly stated absence of information)\n\nThe document does not contain any discussion of internal controls or material weaknesses in internal controls. This is a WeWork investor presentation from March 2021 focused on the business overview and SPAC merger transaction, but it does not include information about internal control assessments, management's report on internal controls, or any auditor opinions regarding material weaknesses.\n\n**Note:** Material weakness disclosures would typically be found in SEC filings such as Form 10-K, Form 10-Q, or proxy statements rather than in investor presentations like this one.",
+    "model": "claude-sonnet-4-20250514",
+    "input_tokens": 80341,
+    "output_tokens": 138,
+    "total_tokens": 80479,
+    "latency_ms": 9247,
+    "timestamp": "2026-01-29T18:05:27.693525",
+    "cost_usd": 0.24309299999999998
+  }
+}

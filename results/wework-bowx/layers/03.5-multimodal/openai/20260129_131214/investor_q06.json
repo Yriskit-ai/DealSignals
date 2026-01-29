@@ -1,0 +1,15 @@
+{
+  "question_id": "q06",
+  "question_text": "What is the path to profitability and timeline stated?",
+  "category": "financial_fundamentals",
+  "response": {
+    "content": "Not found in document.\n\nConfidence: HIGH (since the search did not return relevant information). \n\nCaveats: The document may use different terms or wording to describe the path to profitability and timeline, which didn't match the search query.",
+    "model": "gpt-4o",
+    "input_tokens": 3693,
+    "output_tokens": 68,
+    "total_tokens": 3761,
+    "latency_ms": 7195,
+    "timestamp": "2026-01-29T18:13:32.302513",
+    "cost_usd": 0.009912500000000001
+  }
+}

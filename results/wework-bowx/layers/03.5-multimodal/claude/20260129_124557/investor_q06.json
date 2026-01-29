@@ -1,0 +1,15 @@
+{
+  "question_id": "q06",
+  "question_text": "What is the path to profitability and timeline stated?",
+  "category": "financial_fundamentals",
+  "response": {
+    "content": "Based on the document, here is WeWork's path to profitability and timeline:\n\n## Path to Profitability\n\n**Clear Path to Adj. EBITDA Breakeven** (Page 27, HIGH confidence):\n- WeWork expects to achieve **Adj. EBITDA breakeven by Q4 2021** (approximately 70% physical occupancy required)\n- The company projects a clear progression from negative Adj. EBITDA margins to positive margins over time\n\n## Financial Timeline and Targets\n\n**2024 Financial Targets** (Page 29, HIGH confidence):\n- **Revenue**: $7.0B (excluding ChinaCo)\n- **Adj. EBITDA**: $2.0B \n- **Adj. EBITDA Margin**: 29%\n\n**Quarterly Progression** (Page 27, HIGH confidence):\n- **Q4 2021E**: Adj. EBITDA breakeven (~$8M)\n- **2022E**: $485M Adj. EBITDA (11% margin)\n- **2023E**: $1.4B Adj. EBITDA (23% margin)\n- **2024E**: $2.0B Adj. EBITDA (29% margin)\n\n## Key Drivers\n\n**Occupancy Recovery** (Page 30, MEDIUM confidence):\n- Physical occupancy expected to recover from 46% (2020A) to 85% (2024E)\n- Total occupancy (including All Access) projected to reach 95% by 2024E\n\n**Revenue Growth** (Page 31, HIGH confidence):\n- Core Leased revenue growth from $3.2B (2021E) to $7.0B (2024E)\n- Supplemented by All Access, Marketplace, and Platform revenue streams\n\nThe document emphasizes that WeWork has \"refocused and repositioned\" itself after significant cost optimization efforts in 2020, setting up this path to profitability.",
+    "model": "claude-sonnet-4-20250514",
+    "input_tokens": 80343,
+    "output_tokens": 457,
+    "total_tokens": 80800,
+    "latency_ms": 16310,
+    "timestamp": "2026-01-29T17:47:28.412886",
+    "cost_usd": 0.247884
+  }
+}

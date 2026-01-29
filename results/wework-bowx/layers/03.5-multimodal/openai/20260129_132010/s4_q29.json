@@ -1,0 +1,15 @@
+{
+  "question_id": "q29",
+  "question_text": "What did the auditors say?",
+  "category": "risk_red_flags",
+  "response": {
+    "content": "The auditors have expressed the opinion that the financial statements present fairly, in all material respects, the financial position of the Company as of December 31, 2020, and the results of its operations and its cash flows for the period from May 19, 2020 (inception) through December 31, 2020, in conformity with accounting principles generally accepted in the United States of America\u30104:3\u2020S-4_A.pdf\u3011. Additionally, they noted that the 2020 financial statements have been restated to correct the accounting and related disclosure for warrants, following a public statement by the SEC regarding the accounting of certain warrants as liabilities\u30104:3\u2020S-4_A.pdf\u3011.\n\nThe audit report also clarifies that the audit was conducted to obtain reasonable assurance about whether the financial statements are free of material misstatement, whether due to error or fraud. It included procedures to assess the risks of material misstatement and obtaining an understanding of internal control over financial reporting, though not for expressing an opinion on its effectiveness\u30104:3\u2020S-4_A.pdf\u3011\u30104:6\u2020S-4_A.pdf\u3011.\n\nThe financial statements of WeWork Inc. were audited by Ernst & Young LLP, while those of BowX Acquisition Corp. were audited by Withum Smith+Brown, PC\u30104:18\u2020S-4_A.pdf\u3011.\n\nConfidence: HIGH (based on direct quotes from the auditors\u2019 report).",
+    "model": "gpt-4o",
+    "input_tokens": 18033,
+    "output_tokens": 330,
+    "total_tokens": 18363,
+    "latency_ms": 36710,
+    "timestamp": "2026-01-29T18:32:04.347854",
+    "cost_usd": 0.048382499999999995
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "question_id": "q19",
+  "question_text": "What valuation methodology is used to justify the price?",
+  "category": "deal_structure",
+  "response": {
+    "content": "Based on my review of the document, the valuation methodology includes the following approaches:\n\n**Primary Valuation Metrics (Page 37):**\n\n1. **Revenue Multiple:**\n   - TEV / 2022E Revenue: 2.0x on $4.6bn revenue (MEDIUM confidence - directly calculated from stated figures)\n\n2. **EBITDA Multiple:**\n   - TEV / 2023E Adj. EBITDA: 6.6x on $1.4bn Adj. EBITDA (HIGH confidence - directly stated on page 37)\n\n**Pro Forma Valuation Details (Page 37):**\n- Illustrative WeWork Share Price: $10.00\n- Pro Forma Shares Outstanding: 792.7 million\n- **Pro Forma Equity Value: $7.927 billion**\n- WeWork Enterprise Value: $8.966 billion\n\n**Transaction Structure (Page 36):**\n- $1.283 million total cash proceeds, including $800 million PIPE proceeds\n- $800 million PIPE raised at $10.00 per share\n- 100% primary use of proceeds\n\n**Caveats and Limitations:**\n1. The document notes these are \"Management Projections\" with inherent uncertainty (pages 2-3)\n2. Forward-looking statements are subject to risks and may not be achieved\n3. The $10.00 share price appears to be an \"illustrative\" price rather than a market-determined valuation\n4. Valuation is based on projected 2022-2023 financial performance, not historical results\n\n**Confidence Level:** MEDIUM - The valuation multiples are clearly stated, but they rely heavily on forward-looking projections rather than historical performance, and the share price appears to be illustrative rather than market-validated.",
+    "model": "claude-sonnet-4-20250514",
+    "input_tokens": 80342,
+    "output_tokens": 413,
+    "total_tokens": 80755,
+    "latency_ms": 16717,
+    "timestamp": "2026-01-29T17:50:39.957644",
+    "cost_usd": 0.247221
+  }
+}

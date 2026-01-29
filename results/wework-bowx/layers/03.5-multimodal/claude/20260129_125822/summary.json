@@ -1,0 +1,338 @@
+{
+  "provider": "claude",
+  "document": "/home/leo/dev/projects/DealSignals/.worktrees/layer-3.5-multimodal/.data/WeWork-Management-Presentation-March-2021-vF-1.pdf",
+  "document_id": "investor",
+  "run_id": "20260129_125822",
+  "started_at": "2026-01-29T17:58:22.235132",
+  "questions": [
+    {
+      "id": "q01",
+      "status": "completed",
+      "latency_ms": 11831,
+      "input_tokens": 80344,
+      "output_tokens": 199,
+      "cost_usd": 0.24401699999999998
+    },
+    {
+      "id": "q02",
+      "status": "completed",
+      "latency_ms": 11869,
+      "input_tokens": 80343,
+      "output_tokens": 324,
+      "cost_usd": 0.245889
+    },
+    {
+      "id": "q03",
+      "status": "completed",
+      "latency_ms": 13108,
+      "input_tokens": 80341,
+      "output_tokens": 272,
+      "cost_usd": 0.245103
+    },
+    {
+      "id": "q04",
+      "status": "completed",
+      "latency_ms": 12739,
+      "input_tokens": 80338,
+      "output_tokens": 314,
+      "cost_usd": 0.245724
+    },
+    {
+      "id": "q05",
+      "status": "completed",
+      "latency_ms": 15261,
+      "input_tokens": 80341,
+      "output_tokens": 315,
+      "cost_usd": 0.245748
+    },
+    {
+      "id": "q06",
+      "status": "completed",
+      "latency_ms": 16069,
+      "input_tokens": 80343,
+      "output_tokens": 422,
+      "cost_usd": 0.247359
+    },
+    {
+      "id": "q07",
+      "status": "completed",
+      "latency_ms": 17997,
+      "input_tokens": 80341,
+      "output_tokens": 599,
+      "cost_usd": 0.250008
+    },
+    {
+      "id": "q08",
+      "status": "completed",
+      "latency_ms": 12572,
+      "input_tokens": 80338,
+      "output_tokens": 304,
+      "cost_usd": 0.24557400000000001
+    },
+    {
+      "id": "q09",
+      "status": "completed",
+      "latency_ms": 13772,
+      "input_tokens": 80341,
+      "output_tokens": 414,
+      "cost_usd": 0.24723299999999998
+    },
+    {
+      "id": "q10",
+      "status": "completed",
+      "latency_ms": 15385,
+      "input_tokens": 80343,
+      "output_tokens": 453,
+      "cost_usd": 0.247824
+    },
+    {
+      "id": "q11",
+      "status": "completed",
+      "latency_ms": 12994,
+      "input_tokens": 80338,
+      "output_tokens": 178,
+      "cost_usd": 0.243684
+    },
+    {
+      "id": "q12",
+      "status": "completed",
+      "latency_ms": 13753,
+      "input_tokens": 80339,
+      "output_tokens": 296,
+      "cost_usd": 0.24545699999999998
+    },
+    {
+      "id": "q13",
+      "status": "completed",
+      "latency_ms": 11975,
+      "input_tokens": 80337,
+      "output_tokens": 219,
+      "cost_usd": 0.24429600000000004
+    },
+    {
+      "id": "q14",
+      "status": "completed",
+      "latency_ms": 12814,
+      "input_tokens": 80341,
+      "output_tokens": 242,
+      "cost_usd": 0.24465299999999998
+    },
+    {
+      "id": "q15",
+      "status": "completed",
+      "latency_ms": 10010,
+      "input_tokens": 80339,
+      "output_tokens": 147,
+      "cost_usd": 0.243222
+    },
+    {
+      "id": "q16",
+      "status": "completed",
+      "latency_ms": 13997,
+      "input_tokens": 80343,
+      "output_tokens": 334,
+      "cost_usd": 0.24603899999999998
+    },
+    {
+      "id": "q17",
+      "status": "completed",
+      "latency_ms": 15266,
+      "input_tokens": 80343,
+      "output_tokens": 354,
+      "cost_usd": 0.246339
+    },
+    {
+      "id": "q18",
+      "status": "completed",
+      "latency_ms": 10616,
+      "input_tokens": 80338,
+      "output_tokens": 175,
+      "cost_usd": 0.243639
+    },
+    {
+      "id": "q19",
+      "status": "completed",
+      "latency_ms": 16808,
+      "input_tokens": 80342,
+      "output_tokens": 395,
+      "cost_usd": 0.24695099999999998
+    },
+    {
+      "id": "q20",
+      "status": "completed",
+      "latency_ms": 13242,
+      "input_tokens": 80339,
+      "output_tokens": 282,
+      "cost_usd": 0.245247
+    },
+    {
+      "id": "q21",
+      "status": "completed",
+      "latency_ms": 24800,
+      "input_tokens": 80343,
+      "output_tokens": 727,
+      "cost_usd": 0.251934
+    },
+    {
+      "id": "q22",
+      "status": "completed",
+      "latency_ms": 16617,
+      "input_tokens": 80342,
+      "output_tokens": 401,
+      "cost_usd": 0.24704099999999998
+    },
+    {
+      "id": "q23",
+      "status": "completed",
+      "latency_ms": 17268,
+      "input_tokens": 80338,
+      "output_tokens": 431,
+      "cost_usd": 0.247479
+    },
+    {
+      "id": "q24",
+      "status": "completed",
+      "latency_ms": 14028,
+      "input_tokens": 80343,
+      "output_tokens": 286,
+      "cost_usd": 0.24531899999999998
+    },
+    {
+      "id": "q25",
+      "status": "completed",
+      "latency_ms": 10148,
+      "input_tokens": 80343,
+      "output_tokens": 143,
+      "cost_usd": 0.243174
+    },
+    {
+      "id": "q26",
+      "status": "completed",
+      "latency_ms": 14076,
+      "input_tokens": 80339,
+      "output_tokens": 312,
+      "cost_usd": 0.24569699999999997
+    },
+    {
+      "id": "q27",
+      "status": "completed",
+      "latency_ms": 15951,
+      "input_tokens": 80339,
+      "output_tokens": 317,
+      "cost_usd": 0.245772
+    },
+    {
+      "id": "q28",
+      "status": "completed",
+      "latency_ms": 17937,
+      "input_tokens": 80339,
+      "output_tokens": 372,
+      "cost_usd": 0.24659699999999998
+    },
+    {
+      "id": "q29",
+      "status": "completed",
+      "latency_ms": 11920,
+      "input_tokens": 80338,
+      "output_tokens": 174,
+      "cost_usd": 0.243624
+    },
+    {
+      "id": "q30",
+      "status": "completed",
+      "latency_ms": 9247,
+      "input_tokens": 80341,
+      "output_tokens": 138,
+      "cost_usd": 0.24309299999999998
+    },
+    {
+      "id": "q31",
+      "status": "completed",
+      "latency_ms": 11758,
+      "input_tokens": 80340,
+      "output_tokens": 214,
+      "cost_usd": 0.24422999999999997
+    },
+    {
+      "id": "q32",
+      "status": "completed",
+      "latency_ms": 13015,
+      "input_tokens": 80340,
+      "output_tokens": 263,
+      "cost_usd": 0.244965
+    },
+    {
+      "id": "q33",
+      "status": "completed",
+      "latency_ms": 13365,
+      "input_tokens": 80339,
+      "output_tokens": 247,
+      "cost_usd": 0.244722
+    },
+    {
+      "id": "q34",
+      "status": "completed",
+      "latency_ms": 15833,
+      "input_tokens": 80336,
+      "output_tokens": 312,
+      "cost_usd": 0.245688
+    },
+    {
+      "id": "q35",
+      "status": "completed",
+      "latency_ms": 17278,
+      "input_tokens": 80340,
+      "output_tokens": 394,
+      "cost_usd": 0.24692999999999998
+    },
+    {
+      "id": "q36",
+      "status": "completed",
+      "latency_ms": 12253,
+      "input_tokens": 80336,
+      "output_tokens": 262,
+      "cost_usd": 0.244938
+    },
+    {
+      "id": "q37",
+      "status": "completed",
+      "latency_ms": 15984,
+      "input_tokens": 80344,
+      "output_tokens": 353,
+      "cost_usd": 0.246327
+    },
+    {
+      "id": "q38",
+      "status": "completed",
+      "latency_ms": 20259,
+      "input_tokens": 80343,
+      "output_tokens": 473,
+      "cost_usd": 0.24812399999999998
+    },
+    {
+      "id": "q39",
+      "status": "completed",
+      "latency_ms": 16114,
+      "input_tokens": 80340,
+      "output_tokens": 389,
+      "cost_usd": 0.246855
+    },
+    {
+      "id": "q40",
+      "status": "completed",
+      "latency_ms": 22519,
+      "input_tokens": 80341,
+      "output_tokens": 570,
+      "cost_usd": 0.249573
+    }
+  ],
+  "summary": {
+    "total": 40,
+    "completed": 40,
+    "failed": 0,
+    "total_cost": 9.836088,
+    "total_tokens": 3226632,
+    "total_latency_ms": 582448
+  },
+  "finished_at": "2026-01-29T18:08:06.475154"
+}

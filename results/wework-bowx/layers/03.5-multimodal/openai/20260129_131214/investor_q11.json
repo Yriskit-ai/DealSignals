@@ -1,0 +1,15 @@
+{
+  "question_id": "q11",
+  "question_text": "What is member churn rate?",
+  "category": "unit_economics",
+  "response": {
+    "content": "The document does not define \"member churn rate.\" Therefore, the information is \"Not found in document.\" My confidence in this statement is HIGH, as the search did not return relevant information regarding member churn rate.",
+    "model": "gpt-4o",
+    "input_tokens": 3687,
+    "output_tokens": 65,
+    "total_tokens": 3752,
+    "latency_ms": 13169,
+    "timestamp": "2026-01-29T18:14:13.278824",
+    "cost_usd": 0.0098675
+  }
+}

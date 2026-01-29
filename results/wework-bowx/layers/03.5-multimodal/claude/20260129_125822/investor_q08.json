@@ -1,0 +1,15 @@
+{
+  "question_id": "q08",
+  "question_text": "What is contribution margin per membership?",
+  "category": "unit_economics",
+  "response": {
+    "content": "Based on my review of the document, I cannot find a specific \"contribution margin per membership\" metric directly stated. However, I can identify some related metrics that may be relevant:\n\n**Related Financial Metrics Found:**\n\n1. **Core Leased ARPM (Average Revenue Per Member)** (page 41):\n   - 2020A: $510\n   - 2021E: $542\n   - 2022E: $554\n   - 2023E: $576\n   - 2024E: $598\n\n2. **All Access ARPM** (page 41):\n   - 2021E: $250\n   - 2022E: $256\n   - 2023E: $270\n   - 2024E: $287\n\n3. **Location Contribution Margin percentages** are mentioned (pages 47-48) but not broken down per membership.\n\n**Confidence: MEDIUM** - While the document provides ARPM data and discusses contribution margins at the location level, it does not explicitly calculate or present \"contribution margin per membership\" as a standalone metric.\n\n**Limitation:** The document focuses more on location-level contribution margins and revenue per member metrics rather than contribution margin per individual membership. To calculate contribution margin per membership, one would need additional data on variable costs per member that is not clearly presented in this format in the document.",
+    "model": "claude-sonnet-4-20250514",
+    "input_tokens": 80338,
+    "output_tokens": 304,
+    "total_tokens": 80642,
+    "latency_ms": 12572,
+    "timestamp": "2026-01-29T18:00:14.060878",
+    "cost_usd": 0.24557400000000001
+  }
+}

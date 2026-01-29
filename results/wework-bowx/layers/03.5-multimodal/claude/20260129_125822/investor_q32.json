@@ -1,0 +1,15 @@
+{
+  "question_id": "q32",
+  "question_text": "What is the voting structure post-merger?",
+  "category": "governance_control",
+  "response": {
+    "content": "Based on the information in the document, I need to clarify that this document does not contain specific details about the voting structure post-merger.\n\n**What I can confirm from the document (page 37):**\n\n- **Pro forma ownership breakdown:**\n  - Existing WeWork Rollover Equity: 82.7%\n  - PIPE Shares: 10.1%\n  - BowX Public Shares: 6.1%\n  - BowX Founder Shares: 1.1%\n\n**What is NOT found in this document:**\n- Specific voting rights or voting structure details\n- Different classes of shares with varying voting rights\n- Any special voting arrangements or restrictions\n- Board voting control mechanisms beyond the basic composition\n\n**Confidence: MEDIUM** - The ownership structure is clearly stated, but voting structure details are not provided in this presentation.\n\n**Caveat:** This appears to be a high-level investor presentation rather than a detailed proxy statement or merger agreement, which would typically contain the specific voting structure information. For complete voting structure details, you would need to refer to the definitive proxy statement/prospectus mentioned on page 2 that will be filed with the SEC.",
+    "model": "claude-sonnet-4-20250514",
+    "input_tokens": 80340,
+    "output_tokens": 263,
+    "total_tokens": 80603,
+    "latency_ms": 13015,
+    "timestamp": "2026-01-29T18:05:52.561134",
+    "cost_usd": 0.244965
+  }
+}

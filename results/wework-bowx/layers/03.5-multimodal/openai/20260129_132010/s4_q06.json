@@ -1,0 +1,15 @@
+{
+  "question_id": "q06",
+  "question_text": "What is the path to profitability and timeline stated?",
+  "category": "financial_fundamentals",
+  "response": {
+    "content": "The path to profitability and the timeline for achieving it is not explicitly stated with specific dates but can be inferred from several statements in the document. WeWork's strategic plan involves achieving profitability and positive cash flow from operations depending on various factors such as location occupancy, pricing rates, success in cost efficiency, market conditions, and economic factors\u30104:3\u2020source\u3011. Additionally, the company's projections show an improvement from a negative adjusted EBITDA in earlier years to positive values starting in 2022, with an adjusted EBITDA of $485 million projected for 2022 and $1,359 million for 2023\u30104:1\u2020source\u3011.\n\nHowever, the actual timing to profitability could be affected by macroeconomic conditions and the company's strategic choices, such as pursuing more growth initiatives, which may require additional capital\u30104:3\u2020source\u3011. It's important to note that projections are subject to significant uncertainties and may not be fully reliable\u30104:13\u2020source\u3011.\n\nConfidence: MEDIUM. The timeline is inferred based on projected financial data rather than a direct statement of a timeline.",
+    "model": "gpt-4o",
+    "input_tokens": 18130,
+    "output_tokens": 257,
+    "total_tokens": 18387,
+    "latency_ms": 24550,
+    "timestamp": "2026-01-29T18:23:14.437659",
+    "cost_usd": 0.04789500000000001
+  }
+}

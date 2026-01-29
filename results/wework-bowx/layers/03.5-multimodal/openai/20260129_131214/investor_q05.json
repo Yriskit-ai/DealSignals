@@ -1,0 +1,15 @@
+{
+  "question_id": "q05",
+  "question_text": "What is the cash runway at current burn rate?",
+  "category": "financial_fundamentals",
+  "response": {
+    "content": "Not found in document. \n\nConfidence: HIGH. The search did not return specific details related to the cash runway or current burn rate. Additionally, there is a limitation as the document does not seem to contain any direct financial summary or relevant metrics regarding cash runway or burn rate based on the search results.",
+    "model": "gpt-4o",
+    "input_tokens": 3701,
+    "output_tokens": 92,
+    "total_tokens": 3793,
+    "latency_ms": 10431,
+    "timestamp": "2026-01-29T18:13:24.957502",
+    "cost_usd": 0.010172500000000001
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "question_id": "q12",
+  "question_text": "What is the average revenue per member?",
+  "category": "unit_economics",
+  "response": {
+    "content": "Not found in document. My confidence in this response is HIGH as the search did not yield relevant data regarding the average revenue per member.",
+    "model": "gpt-4o",
+    "input_tokens": 3689,
+    "output_tokens": 48,
+    "total_tokens": 3737,
+    "latency_ms": 5960,
+    "timestamp": "2026-01-29T18:14:19.401535",
+    "cost_usd": 0.0097025
+  }
+}

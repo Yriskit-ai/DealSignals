@@ -1,0 +1,15 @@
+{
+  "question_id": "q29",
+  "question_text": "What did the auditors say?",
+  "category": "risk_red_flags",
+  "response": {
+    "content": "I cannot find any information about auditors or audit opinions in this document.\n\n**Confidence: HIGH** - I have thoroughly reviewed all 50 pages of the WeWork presentation document dated March 2021, and there is no mention of auditors, audit reports, audit opinions, or any auditor commentary anywhere in the document.\n\n**Limitation**: This appears to be an investor presentation/pitch deck for WeWork's SPAC merger with BowX Acquisition Corp., not an audited financial statement or filing that would typically contain auditor opinions or commentary.",
+    "model": "claude-sonnet-4-20250514",
+    "input_tokens": 80338,
+    "output_tokens": 121,
+    "total_tokens": 80459,
+    "latency_ms": 9754,
+    "timestamp": "2026-01-29T17:53:12.068641",
+    "cost_usd": 0.24282900000000002
+  }
+}

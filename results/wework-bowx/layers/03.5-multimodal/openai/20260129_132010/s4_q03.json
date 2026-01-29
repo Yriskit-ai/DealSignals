@@ -1,0 +1,15 @@
+{
+  "question_id": "q03",
+  "question_text": "What are operating losses for the most recent period?",
+  "category": "financial_fundamentals",
+  "response": {
+    "content": "The operating losses for the most recent period, which is the six months ended June 30, 2021, were $1.3 billion as indicated by the free cash flow, which represents net cash used in operating activities\u30104:9\u2020source\u3011. This figure is corroborated by the statement that the company had a net loss of $3.0 billion for the same period\u30104:0\u2020source\u3011.\n\nConfidence: HIGH (information is directly cited from the document). \n\nCaveats: The figure is representative of both cash flow and net loss, and other figures like net loss attributable to noncontrolling interests can affect the overall interpretation of operating losses.",
+    "model": "gpt-4o",
+    "input_tokens": 17713,
+    "output_tokens": 161,
+    "total_tokens": 17874,
+    "latency_ms": 16742,
+    "timestamp": "2026-01-29T18:21:55.003877",
+    "cost_usd": 0.0458925
+  }
+}

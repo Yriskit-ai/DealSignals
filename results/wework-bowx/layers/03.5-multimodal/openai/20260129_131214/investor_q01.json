@@ -1,0 +1,15 @@
+{
+  "question_id": "q01",
+  "question_text": "What is WeWork's revenue for the most recent reported period?",
+  "category": "financial_fundamentals",
+  "response": {
+    "content": "Not found in document. \n\nThe document provided does not contain specific information about WeWork's revenue for the most recent reported period. My confidence in this answer is HIGH, as the search did not yield relevant financial data within the document provided.",
+    "model": "gpt-4o",
+    "input_tokens": 3701,
+    "output_tokens": 71,
+    "total_tokens": 3772,
+    "latency_ms": 35254,
+    "timestamp": "2026-01-29T18:12:49.523859",
+    "cost_usd": 0.009962500000000001
+  }
+}

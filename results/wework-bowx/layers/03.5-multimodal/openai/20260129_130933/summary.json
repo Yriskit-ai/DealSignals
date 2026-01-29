@@ -1,0 +1,218 @@
+{
+  "provider": "openai",
+  "document": "/home/leo/dev/projects/DealSignals/.worktrees/layer-3.5-multimodal/.data/WeWork-Management-Presentation-March-2021-vF-1.pdf",
+  "document_id": "investor",
+  "run_id": "20260129_130933",
+  "started_at": "2026-01-29T18:09:33.448285",
+  "questions": [
+    {
+      "id": "q01",
+      "status": "failed",
+      "error": "'Beta' object has no attribute 'vector_stores'"
+    },
+    {
+      "id": "q02",
+      "status": "failed",
+      "error": "'Beta' object has no attribute 'vector_stores'"
+    },
+    {
+      "id": "q03",
+      "status": "failed",
+      "error": "'Beta' object has no attribute 'vector_stores'"
+    },
+    {
+      "id": "q04",
+      "status": "failed",
+      "error": "'Beta' object has no attribute 'vector_stores'"
+    },
+    {
+      "id": "q05",
+      "status": "failed",
+      "error": "'Beta' object has no attribute 'vector_stores'"
+    },
+    {
+      "id": "q06",
+      "status": "failed",
+      "error": "'Beta' object has no attribute 'vector_stores'"
+    },
+    {
+      "id": "q07",
+      "status": "failed",
+      "error": "'Beta' object has no attribute 'vector_stores'"
+    },
+    {
+      "id": "q08",
+      "status": "failed",
+      "error": "'Beta' object has no attribute 'vector_stores'"
+    },
+    {
+      "id": "q09",
+      "status": "failed",
+      "error": "'Beta' object has no attribute 'vector_stores'"
+    },
+    {
+      "id": "q10",
+      "status": "failed",
+      "error": "'Beta' object has no attribute 'vector_stores'"
+    },
+    {
+      "id": "q11",
+      "status": "failed",
+      "error": "'Beta' object has no attribute 'vector_stores'"
+    },
+    {
+      "id": "q12",
+      "status": "failed",
+      "error": "'Beta' object has no attribute 'vector_stores'"
+    },
+    {
+      "id": "q13",
+      "status": "failed",
+      "error": "'Beta' object has no attribute 'vector_stores'"
+    },
+    {
+      "id": "q14",
+      "status": "failed",
+      "error": "'Beta' object has no attribute 'vector_stores'"
+    },
+    {
+      "id": "q15",
+      "status": "failed",
+      "error": "'Beta' object has no attribute 'vector_stores'"
+    },
+    {
+      "id": "q16",
+      "status": "failed",
+      "error": "'Beta' object has no attribute 'vector_stores'"
+    },
+    {
+      "id": "q17",
+      "status": "failed",
+      "error": "'Beta' object has no attribute 'vector_stores'"
+    },
+    {
+      "id": "q18",
+      "status": "failed",
+      "error": "'Beta' object has no attribute 'vector_stores'"
+    },
+    {
+      "id": "q19",
+      "status": "failed",
+      "error": "'Beta' object has no attribute 'vector_stores'"
+    },
+    {
+      "id": "q20",
+      "status": "failed",
+      "error": "'Beta' object has no attribute 'vector_stores'"
+    },
+    {
+      "id": "q21",
+      "status": "failed",
+      "error": "'Beta' object has no attribute 'vector_stores'"
+    },
+    {
+      "id": "q22",
+      "status": "failed",
+      "error": "'Beta' object has no attribute 'vector_stores'"
+    },
+    {
+      "id": "q23",
+      "status": "failed",
+      "error": "'Beta' object has no attribute 'vector_stores'"
+    },
+    {
+      "id": "q24",
+      "status": "failed",
+      "error": "'Beta' object has no attribute 'vector_stores'"
+    },
+    {
+      "id": "q25",
+      "status": "failed",
+      "error": "'Beta' object has no attribute 'vector_stores'"
+    },
+    {
+      "id": "q26",
+      "status": "failed",
+      "error": "'Beta' object has no attribute 'vector_stores'"
+    },
+    {
+      "id": "q27",
+      "status": "failed",
+      "error": "'Beta' object has no attribute 'vector_stores'"
+    },
+    {
+      "id": "q28",
+      "status": "failed",
+      "error": "'Beta' object has no attribute 'vector_stores'"
+    },
+    {
+      "id": "q29",
+      "status": "failed",
+      "error": "'Beta' object has no attribute 'vector_stores'"
+    },
+    {
+      "id": "q30",
+      "status": "failed",
+      "error": "'Beta' object has no attribute 'vector_stores'"
+    },
+    {
+      "id": "q31",
+      "status": "failed",
+      "error": "'Beta' object has no attribute 'vector_stores'"
+    },
+    {
+      "id": "q32",
+      "status": "failed",
+      "error": "'Beta' object has no attribute 'vector_stores'"
+    },
+    {
+      "id": "q33",
+      "status": "failed",
+      "error": "'Beta' object has no attribute 'vector_stores'"
+    },
+    {
+      "id": "q34",
+      "status": "failed",
+      "error": "'Beta' object has no attribute 'vector_stores'"
+    },
+    {
+      "id": "q35",
+      "status": "failed",
+      "error": "'Beta' object has no attribute 'vector_stores'"
+    },
+    {
+      "id": "q36",
+      "status": "failed",
+      "error": "'Beta' object has no attribute 'vector_stores'"
+    },
+    {
+      "id": "q37",
+      "status": "failed",
+      "error": "'Beta' object has no attribute 'vector_stores'"
+    },
+    {
+      "id": "q38",
+      "status": "failed",
+      "error": "'Beta' object has no attribute 'vector_stores'"
+    },
+    {
+      "id": "q39",
+      "status": "failed",
+      "error": "'Beta' object has no attribute 'vector_stores'"
+    },
+    {
+      "id": "q40",
+      "status": "failed",
+      "error": "'Beta' object has no attribute 'vector_stores'"
+    }
+  ],
+  "summary": {
+    "total": 40,
+    "completed": 0,
+    "failed": 40,
+    "total_cost": 0.0,
+    "total_tokens": 0,
+    "total_latency_ms": 0
+  },
+  "finished_at": "2026-01-29T18:09:33.739541"
+}

@@ -1,0 +1,15 @@
+{
+  "question_id": "q27",
+  "question_text": "Are there any material litigation or disputes?",
+  "category": "risk_red_flags",
+  "response": {
+    "content": "The document highlights that there are ongoing legal matters and potential for litigation related to internal control weaknesses. As of the date of the document, there are no known material litigation or disputes, but the possibility of such cannot be ruled out for the future. The company does have several other litigation matters and regulatory matters that are not in the normal course of business, which they intend to defend vigorously\u30104:0\u2020S-4_A.pdf\u3011. Additionally, the document details class and derivative lawsuits such as \"Carter v. Neumann, et al.\" and \"Won v. Neumann, et al.\" that involve allegations of breached fiduciary duties\u30104:1\u2020S-4_A.pdf\u3011\u30104:4\u2020S-4_A.pdf\u3011.\n\nThe company regularly reviews its litigation-related reserves and believes none of the current matters will have a material effect on its financial position, but acknowledges the inherent unpredictability and potential for significant loss\u30104:6\u2020S-4_A.pdf\u3011\u30104:9\u2020S-4_A.pdf\u3011\u30104:12\u2020S-4_A.pdf\u3011.\n\nConfidence: HIGH, as these details are directly stated or summarized from the document.",
+    "model": "gpt-4o",
+    "input_tokens": 18377,
+    "output_tokens": 272,
+    "total_tokens": 18649,
+    "latency_ms": 37348,
+    "timestamp": "2026-01-29T18:31:10.459525",
+    "cost_usd": 0.048662500000000004
+  }
+}

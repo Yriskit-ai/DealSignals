@@ -1,0 +1,15 @@
+{
+  "question_id": "q28",
+  "question_text": "Are there going concern disclosures?",
+  "category": "risk_red_flags",
+  "response": {
+    "content": "Based on my review of the WeWork SPAC merger document, I did not find explicit \"going concern\" disclosures in the provided pages.\n\nHowever, I can note several relevant financial indicators from the document:\n\n**Financial Position (page 30):**\n- 2020A Adj. EBITDA: ($1.8B) - negative\n- 2024E Adj. EBITDA: $2.0B - projected positive\n\n**Liquidity Information (page 34-35):**\n- The document shows liquidity projections through 2024E\n- Shows total liquidity expected to remain above $1.8bn throughout the projection period (page 34)\n- Expected to achieve Adj. EBITDA breakeven by Q4 2021E (page 34)\n\n**Capital Structure (page 35):**\n- Shows various debt facilities and financing commitments\n- Total available global cash of $667 million\n- Various secured and unsecured financing commitments\n\n**Confidence Level: MEDIUM** - While the document contains extensive financial projections and liquidity analysis that would typically accompany going concern considerations, the specific pages provided do not contain explicit going concern disclosures that would typically be found in auditor reports or management discussions.\n\n**Caveat:** Going concern disclosures are typically found in audited financial statements or specific risk factor sections, which may not be included in the pages provided of this presentation document.",
+    "model": "claude-sonnet-4-20250514",
+    "input_tokens": 80339,
+    "output_tokens": 318,
+    "total_tokens": 80657,
+    "latency_ms": 15724,
+    "timestamp": "2026-01-29T17:53:02.270586",
+    "cost_usd": 0.24578699999999998
+  }
+}

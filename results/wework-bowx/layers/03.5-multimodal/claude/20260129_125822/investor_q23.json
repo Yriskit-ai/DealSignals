@@ -1,0 +1,15 @@
+{
+  "question_id": "q23",
+  "question_text": "What related-party transactions exist?",
+  "category": "deal_structure",
+  "response": {
+    "content": "Based on my review of this WeWork SPAC merger document, I can identify several related-party transactions:\n\n## SPAC Transaction Structure (Page 37):\n**Confidence: HIGH** - The transaction involves BowX Acquisition Corp. as the SPAC, with the following ownership structure post-merger:\n- Existing WeWork Rollover Equity: 82.7%\n- PIPE Shares: 10.1%\n- BowX Public Shares: 6.1%\n- BowX Founder Shares: 1.1%\n\n## Board Composition Related-Party Relationships (Page 43):\n**Confidence: HIGH** - The pro forma board will include representatives from major investors:\n- **SoftBank Group**: 2 nominees (SoftBank is a major WeWork investor)\n- **SoftBank Vision Fund**: 1 nominee\n- **Benchmark Capital**: 1 nominee\n- **Insight Partners**: 1 nominee\n\n## Management and Investor Relationships (Pages 8-9):\n**Confidence: MEDIUM** - The document shows WeWork's new leadership team has experience with major investors, suggesting potential ongoing relationships, though specific transaction details are not provided.\n\n## Financing Arrangements:\n**Confidence: HIGH** - Page 35 shows SoftBank-related financing:\n- $1.1bn Senior Secured SoftBank Notes\n- References to SoftBank Senior Secured Facility\n\n## Limitations:\nThe document does not provide detailed disclosure of:\n- Specific amounts of related-party transactions\n- Ongoing service agreements with related parties\n- Compensation arrangements with board-nominated directors\n- Detailed terms of SoftBank financing arrangements\n\n**Caveat**: This appears to be a presentation document rather than a full proxy statement/prospectus, so more comprehensive related-party transaction disclosures would likely be found in the complete SEC filings referenced on page 2.",
+    "model": "claude-sonnet-4-20250514",
+    "input_tokens": 80338,
+    "output_tokens": 431,
+    "total_tokens": 80769,
+    "latency_ms": 17268,
+    "timestamp": "2026-01-29T18:03:54.082500",
+    "cost_usd": 0.247479
+  }
+}

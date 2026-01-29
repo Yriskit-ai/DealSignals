@@ -1,0 +1,15 @@
+{
+  "question_id": "q24",
+  "question_text": "What are management's incentives/compensation in the deal?",
+  "category": "deal_structure",
+  "response": {
+    "content": "Management's incentives and compensation in the deal include several components:\n\n1. **Base Salary**: This serves as a fixed source of compensation, with adjustments made based on changing roles and responsibilities\u30104:1\u2020source\u3011.\n\n2. **Annual Cash Incentive**: This plan ties compensation to the achievement of key business performance measurements, determined by a formula involving a base salary, target percentage, and a company performance multiplier. Starting in 2021, individual performance multipliers are also considered\u30104:1\u2020source\u3011.\n\n3. **Retention Bonuses**: These are provided to attract or retain critical employees. Retention bonuses had been awarded in the past to select employees critical to the company\u2019s turnaround\u30104:2\u2020source\u3011\u30104:6\u2020source\u3011.\n\n4. **Equity Grants**: Equity compensation is provided through stock options and restricted stock units (RSUs) to align interests with shareholders and promote long-term retention. The equity awards include time-based and performance-based grants\u30104:6\u2020source\u3011.\n\n5. **Performance-Based Grants**: New performance-based equity programs were initiated in 2020, where stock option awards vest based on the achievement of specific metrics like unlevered operating free cash flow or stock price increases\u30104:6\u2020source\u3011\u30104:2\u2020source\u3011.\n\n6. **Other Benefits**: These include health, welfare, and retirement plans that are the same as those offered to the broader employee population\u30104:7\u2020source\u3011\u30104:9\u2020source\u3011.\n\nThe compensation program is designed to align with market standards to attract and retain talent while emphasizing a pay-for-performance philosophy. This approach is intended to link compensation with company-wide performance metrics and promote long-term value creation\u30104:4\u2020source\u3011\u30104:10\u2020source\u3011.\n\nConfidence: HIGH (directly stated). \n\nCaveats/Limitations: The information is based on the 2020 compensation data provided in the document, which may be subject to changes post-merger.",
+    "model": "gpt-4o",
+    "input_tokens": 18103,
+    "output_tokens": 441,
+    "total_tokens": 18544,
+    "latency_ms": 44203,
+    "timestamp": "2026-01-29T18:29:57.988939",
+    "cost_usd": 0.0496675
+  }
+}

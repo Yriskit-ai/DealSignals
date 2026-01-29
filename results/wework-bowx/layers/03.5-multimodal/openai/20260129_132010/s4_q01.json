@@ -1,0 +1,15 @@
+{
+  "question_id": "q01",
+  "question_text": "What is WeWork's revenue for the most recent reported period?",
+  "category": "financial_fundamentals",
+  "response": {
+    "content": "WeWork's revenue for the most recent reported period, which is the six months ended June 30, 2021, is $1,191,331,000\u30104:2\u2020S-4_A.pdf\u3011. \n\nConfidence: HIGH (directly stated). \n\nCaveat: This data is for the first six months of 2021, and it does not include information beyond June 30, 2021.",
+    "model": "gpt-4o",
+    "input_tokens": 17715,
+    "output_tokens": 121,
+    "total_tokens": 17836,
+    "latency_ms": 76657,
+    "timestamp": "2026-01-29T18:21:26.934341",
+    "cost_usd": 0.04549750000000001
+  }
+}

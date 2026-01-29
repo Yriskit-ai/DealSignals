@@ -1,0 +1,15 @@
+{
+  "question_id": "q17",
+  "question_text": "What happens to the business at 50% occupancy?",
+  "category": "obligations_exposure",
+  "response": {
+    "content": "Based on the document, I can provide insights into WeWork's performance at approximately 50% occupancy levels:\n\n**Current Situation (page 27, HIGH confidence):**\n- WeWork expects to achieve ~70% physical occupancy to reach Adj. EBITDA breakeven\n- This suggests 50% occupancy would still result in negative Adj. EBITDA\n\n**Historical Context (page 14, HIGH confidence):**\n- 2020A showed 46% ending physical occupancy with significant losses\n- 2021E projects 70% ending physical occupancy as recovery begins\n\n**Financial Impact at Lower Occupancy (pages 32-34, MEDIUM confidence):**\nFrom the historical data and projections, at around 50% occupancy levels:\n- Revenue would be significantly below breakeven levels\n- The business would likely generate negative Adj. EBITDA\n- Building expenses remain largely fixed, so lower occupancy directly impacts margins\n\n**Key Insight (page 42, HIGH confidence):**\nThe document states that \"1 percentage point of 2023E core occupancy results in ~$59mm of revenue,\" highlighting the significant leverage that occupancy has on financial performance.\n\n**Caveats:**\n- The document doesn't provide a specific scenario analysis for exactly 50% occupancy\n- These projections are management estimates and subject to various assumptions\n- The analysis excludes detailed breakdowns of how All Access and other revenue streams might perform at different occupancy levels\n\nThe business appears to need occupancy levels of approximately 70% or higher to achieve profitability based on their current cost structure.",
+    "model": "claude-sonnet-4-20250514",
+    "input_tokens": 80343,
+    "output_tokens": 354,
+    "total_tokens": 80697,
+    "latency_ms": 15266,
+    "timestamp": "2026-01-29T18:02:14.453697",
+    "cost_usd": 0.246339
+  }
+}

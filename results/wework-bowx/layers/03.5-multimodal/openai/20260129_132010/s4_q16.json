@@ -1,0 +1,15 @@
+{
+  "question_id": "q16",
+  "question_text": "What happens to the business at 70% occupancy?",
+  "category": "obligations_exposure",
+  "response": {
+    "content": "Not found in document. My confidence in this answer is HIGH, as I searched through the document with no references to specific impacts or business changes at exactly 70% occupancy. The document discusses occupancy rates and business conditions but does not provide a specific scenario or outcome tied to this particular occupancy level.",
+    "model": "gpt-4o",
+    "input_tokens": 17563,
+    "output_tokens": 87,
+    "total_tokens": 17650,
+    "latency_ms": 13047,
+    "timestamp": "2026-01-29T18:26:35.676383",
+    "cost_usd": 0.0447775
+  }
+}

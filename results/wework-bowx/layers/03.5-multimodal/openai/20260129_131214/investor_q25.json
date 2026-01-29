@@ -1,0 +1,15 @@
+{
+  "question_id": "q25",
+  "question_text": "What is Adam Neumann's ongoing relationship/exposure?",
+  "category": "risk_red_flags",
+  "response": {
+    "content": "Not found in document. \n\nMy confidence in this information is HIGH as the search results did not reveal any information related to Adam Neumann's ongoing relationship or exposure in the document provided.",
+    "model": "gpt-4o",
+    "input_tokens": 3707,
+    "output_tokens": 70,
+    "total_tokens": 3777,
+    "latency_ms": 7452,
+    "timestamp": "2026-01-29T18:16:10.466261",
+    "cost_usd": 0.009967499999999999
+  }
+}

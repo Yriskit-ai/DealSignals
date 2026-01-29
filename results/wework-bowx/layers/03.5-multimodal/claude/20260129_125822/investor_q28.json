@@ -1,0 +1,15 @@
+{
+  "question_id": "q28",
+  "question_text": "Are there going concern disclosures?",
+  "category": "risk_red_flags",
+  "response": {
+    "content": "Based on my review of this WeWork SPAC merger presentation document, I do not find any explicit going concern disclosures.\n\n**Key Points:**\n\n1. **No Direct Going Concern Language**: The document does not contain standard going concern disclosure language that would typically appear in financial statements or audit reports (page 1-49).\n\n2. **Forward-Looking Focus**: The presentation emphasizes WeWork's turnaround story and future growth plans, projecting:\n   - Path to Adj. EBITDA breakeven by Q4 2021 (page 27)\n   - Revenue growth from $3.2B in 2021E to $7.0B in 2024E (page 31)\n   - Positive adjusted EBITDA of $2.0B by 2024E (page 29)\n\n3. **Liquidity Position**: The document shows WeWork's liquidity position with $3.4B total liquidity projected through 2024E and states that \"liquidity is not expected to drop below $1.8bn throughout projection period\" (page 34).\n\n**Confidence Level**: HIGH - I directly reviewed all pages and found no going concern disclosures.\n\n**Important Caveat**: This is a management presentation document for a SPAC merger, not audited financial statements. Going concern disclosures would more typically appear in:\n- Audited financial statements\n- SEC filings (10-K, 10-Q)\n- Audit reports\n\nThe absence of such disclosures in this presentation does not necessarily mean WeWork had no going concern issues, as this document is focused on presenting the investment opportunity rather than providing comprehensive financial disclosures.",
+    "model": "claude-sonnet-4-20250514",
+    "input_tokens": 80339,
+    "output_tokens": 372,
+    "total_tokens": 80711,
+    "latency_ms": 17937,
+    "timestamp": "2026-01-29T18:05:06.438000",
+    "cost_usd": 0.24659699999999998
+  }
+}

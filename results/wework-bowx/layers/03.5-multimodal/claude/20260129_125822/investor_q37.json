@@ -1,0 +1,15 @@
+{
+  "question_id": "q37",
+  "question_text": "What is the exit/refinancing strategy for the lease obligations?",
+  "category": "synthesis_judgment",
+  "response": {
+    "content": "Based on my analysis of the document, I cannot find a specific exit/refinancing strategy for lease obligations discussed in this WeWork SPAC merger presentation.\n\n**What the document shows regarding lease obligations:**\n\n**Current Lease Status (Page 35-36):**\n- Total debt of $4.194 billion as of 6/30/2021E (page 35)\n- The company has significant lease obligations as part of their business model\n- They've achieved savings of $200M+ from lease exits and amendments in 2020 (page 15)\n\n**General Business Strategy Mentions:**\n- The document discusses WeWork's transformation to focus on \"Core WeWork\" and exit non-performing assets (page 13)\n- Strategic asset exits in 2020 and 2021 to improve portfolio strength (page 14)\n- Movement toward more flexible, shorter-term arrangements and \"asset light\" platform offerings (pages 21-26)\n\n**Financing Overview:**\n- $1.283 million total cash proceeds from the SPAC transaction (page 36)\n- Various debt facilities including secured and unsecured notes\n- Liquidity projections through 2024E (page 34)\n\n**Confidence Level: MEDIUM** - While the document shows WeWork is actively managing and exiting underperforming leases, it does not provide a comprehensive strategy for addressing the broader lease obligation portfolio.\n\n**Limitation:** The document focuses more on the growth strategy and transaction structure rather than detailed lease exit/refinancing plans. For a complete understanding of their lease obligation strategy, additional documentation would be needed.",
+    "model": "claude-sonnet-4-20250514",
+    "input_tokens": 80344,
+    "output_tokens": 353,
+    "total_tokens": 80697,
+    "latency_ms": 15984,
+    "timestamp": "2026-01-29T18:07:07.461160",
+    "cost_usd": 0.246327
+  }
+}

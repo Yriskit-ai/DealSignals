@@ -1,0 +1,15 @@
+{
+  "question_id": "q06",
+  "question_text": "What is the path to profitability and timeline stated?",
+  "category": "financial_fundamentals",
+  "response": {
+    "content": "Based on the document, WeWork's path to profitability and timeline is clearly outlined:\n\n## Path to Profitability:\n**Physical occupancy of approximately 70%** is required to achieve Adj. EBITDA breakeven (page 27).\n\n## Timeline:\n**Q4 2021** - Expected to achieve Adj. EBITDA breakeven (pages 12, 27, 34)\n\n## Supporting Evidence:\n\n**Page 27** shows the \"Clear path to Adj. EBITDA breakeven\" chart, which demonstrates that:\n- At ~70% physical occupancy, WeWork achieves Adj. EBITDA breakeven\n- The projection shows positive Adj. EBITDA margins starting in Q4 2021E\n\n**Page 12** states under \"Key investment highlights\": \n- \"Strong unit economics with clear path to profitability expected by Q4 2021\"\n\n**Page 34** in the liquidity projections shows:\n- Total Adj. EBITDA (excl. ChinaCo) turning positive at $8 million in Q4 2021E\n- Further improvement to $485 million in 2022E\n\n**Page 29** provides the financial trajectory:\n- 2020A: Adj. EBITDA of ($1.8B) \n- 2024E: Projected Adj. EBITDA of $2.0B\n- Adj. EBITDA Margin improving from (55%) to 29%\n\n**Confidence Level: HIGH** - This information is directly stated multiple times throughout the document with specific timelines and occupancy requirements clearly articulated.",
+    "model": "claude-sonnet-4-20250514",
+    "input_tokens": 80343,
+    "output_tokens": 376,
+    "total_tokens": 80719,
+    "latency_ms": 16600,
+    "timestamp": "2026-01-29T17:57:28.986047",
+    "cost_usd": 0.246669
+  }
+}

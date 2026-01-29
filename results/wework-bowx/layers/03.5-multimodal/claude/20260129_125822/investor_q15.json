@@ -1,0 +1,15 @@
+{
+  "question_id": "q15",
+  "question_text": "What are the lease termination provisions?",
+  "category": "obligations_exposure",
+  "response": {
+    "content": "I have carefully reviewed the entire WeWork document but cannot find specific information about lease termination provisions. The document contains extensive financial and business information about WeWork's SPAC merger with BowX Acquisition Corp., but it does not include details about lease termination clauses or provisions in their real estate agreements.\n\n**Answer:** Not found in document.\n\n**Confidence:** HIGH (directly confirmed by thorough review)\n\n**Note:** While the document mentions various aspects of WeWork's real estate operations, including lease restructuring activities and cost optimization efforts (pages 15-16), it does not provide the specific contractual details regarding lease termination provisions that would be needed to answer this question.",
+    "model": "claude-sonnet-4-20250514",
+    "input_tokens": 80339,
+    "output_tokens": 147,
+    "total_tokens": 80486,
+    "latency_ms": 10010,
+    "timestamp": "2026-01-29T18:01:45.094262",
+    "cost_usd": 0.243222
+  }
+}
