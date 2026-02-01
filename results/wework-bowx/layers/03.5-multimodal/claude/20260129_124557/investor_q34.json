@@ -1,0 +1,15 @@
+{
+  "question_id": "q34",
+  "question_text": "What registration rights exist?",
+  "category": "governance_control",
+  "response": {
+    "content": "Based on the provided WeWork SPAC merger document, I need to note that while the document contains extensive information about the transaction structure, financial projections, and business operations, I could not find specific details about registration rights provisions.\n\n**Not found in document**: The document does not contain specific information about registration rights arrangements for shareholders following the SPAC merger.\n\n**What the document does contain:**\n- Transaction overview showing pro forma ownership structure (page 37)\n- Details about PIPE investment of $800 million at $10.00 per share (page 37)\n- References to SEC filings and proxy statements that will contain additional information (page 2-3)\n\n**Confidence**: HIGH - I thoroughly reviewed the document but could not locate registration rights provisions.\n\n**Recommendation**: Registration rights are typically detailed in:\n1. The definitive merger agreement\n2. The proxy statement/prospectus referenced on pages 2-3\n3. Separate registration rights agreements with PIPE investors\n4. The final SEC filing documents\n\nThe document mentions on page 2 that \"Investors and security holders of BowX and WeWork are urged to read the proxy statement/prospectus and other relevant documents that will be filed with the SEC carefully,\" suggesting that such detailed legal provisions would be found in those comprehensive SEC filings rather than this investor presentation.",
+    "model": "claude-sonnet-4-20250514",
+    "input_tokens": 80336,
+    "output_tokens": 291,
+    "total_tokens": 80627,
+    "latency_ms": 14797,
+    "timestamp": "2026-01-29T17:54:14.027545",
+    "cost_usd": 0.245373
+  }
+}

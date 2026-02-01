@@ -1,0 +1,80 @@
+{
+  "content": "**Adam Neumann\u2019s ongoing relationship/exposure:** **Not found in document.**\n\n- The provided OCR text contains **no mention of \u201cAdam Neumann\u201d** and **no disclosures** describing any continuing role, ownership, governance rights, agreements, indemnities, related-party arrangements, or other ongoing exposure connected to him (Pages **1\u201350**, entire document as provided).  \n\n**Confidence:** HIGH (directly based on absence of any reference in the provided document text)\n\n**Caveats / limitations:**\n- The OCR output appears **heavily redacted or missing content** on many pages (e.g., Pages **6, 9, 15, 22\u201323, 27, 37\u201338, 45\u201346, 50** show bullets/placeholder symbols with little readable text), so relevant information **could exist in the original document but is not captured in this OCR extract**.",
+  "model": "gpt-5.2",
+  "input_tokens": 1308,
+  "output_tokens": 191,
+  "latency_ms": 4880,
+  "timestamp": "2026-01-24T03:34:23.763333",
+  "cost_usd": 0.004963,
+  "raw_response": {
+    "id": "resp_0c238e34de5f18cc0069743dbb18588190a678bd7cae37188e",
+    "object": "response",
+    "created_at": 1769225659,
+    "status": "completed",
+    "background": false,
+    "billing": {
+      "payer": "openai"
+    },
+    "completed_at": 1769225663,
+    "error": null,
+    "frequency_penalty": 0,
+    "incomplete_details": null,
+    "instructions": null,
+    "max_output_tokens": null,
+    "max_tool_calls": null,
+    "model": "gpt-5.2-2025-12-11",
+    "output": [
+      {
+        "id": "msg_0c238e34de5f18cc0069743dbb4f78819083dc0d9b6b526dd5",
+        "type": "message",
+        "status": "completed",
+        "content": [
+          {
+            "type": "output_text",
+            "annotations": [],
+            "logprobs": [],
+            "text": "**Adam Neumann\u2019s ongoing relationship/exposure:** **Not found in document.**\n\n- The provided OCR text contains **no mention of \u201cAdam Neumann\u201d** and **no disclosures** describing any continuing role, ownership, governance rights, agreements, indemnities, related-party arrangements, or other ongoing exposure connected to him (Pages **1\u201350**, entire document as provided).  \n\n**Confidence:** HIGH (directly based on absence of any reference in the provided document text)\n\n**Caveats / limitations:**\n- The OCR output appears **heavily redacted or missing content** on many pages (e.g., Pages **6, 9, 15, 22\u201323, 27, 37\u201338, 45\u201346, 50** show bullets/placeholder symbols with little readable text), so relevant information **could exist in the original document but is not captured in this OCR extract**."
+          }
+        ],
+        "role": "assistant"
+      }
+    ],
+    "parallel_tool_calls": true,
+    "presence_penalty": 0,
+    "previous_response_id": null,
+    "prompt_cache_key": null,
+    "prompt_cache_retention": null,
+    "reasoning": {
+      "effort": "none",
+      "summary": null
+    },
+    "safety_identifier": null,
+    "service_tier": "default",
+    "store": true,
+    "temperature": 1,
+    "text": {
+      "format": {
+        "type": "text"
+      },
+      "verbosity": "medium"
+    },
+    "tool_choice": "auto",
+    "tools": [],
+    "top_logprobs": 0,
+    "top_p": 0.98,
+    "truncation": "disabled",
+    "usage": {
+      "input_tokens": 1308,
+      "input_tokens_details": {
+        "cached_tokens": 1152
+      },
+      "output_tokens": 191,
+      "output_tokens_details": {
+        "reasoning_tokens": 0
+      },
+      "total_tokens": 1499
+    },
+    "user": null,
+    "metadata": {}
+  }
+}

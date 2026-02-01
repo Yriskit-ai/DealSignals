@@ -1,0 +1,80 @@
+{
+  "content": "**Lock-up agreements:** **Not found in document.**\n\n- The OCR text provided contains no readable section describing lock-up terms (e.g., sponsor lock-up, founder shares, PIPE investor lock-ups, earnout-related restrictions, or transfer restrictions). Most pages are either blank/confidential placeholders or heavily redacted bullets without lock-up language (e.g., Pages **1\u20139**, **11\u201323**, **26\u201350** show \u201c\u00a9 2021 WeWork. Confidential.\u201d with minimal/indecipherable content; Page **10** contains company values, not transaction terms).  \n\n**Confidence:** **HIGH** (the provided OCR text does not include any lock-up details).  \n**Caveat/limitation:** The document appears severely OCR-limited/redacted (many pages contain only confidentiality marks or bullet placeholders), so lock-up agreements may exist in the original source but are **not captured in the provided text** (Pages **1\u20139**, **11\u201323**, **26\u201350**).",
+  "model": "gpt-5.2",
+  "input_tokens": 1304,
+  "output_tokens": 210,
+  "latency_ms": 5659,
+  "timestamp": "2026-01-24T03:35:09.870853",
+  "cost_usd": 0.005222,
+  "raw_response": {
+    "id": "resp_0c8058f0f49dcaf50069743de8649c8195b4a1e53f9b33b56f",
+    "object": "response",
+    "created_at": 1769225704,
+    "status": "completed",
+    "background": false,
+    "billing": {
+      "payer": "openai"
+    },
+    "completed_at": 1769225709,
+    "error": null,
+    "frequency_penalty": 0,
+    "incomplete_details": null,
+    "instructions": null,
+    "max_output_tokens": null,
+    "max_tool_calls": null,
+    "model": "gpt-5.2-2025-12-11",
+    "output": [
+      {
+        "id": "msg_0c8058f0f49dcaf50069743de89f10819581573a8c8dfb3f53",
+        "type": "message",
+        "status": "completed",
+        "content": [
+          {
+            "type": "output_text",
+            "annotations": [],
+            "logprobs": [],
+            "text": "**Lock-up agreements:** **Not found in document.**\n\n- The OCR text provided contains no readable section describing lock-up terms (e.g., sponsor lock-up, founder shares, PIPE investor lock-ups, earnout-related restrictions, or transfer restrictions). Most pages are either blank/confidential placeholders or heavily redacted bullets without lock-up language (e.g., Pages **1\u20139**, **11\u201323**, **26\u201350** show \u201c\u00a9 2021 WeWork. Confidential.\u201d with minimal/indecipherable content; Page **10** contains company values, not transaction terms).  \n\n**Confidence:** **HIGH** (the provided OCR text does not include any lock-up details).  \n**Caveat/limitation:** The document appears severely OCR-limited/redacted (many pages contain only confidentiality marks or bullet placeholders), so lock-up agreements may exist in the original source but are **not captured in the provided text** (Pages **1\u20139**, **11\u201323**, **26\u201350**)."
+          }
+        ],
+        "role": "assistant"
+      }
+    ],
+    "parallel_tool_calls": true,
+    "presence_penalty": 0,
+    "previous_response_id": null,
+    "prompt_cache_key": null,
+    "prompt_cache_retention": null,
+    "reasoning": {
+      "effort": "none",
+      "summary": null
+    },
+    "safety_identifier": null,
+    "service_tier": "default",
+    "store": true,
+    "temperature": 1,
+    "text": {
+      "format": {
+        "type": "text"
+      },
+      "verbosity": "medium"
+    },
+    "tool_choice": "auto",
+    "tools": [],
+    "top_logprobs": 0,
+    "top_p": 0.98,
+    "truncation": "disabled",
+    "usage": {
+      "input_tokens": 1304,
+      "input_tokens_details": {
+        "cached_tokens": 1152
+      },
+      "output_tokens": 210,
+      "output_tokens_details": {
+        "reasoning_tokens": 0
+      },
+      "total_tokens": 1514
+    },
+    "user": null,
+    "metadata": {}
+  }
+}

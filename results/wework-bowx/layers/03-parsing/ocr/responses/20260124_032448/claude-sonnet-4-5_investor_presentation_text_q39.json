@@ -1,0 +1,34 @@
+{
+  "content": "# Debt Covenants and Restrictions Analysis\n\n## Answer:\n\n**Not found in document.**\n\n## Explanation:\n\nThe provided OCR-parsed document appears to be a WeWork investor presentation or pitch deck from 2021, based on the confidentiality markings and content structure visible on each page. The document contains:\n\n- Company values and mission statements (Page 10)\n- Product descriptions (e.g., \"All Access\" subscription model on Page 25)\n- Various bullet points and timeline graphics (Pages 6-46)\n\nHowever, the OCR parsing has failed to capture the substantive text content beyond headers, bullet points, and occasional fragments. The actual financial details, including any information about debt covenants, restrictions, debt agreements, credit facilities, or related financial terms and conditions, are not present in the parsed text.\n\n## Confidence Level: **HIGH**\n\nI am highly confident that this specific information is not present in the provided parsed document, though I acknowledge this is likely due to OCR parsing limitations rather than the absence of such information in the original document.\n\n## Caveats:\n\n1. **OCR Quality Issue**: The document appears to be poorly parsed, with most substantive content missing and only showing page numbers, copyright notices, and bullet point markers\n2. **Document Type**: This appears to be a presentation deck rather than a detailed financial filing or credit agreement where debt covenants would typically be disclosed\n3. **Incomplete Information**: To properly answer questions about debt covenants, one would need access to SEC filings, credit agreements, or detailed financial footnotes",
+  "model": "claude-sonnet-4-5",
+  "input_tokens": 1661,
+  "output_tokens": 345,
+  "latency_ms": 10239,
+  "timestamp": "2026-01-24T03:30:51.005998",
+  "cost_usd": 0.010158,
+  "raw_response": {
+    "model": "claude-sonnet-4-5-20250929",
+    "id": "msg_016hGGp1VVCjSC2ZbUeqA4EU",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "# Debt Covenants and Restrictions Analysis\n\n## Answer:\n\n**Not found in document.**\n\n## Explanation:\n\nThe provided OCR-parsed document appears to be a WeWork investor presentation or pitch deck from 2021, based on the confidentiality markings and content structure visible on each page. The document contains:\n\n- Company values and mission statements (Page 10)\n- Product descriptions (e.g., \"All Access\" subscription model on Page 25)\n- Various bullet points and timeline graphics (Pages 6-46)\n\nHowever, the OCR parsing has failed to capture the substantive text content beyond headers, bullet points, and occasional fragments. The actual financial details, including any information about debt covenants, restrictions, debt agreements, credit facilities, or related financial terms and conditions, are not present in the parsed text.\n\n## Confidence Level: **HIGH**\n\nI am highly confident that this specific information is not present in the provided parsed document, though I acknowledge this is likely due to OCR parsing limitations rather than the absence of such information in the original document.\n\n## Caveats:\n\n1. **OCR Quality Issue**: The document appears to be poorly parsed, with most substantive content missing and only showing page numbers, copyright notices, and bullet point markers\n2. **Document Type**: This appears to be a presentation deck rather than a detailed financial filing or credit agreement where debt covenants would typically be disclosed\n3. **Incomplete Information**: To properly answer questions about debt covenants, one would need access to SEC filings, credit agreements, or detailed financial footnotes"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "usage": {
+      "input_tokens": 1661,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 345,
+      "service_tier": "standard"
+    }
+  }
+}

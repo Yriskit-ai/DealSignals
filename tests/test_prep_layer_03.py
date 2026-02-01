@@ -48,6 +48,7 @@ class FakeOcrClient:
         document_id: str,
         parser_profile: str,
         callback_url: str,
+        options: dict[str, bool] | None = None,
     ) -> str:
         self.submissions.append(
             {
@@ -56,6 +57,7 @@ class FakeOcrClient:
                 "document_id": document_id,
                 "parser_profile": parser_profile,
                 "callback_url": callback_url,
+                "options": options or {},
             }
         )
         return f"job_{document_id}"
@@ -141,11 +143,13 @@ def test_prep_layer_03_writes_outputs(tmp_path, monkeypatch):
     monkeypatch.setenv("LAYER_03_OUTPUT_DIR", str(output_dir))
     monkeypatch.setenv("LAYER_03_S4_PDF_PATH", str(s4_pdf))
     monkeypatch.setenv("LAYER_03_INVESTOR_PDF_PATH", str(investor_pdf))
+    monkeypatch.setenv("LAYER_03_SKIP_TEXT", "true")
     monkeypatch.setattr(prep_layer_03.time, "sleep", lambda _: None)
 
     result = prep_layer_03.main(client=fake_client, sleep_seconds=0)
 
     assert result == 0
+    assert fake_client.submissions[0]["options"]["skip_text"] is True
     assert (output_dir / "s4_text.txt").read_text(encoding="utf-8") == "[Page 1]\nS4 content"
     assert (output_dir / "investor_presentation_text.txt").read_text(
         encoding="utf-8"

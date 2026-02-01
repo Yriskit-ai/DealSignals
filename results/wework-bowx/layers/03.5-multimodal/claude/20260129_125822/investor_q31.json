@@ -1,0 +1,15 @@
+{
+  "question_id": "q31",
+  "question_text": "What is the board composition post-merger?",
+  "category": "governance_control",
+  "response": {
+    "content": "Based on the document (page 43), the post-transaction board will consist of 9 members with the following composition:\n\n**Board Representation:**\n\n- **Executive Chairman:** Marcelo Claure\n- **CEO of the Company:** Sandeep Mathrani  \n- **BowX:** Vivek Ranadiv\u00e9\n- **SoftBank Group:** 2 nominees\n- **SoftBank Vision Fund:** 1 nominee\n- **Benchmark Capital:** 1 nominee\n- **Insight Partners:** 1 nominee\n- **Independent Director:** Jeff Sine\n\n**Key Details:**\n- Total of 9 board members\n- Mix of new and existing investors plus management representation\n- Designed to ensure WeWork remains disciplined and aligned with shareholder interests\n- Focus on corporate governance post-transaction\n\n**Confidence:** HIGH - This information is directly stated on page 43 of the document.\n\n**Page Reference:** Page 43",
+    "model": "claude-sonnet-4-20250514",
+    "input_tokens": 80340,
+    "output_tokens": 214,
+    "total_tokens": 80554,
+    "latency_ms": 11758,
+    "timestamp": "2026-01-29T18:05:39.497950",
+    "cost_usd": 0.24422999999999997
+  }
+}

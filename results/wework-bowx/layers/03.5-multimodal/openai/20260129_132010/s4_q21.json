@@ -1,0 +1,15 @@
+{
+  "question_id": "q21",
+  "question_text": "Who are the key executives and what is their track record?",
+  "category": "deal_structure",
+  "response": {
+    "content": "The key executives of WeWork and their track records are as follows:\n\n1. **Marcelo Claure**: Serves as the Executive Chairman of WeWork. He is also the Chief Executive Officer of SoftBank Group International and Chief Operating Officer of SoftBank Group Corp, overseeing the strategic direction and portfolio of operating companies. Claure was appointed as the Executive Chairman of WeWork in October 2019 and played a significant role in reshaping the leadership team and strategic direction of the company \u30104:1\u2020source\u3011.\n\n2. **Sandeep Mathrani**: Joined WeWork as Chief Executive Officer in February 2020. Prior to this, he has had a significant career leading real estate companies and has played a pivotal role in redirecting WeWork's focus to its core business model by emphasizing cost discipline and strategic restructuring\u30104:5\u2020source\u3011\u30104:14\u2020source\u3011.\n\n3. **Scott Morey**: Joined as President of Technology and Innovation in April 2021, bringing over 30 years of experience in real estate, technology, and operations. He has previously worked with companies such as General Growth Properties and Alvarez & Marsal \u30104:1\u2020source\u3011.\n\n4. **Roger Sol\u00e9 Rafols**: Serves as the Chief Marketing Officer since April 2020, with over 20 years of experience in telecom and technology, including roles such as Chief Marketing Officer at Sprint Corporation, where he was integral to its turnaround and merger with T-Mobile \u30104:1\u2020source\u3011.\n\nThis leadership team has undertaken significant strategic initiatives to refocus on the company's core areas and restructure its cost base in the initial months at WeWork \u30104:2\u2020source\u3011.\n\nConfidence level: HIGH (information directly stated).",
+    "model": "gpt-4o",
+    "input_tokens": 17611,
+    "output_tokens": 403,
+    "total_tokens": 18014,
+    "latency_ms": 30045,
+    "timestamp": "2026-01-29T18:28:27.827440",
+    "cost_usd": 0.0480575
+  }
+}

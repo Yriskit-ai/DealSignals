@@ -1,0 +1,80 @@
+{
+  "content": "Lease termination provisions: **Not found in document.**\n\n- The provided OCR pages do not contain any readable lease agreement language or a section describing termination rights, notice periods, penalties, early termination options, or related provisions. Most pages only show \u201c\u00a9 2021 WeWork. Confidential.\u201d and/or bullet placeholders without substantive text (e.g., Pages **1\u20139**, **11\u201323**, **26\u201350**).  \n- The only clearly legible business content relates to company values (Page **10**) and a description of \u201cAll Access\u201d (Page **25**), neither of which includes lease termination terms.\n\n**Confidence:** HIGH (document does not include the relevant provisions in readable form)\n\n**Caveats / limitations:** The OCR appears incomplete/redacted across many pages (numerous bullets with no text, e.g., Pages **6**, **15**, **22\u201323**, **37\u201338**, **45\u201346**, **50**), so lease termination provisions may exist in the source file but are **not captured/legible** in this parsed extract.",
+  "model": "gpt-5.2",
+  "input_tokens": 1304,
+  "output_tokens": 223,
+  "latency_ms": 6551,
+  "timestamp": "2026-01-24T03:33:29.723956",
+  "cost_usd": 0.005404,
+  "raw_response": {
+    "id": "resp_084336c50e5652320069743d8364a08195b8dd4893dc550d63",
+    "object": "response",
+    "created_at": 1769225603,
+    "status": "completed",
+    "background": false,
+    "billing": {
+      "payer": "openai"
+    },
+    "completed_at": 1769225609,
+    "error": null,
+    "frequency_penalty": 0,
+    "incomplete_details": null,
+    "instructions": null,
+    "max_output_tokens": null,
+    "max_tool_calls": null,
+    "model": "gpt-5.2-2025-12-11",
+    "output": [
+      {
+        "id": "msg_084336c50e5652320069743d839d4c81958b0e2ae553758788",
+        "type": "message",
+        "status": "completed",
+        "content": [
+          {
+            "type": "output_text",
+            "annotations": [],
+            "logprobs": [],
+            "text": "Lease termination provisions: **Not found in document.**\n\n- The provided OCR pages do not contain any readable lease agreement language or a section describing termination rights, notice periods, penalties, early termination options, or related provisions. Most pages only show \u201c\u00a9 2021 WeWork. Confidential.\u201d and/or bullet placeholders without substantive text (e.g., Pages **1\u20139**, **11\u201323**, **26\u201350**).  \n- The only clearly legible business content relates to company values (Page **10**) and a description of \u201cAll Access\u201d (Page **25**), neither of which includes lease termination terms.\n\n**Confidence:** HIGH (document does not include the relevant provisions in readable form)\n\n**Caveats / limitations:** The OCR appears incomplete/redacted across many pages (numerous bullets with no text, e.g., Pages **6**, **15**, **22\u201323**, **37\u201338**, **45\u201346**, **50**), so lease termination provisions may exist in the source file but are **not captured/legible** in this parsed extract."
+          }
+        ],
+        "role": "assistant"
+      }
+    ],
+    "parallel_tool_calls": true,
+    "presence_penalty": 0,
+    "previous_response_id": null,
+    "prompt_cache_key": null,
+    "prompt_cache_retention": null,
+    "reasoning": {
+      "effort": "none",
+      "summary": null
+    },
+    "safety_identifier": null,
+    "service_tier": "default",
+    "store": true,
+    "temperature": 1,
+    "text": {
+      "format": {
+        "type": "text"
+      },
+      "verbosity": "medium"
+    },
+    "tool_choice": "auto",
+    "tools": [],
+    "top_logprobs": 0,
+    "top_p": 0.98,
+    "truncation": "disabled",
+    "usage": {
+      "input_tokens": 1304,
+      "input_tokens_details": {
+        "cached_tokens": 1152
+      },
+      "output_tokens": 223,
+      "output_tokens_details": {
+        "reasoning_tokens": 0
+      },
+      "total_tokens": 1527
+    },
+    "user": null,
+    "metadata": {}
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "content": "# Path to Profitability and Timeline\n\n**Not found in document.**\n\n## Explanation:\nThe provided document appears to be an OCR-parsed WeWork presentation from 2021, but the vast majority of the text content is missing or unreadable. Most pages only contain the copyright notice \"\u00a9 2021 WeWork. Confidential.\" with occasional bullet points that have no visible text.\n\nWhile there are some fragments visible:\n- Page 10 contains value statements about integrity and company culture\n- Page 25 describes the \"All Access\" product offering and mentions \"High Margins\" and \"Significant incremental margins\"\n- Page 24 shows what appears to be a timeline from 2010-2030\n- Pages 45-46 contain bullet points with some partial text about metrics\n\nNone of these sections explicitly state a path to profitability or provide a specific timeline for achieving profitability.\n\n## Confidence: HIGH\n\nThe document as provided does not contain this information. However, this is likely due to OCR parsing issues rather than the absence of such information in the original presentation.\n\n## Caveat:\nThe OCR extraction appears to be severely incomplete. A SPAC merger presentation would typically include detailed financial projections and profitability timelines. The missing content suggests significant OCR parsing failures that would need to be resolved to conduct proper due diligence.",
+  "model": "claude-sonnet-4-5",
+  "input_tokens": 1664,
+  "output_tokens": 301,
+  "latency_ms": 9208,
+  "timestamp": "2026-01-24T03:25:46.258639",
+  "cost_usd": 0.009507,
+  "raw_response": {
+    "model": "claude-sonnet-4-5-20250929",
+    "id": "msg_012xYCSEG9knBftg8Ubuxvcs",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "# Path to Profitability and Timeline\n\n**Not found in document.**\n\n## Explanation:\nThe provided document appears to be an OCR-parsed WeWork presentation from 2021, but the vast majority of the text content is missing or unreadable. Most pages only contain the copyright notice \"\u00a9 2021 WeWork. Confidential.\" with occasional bullet points that have no visible text.\n\nWhile there are some fragments visible:\n- Page 10 contains value statements about integrity and company culture\n- Page 25 describes the \"All Access\" product offering and mentions \"High Margins\" and \"Significant incremental margins\"\n- Page 24 shows what appears to be a timeline from 2010-2030\n- Pages 45-46 contain bullet points with some partial text about metrics\n\nNone of these sections explicitly state a path to profitability or provide a specific timeline for achieving profitability.\n\n## Confidence: HIGH\n\nThe document as provided does not contain this information. However, this is likely due to OCR parsing issues rather than the absence of such information in the original presentation.\n\n## Caveat:\nThe OCR extraction appears to be severely incomplete. A SPAC merger presentation would typically include detailed financial projections and profitability timelines. The missing content suggests significant OCR parsing failures that would need to be resolved to conduct proper due diligence."
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "usage": {
+      "input_tokens": 1664,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 301,
+      "service_tier": "standard"
+    }
+  }
+}

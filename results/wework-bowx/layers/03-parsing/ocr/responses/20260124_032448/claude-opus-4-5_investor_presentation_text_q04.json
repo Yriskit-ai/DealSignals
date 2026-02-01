@@ -1,0 +1,34 @@
+{
+  "content": "## Analysis: Cash Burn Rate\n\n**Answer: Not found in document**\n\nThe provided document does not contain any information about WeWork's cash burn rate. While the document appears to be a 2021 WeWork confidential presentation (likely related to a SPAC merger based on the context), the OCR-parsed content shows primarily:\n\n- Copyright notices (\"\u00a9 2021 WeWork. Confidential.\") on every page\n- Bullet point markers without accompanying text\n- Company values/mission statements (Page 10)\n- A timeline reference spanning 2010-2030 (Page 24)\n- Product description of \"All Access\" subscription offering (Page 25)\n- Various formatting elements but no financial data\n\n**Caveats and Limitations:**\n1. The OCR parsing appears to have captured minimal actual content from what was likely a graphics-heavy presentation\n2. Financial metrics, tables, and charts that would typically contain cash burn information were not captured in the text extraction\n3. The document structure suggests there should be financial content (particularly given pages 45-46 reference terms like \"divided by\" and various bullet points), but the actual values are missing\n\n**Confidence Level: N/A** (Information not present in document)\n\n**Recommendation:** Request the original PDF document or a more complete text extraction to conduct proper due diligence on cash burn metrics, which would typically include operating cash flow, monthly/quarterly burn rates, and runway calculations.",
+  "model": "claude-opus-4-5",
+  "input_tokens": 1659,
+  "output_tokens": 319,
+  "latency_ms": 9830,
+  "timestamp": "2026-01-24T03:42:38.592191",
+  "cost_usd": 0.01627,
+  "raw_response": {
+    "model": "claude-opus-4-5-20251101",
+    "id": "msg_01UA2btSKYVW4YeuWdcKRhDW",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "## Analysis: Cash Burn Rate\n\n**Answer: Not found in document**\n\nThe provided document does not contain any information about WeWork's cash burn rate. While the document appears to be a 2021 WeWork confidential presentation (likely related to a SPAC merger based on the context), the OCR-parsed content shows primarily:\n\n- Copyright notices (\"\u00a9 2021 WeWork. Confidential.\") on every page\n- Bullet point markers without accompanying text\n- Company values/mission statements (Page 10)\n- A timeline reference spanning 2010-2030 (Page 24)\n- Product description of \"All Access\" subscription offering (Page 25)\n- Various formatting elements but no financial data\n\n**Caveats and Limitations:**\n1. The OCR parsing appears to have captured minimal actual content from what was likely a graphics-heavy presentation\n2. Financial metrics, tables, and charts that would typically contain cash burn information were not captured in the text extraction\n3. The document structure suggests there should be financial content (particularly given pages 45-46 reference terms like \"divided by\" and various bullet points), but the actual values are missing\n\n**Confidence Level: N/A** (Information not present in document)\n\n**Recommendation:** Request the original PDF document or a more complete text extraction to conduct proper due diligence on cash burn metrics, which would typically include operating cash flow, monthly/quarterly burn rates, and runway calculations."
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "usage": {
+      "input_tokens": 1659,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 319,
+      "service_tier": "standard"
+    }
+  }
+}

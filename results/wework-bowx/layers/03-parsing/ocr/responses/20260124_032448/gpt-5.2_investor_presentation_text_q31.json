@@ -1,0 +1,80 @@
+{
+  "content": "**Board composition post\u2011merger:** **Not found in document.**  \n\n- The OCR text provided does not include any slide/section describing the post\u2011merger board (e.g., number of directors, nominees, independent vs. affiliated directors, committee composition, or named board members). The available pages are largely redacted or contain only confidentiality markings and limited non\u2011governance content (e.g., company values on **Page 10**; product description on **Page 25**).  \n\n**Confidence:** HIGH (the requested information is absent from the provided text).  \n\n**Caveats / limitations:**  \n- The document appears to be heavily redacted/blank in the OCR output across most pages (e.g., **Pages 1\u20139, 11\u201323, 26\u201349** largely show only \u201c\u00a9 2021 WeWork. Confidential.\u201d and/or bullet placeholders), so board details may exist in the original slides but are not captured in the provided OCR text.",
+  "model": "gpt-5.2",
+  "input_tokens": 1306,
+  "output_tokens": 206,
+  "latency_ms": 5524,
+  "timestamp": "2026-01-24T03:34:58.812436",
+  "cost_usd": 0.0051695000000000005,
+  "raw_response": {
+    "id": "resp_043170c3911169a10069743ddda968819fa5c4d05638313490",
+    "object": "response",
+    "created_at": 1769225693,
+    "status": "completed",
+    "background": false,
+    "billing": {
+      "payer": "openai"
+    },
+    "completed_at": 1769225698,
+    "error": null,
+    "frequency_penalty": 0,
+    "incomplete_details": null,
+    "instructions": null,
+    "max_output_tokens": null,
+    "max_tool_calls": null,
+    "model": "gpt-5.2-2025-12-11",
+    "output": [
+      {
+        "id": "msg_043170c3911169a10069743ddde758819fa4f5ff3f92879bf7",
+        "type": "message",
+        "status": "completed",
+        "content": [
+          {
+            "type": "output_text",
+            "annotations": [],
+            "logprobs": [],
+            "text": "**Board composition post\u2011merger:** **Not found in document.**  \n\n- The OCR text provided does not include any slide/section describing the post\u2011merger board (e.g., number of directors, nominees, independent vs. affiliated directors, committee composition, or named board members). The available pages are largely redacted or contain only confidentiality markings and limited non\u2011governance content (e.g., company values on **Page 10**; product description on **Page 25**).  \n\n**Confidence:** HIGH (the requested information is absent from the provided text).  \n\n**Caveats / limitations:**  \n- The document appears to be heavily redacted/blank in the OCR output across most pages (e.g., **Pages 1\u20139, 11\u201323, 26\u201349** largely show only \u201c\u00a9 2021 WeWork. Confidential.\u201d and/or bullet placeholders), so board details may exist in the original slides but are not captured in the provided OCR text."
+          }
+        ],
+        "role": "assistant"
+      }
+    ],
+    "parallel_tool_calls": true,
+    "presence_penalty": 0,
+    "previous_response_id": null,
+    "prompt_cache_key": null,
+    "prompt_cache_retention": null,
+    "reasoning": {
+      "effort": "none",
+      "summary": null
+    },
+    "safety_identifier": null,
+    "service_tier": "default",
+    "store": true,
+    "temperature": 1,
+    "text": {
+      "format": {
+        "type": "text"
+      },
+      "verbosity": "medium"
+    },
+    "tool_choice": "auto",
+    "tools": [],
+    "top_logprobs": 0,
+    "top_p": 0.98,
+    "truncation": "disabled",
+    "usage": {
+      "input_tokens": 1306,
+      "input_tokens_details": {
+        "cached_tokens": 1152
+      },
+      "output_tokens": 206,
+      "output_tokens_details": {
+        "reasoning_tokens": 0
+      },
+      "total_tokens": 1512
+    },
+    "user": null,
+    "metadata": {}
+  }
+}

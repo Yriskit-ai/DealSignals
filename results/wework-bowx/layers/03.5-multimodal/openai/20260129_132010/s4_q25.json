@@ -1,0 +1,15 @@
+{
+  "question_id": "q25",
+  "question_text": "What is Adam Neumann's ongoing relationship/exposure?",
+  "category": "risk_red_flags",
+  "response": {
+    "content": "Adam Neumann's ongoing relationship with WeWork involves several aspects:\n\n1. **Observer Rights**: As of February 26, 2022, Adam Neumann or a designee approved by SBG has the right to observe meetings of WeWork\u2019s board of directors in a non-voting observer capacity. This right continues as long as Neumann beneficially owns equity securities representing at least 19,028,251 shares of WeWork Class A Common Stock on an as-converted basis\u30104:4\u2020S-4_A.pdf\u3011.\n\n2. **Settlement Agreement**: In connection with the settlement agreement, Adam Neumann\u2019s proxy and future rights to designate directors to WeWork\u2019s board of directors were eliminated\u30104:5\u2020S-4_A.pdf\u3011.\n\n3. **Modification of Profits Interest Units**: In February 2021, Neumann's WeWork Partnerships Profits Interest Units became fully vested with a reduced catch-up base amount\u30104:11\u2020S-4_A.pdf\u3011.\n\n4. **Litigation**: Neumann was involved in litigation related to the 2020 Tender Offer. A settlement agreement resolved this litigation\u30104:7\u2020S-4_A.pdf\u3011.\n\n5. **Non-compete Agreement**: A non-compete agreement was made with Adam Neumann for a cash payment\u30104:3\u2020S-4_A.pdf\u3011.\n\nOverall, Adam Neumann maintains certain financial interests in WeWork as well as limited rights to participate in board meetings as an observer.\n\nConfidence: HIGH (directly stated in the document).",
+    "model": "gpt-4o",
+    "input_tokens": 17912,
+    "output_tokens": 342,
+    "total_tokens": 18254,
+    "latency_ms": 22893,
+    "timestamp": "2026-01-29T18:30:21.042547",
+    "cost_usd": 0.0482
+  }
+}

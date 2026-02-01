@@ -1,0 +1,15 @@
+{
+  "question_id": "q04",
+  "question_text": "What is the cash burn rate?",
+  "category": "financial_fundamentals",
+  "response": {
+    "content": "Based on the document, I can identify several metrics related to cash burn and liquidity:\n\n**Free Cash Flow (Page 49, HIGH confidence):**\n- 2020: $(2,298) million\n- 2019: $(3,936) million\n\n**Net Cash Provided by Operating Activities (Page 49, HIGH confidence):**\n- 2020: $(857) million  \n- 2019: $(448) million\n\n**Liquidity Projections (Page 34, HIGH confidence):**\nThe document shows quarterly Adjusted EBITDA projections improving from negative $(424) million in Q1 2021E to positive $1,988 million by 2024E.\n\n**Cash Position (Page 35, HIGH confidence):**\nAs of 6/30/2021E: $665 million in cash and cash equivalents\n\n**Caveats and Limitations:**\n1. The document does not provide a specific \"cash burn rate\" metric per se, but rather shows Free Cash Flow and operating cash flow metrics\n2. These figures include both operational cash flows and capital expenditures\n3. The 2020 and 2019 figures reflect the company's pre-turnaround period, while projections show significant improvement expected\n4. The company projects achieving positive Adjusted EBITDA breakeven by Q4 2021E (Page 27)\n\nThe company appears to have significantly reduced its cash burn from 2019 to 2020 and projects a path to profitability, but specific quarterly burn rates are not explicitly stated in the document.",
+    "model": "claude-sonnet-4-20250514",
+    "input_tokens": 80338,
+    "output_tokens": 349,
+    "total_tokens": 80687,
+    "latency_ms": 16726,
+    "timestamp": "2026-01-29T17:46:57.703235",
+    "cost_usd": 0.246249
+  }
+}

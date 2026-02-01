@@ -1,0 +1,34 @@
+{
+  "content": "## Analysis: Business Performance at 70% Occupancy\n\n**Answer:** Not found in document.\n\nThe provided document does not contain specific information about what happens to the business at 70% occupancy. While the document appears to be a WeWork confidential presentation from 2021 (likely related to a SPAC merger based on the context), the OCR-parsed content is extremely limited.\n\n**Relevant Content Found:**\n\nThe only occupancy-related mention is on **Page 25**, which discusses the \"All Access\" product:\n- \"Drives Occupancy: Allows WeWork to drive occupancy beyond physical capacity levels across portfolio based on utilization projections\"\n\nHowever, this does not specify what happens at the 70% occupancy threshold or any specific occupancy level metrics.\n\n**Caveats and Limitations:**\n\n1. The OCR parsing appears to have captured very limited content - most pages show only the copyright notice \"\u00a9 2021 WeWork. Confidential.\" and bullet point markers without their associated text\n2. Page 24 shows a timeline from 2010-2030 but the accompanying data/text is not visible\n3. Pages 45-46 contain bullet points that may have included financial metrics or operational thresholds, but the actual text content was not captured\n4. The document likely contains charts, graphs, or tables that the OCR did not properly extract\n\n**Confidence Level:** N/A - Information not present in the parseable document content\n\n**Recommendation:** Request a better quality document extraction or the original source material to properly answer questions about occupancy thresholds and their financial implications.",
+  "model": "claude-opus-4-5",
+  "input_tokens": 1664,
+  "output_tokens": 356,
+  "latency_ms": 9616,
+  "timestamp": "2026-01-24T03:44:39.834800",
+  "cost_usd": 0.01722,
+  "raw_response": {
+    "model": "claude-opus-4-5-20251101",
+    "id": "msg_01BBdTHSCpAvNcrpfmknFPBQ",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "## Analysis: Business Performance at 70% Occupancy\n\n**Answer:** Not found in document.\n\nThe provided document does not contain specific information about what happens to the business at 70% occupancy. While the document appears to be a WeWork confidential presentation from 2021 (likely related to a SPAC merger based on the context), the OCR-parsed content is extremely limited.\n\n**Relevant Content Found:**\n\nThe only occupancy-related mention is on **Page 25**, which discusses the \"All Access\" product:\n- \"Drives Occupancy: Allows WeWork to drive occupancy beyond physical capacity levels across portfolio based on utilization projections\"\n\nHowever, this does not specify what happens at the 70% occupancy threshold or any specific occupancy level metrics.\n\n**Caveats and Limitations:**\n\n1. The OCR parsing appears to have captured very limited content - most pages show only the copyright notice \"\u00a9 2021 WeWork. Confidential.\" and bullet point markers without their associated text\n2. Page 24 shows a timeline from 2010-2030 but the accompanying data/text is not visible\n3. Pages 45-46 contain bullet points that may have included financial metrics or operational thresholds, but the actual text content was not captured\n4. The document likely contains charts, graphs, or tables that the OCR did not properly extract\n\n**Confidence Level:** N/A - Information not present in the parseable document content\n\n**Recommendation:** Request a better quality document extraction or the original source material to properly answer questions about occupancy thresholds and their financial implications."
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "usage": {
+      "input_tokens": 1664,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 356,
+      "service_tier": "standard"
+    }
+  }
+}

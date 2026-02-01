@@ -1,0 +1,34 @@
+{
+  "content": "# Analysis: SoftBank's Role and Ongoing Obligations\n\n## Answer:\n\n**Not found in document.**\n\n## Explanation:\n\nThe provided OCR-parsed document appears to be a WeWork investor presentation from 2021, but the text extraction is extremely limited. The document contains:\n- Page headers with copyright notices\n- Bullet points without accompanying text\n- One page (Page 10) with company values/mission statements\n- One page (Page 25) describing WeWork's \"All Access\" product offering\n- Multiple pages with only bullet points but no readable content\n\n**No information about SoftBank** - whether as an investor, creditor, partner, or sponsor - is present in the extracted text. Given that this appears to be related to a SPAC merger and SoftBank was historically a major WeWork investor, this information would likely be found in:\n- Transaction structure sections\n- Capitalization tables\n- Use of proceeds sections\n- Investor rights sections\n- Related party transaction disclosures\n\nHowever, none of these sections are readable in the provided document extraction.\n\n## Confidence Level: **HIGH**\n\nI am highly confident that this information is **not present** in the extracted/readable portions of this document.\n\n## Caveats:\n- The OCR extraction appears to be incomplete, with most content showing only bullet points without text\n- The actual PDF likely contains this information, but it was not successfully extracted in the parsing process",
+  "model": "claude-sonnet-4-5",
+  "input_tokens": 1663,
+  "output_tokens": 314,
+  "latency_ms": 10241,
+  "timestamp": "2026-01-24T03:28:14.129551",
+  "cost_usd": 0.009699,
+  "raw_response": {
+    "model": "claude-sonnet-4-5-20250929",
+    "id": "msg_01U7fetFZZuWZUXuBNsRfr9d",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "# Analysis: SoftBank's Role and Ongoing Obligations\n\n## Answer:\n\n**Not found in document.**\n\n## Explanation:\n\nThe provided OCR-parsed document appears to be a WeWork investor presentation from 2021, but the text extraction is extremely limited. The document contains:\n- Page headers with copyright notices\n- Bullet points without accompanying text\n- One page (Page 10) with company values/mission statements\n- One page (Page 25) describing WeWork's \"All Access\" product offering\n- Multiple pages with only bullet points but no readable content\n\n**No information about SoftBank** - whether as an investor, creditor, partner, or sponsor - is present in the extracted text. Given that this appears to be related to a SPAC merger and SoftBank was historically a major WeWork investor, this information would likely be found in:\n- Transaction structure sections\n- Capitalization tables\n- Use of proceeds sections\n- Investor rights sections\n- Related party transaction disclosures\n\nHowever, none of these sections are readable in the provided document extraction.\n\n## Confidence Level: **HIGH**\n\nI am highly confident that this information is **not present** in the extracted/readable portions of this document.\n\n## Caveats:\n- The OCR extraction appears to be incomplete, with most content showing only bullet points without text\n- The actual PDF likely contains this information, but it was not successfully extracted in the parsing process"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "usage": {
+      "input_tokens": 1663,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 314,
+      "service_tier": "standard"
+    }
+  }
+}

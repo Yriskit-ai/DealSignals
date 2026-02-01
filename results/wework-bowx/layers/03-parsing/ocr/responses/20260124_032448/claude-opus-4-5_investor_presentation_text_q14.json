@@ -1,0 +1,34 @@
+{
+  "content": "## Analysis: Duration Profile of Lease Commitments\n\n**Answer: Not found in document.**\n\nThe provided document does not contain specific information about the duration profile of WeWork's lease commitments. While the document appears to be a WeWork investor presentation from 2021 (based on the copyright notices), the OCR-parsed content is largely incomplete, showing primarily:\n\n- Copyright notices (\"\u00a9 2021 WeWork. Confidential.\") on each page\n- Empty bullet points without accompanying text\n- Company values/mission statement (Page 10)\n- A timeline spanning 2010-2030 (Page 24)\n- Description of \"All Access\" product features (Page 25)\n- Various placeholder bullet points and formatting symbols\n\n**Key Limitations:**\n1. The OCR parsing appears to have failed to capture the substantive content from most pages\n2. No financial data, lease terms, maturity schedules, or commitment durations are visible in the extracted text\n3. Pages that would typically contain such financial details (potentially around pages 45-50 based on typical investor deck structure) show only bullet points without text\n\n**Confidence Level: N/A** - Cannot provide an answer as the information is not present in the document.\n\n**Recommendation:** To properly assess the duration profile of lease commitments for due diligence purposes, you would need:\n- A properly OCR-scanned version of this document\n- The company's audited financial statements with lease disclosure notes\n- SEC filings (S-4, 10-K) which would contain required ASC 842 lease disclosures",
+  "model": "claude-opus-4-5",
+  "input_tokens": 1662,
+  "output_tokens": 351,
+  "latency_ms": 9617,
+  "timestamp": "2026-01-24T03:44:20.583943",
+  "cost_usd": 0.017085,
+  "raw_response": {
+    "model": "claude-opus-4-5-20251101",
+    "id": "msg_019BYyXBwD6HGhkJQfurqwhM",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "## Analysis: Duration Profile of Lease Commitments\n\n**Answer: Not found in document.**\n\nThe provided document does not contain specific information about the duration profile of WeWork's lease commitments. While the document appears to be a WeWork investor presentation from 2021 (based on the copyright notices), the OCR-parsed content is largely incomplete, showing primarily:\n\n- Copyright notices (\"\u00a9 2021 WeWork. Confidential.\") on each page\n- Empty bullet points without accompanying text\n- Company values/mission statement (Page 10)\n- A timeline spanning 2010-2030 (Page 24)\n- Description of \"All Access\" product features (Page 25)\n- Various placeholder bullet points and formatting symbols\n\n**Key Limitations:**\n1. The OCR parsing appears to have failed to capture the substantive content from most pages\n2. No financial data, lease terms, maturity schedules, or commitment durations are visible in the extracted text\n3. Pages that would typically contain such financial details (potentially around pages 45-50 based on typical investor deck structure) show only bullet points without text\n\n**Confidence Level: N/A** - Cannot provide an answer as the information is not present in the document.\n\n**Recommendation:** To properly assess the duration profile of lease commitments for due diligence purposes, you would need:\n- A properly OCR-scanned version of this document\n- The company's audited financial statements with lease disclosure notes\n- SEC filings (S-4, 10-K) which would contain required ASC 842 lease disclosures"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "usage": {
+      "input_tokens": 1662,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 351,
+      "service_tier": "standard"
+    }
+  }
+}

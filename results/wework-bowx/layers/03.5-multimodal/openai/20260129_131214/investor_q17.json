@@ -1,0 +1,15 @@
+{
+  "question_id": "q17",
+  "question_text": "What happens to the business at 50% occupancy?",
+  "category": "obligations_exposure",
+  "response": {
+    "content": "Not found in document. \n\nConfidence: HIGH (After search, no specific information on the business at 50% occupancy is provided in the document.)",
+    "model": "gpt-4o",
+    "input_tokens": 3702,
+    "output_tokens": 58,
+    "total_tokens": 3760,
+    "latency_ms": 5548,
+    "timestamp": "2026-01-29T18:14:54.948464",
+    "cost_usd": 0.009835
+  }
+}

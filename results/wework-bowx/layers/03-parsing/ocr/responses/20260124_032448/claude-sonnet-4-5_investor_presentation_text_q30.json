@@ -1,0 +1,34 @@
+{
+  "content": "# Analysis: Material Weaknesses in Internal Controls\n\n## Answer:\n**Not found in document.**\n\n## Citations:\nI have reviewed all 50 pages of the provided OCR-parsed document. The document appears to be a WeWork confidential presentation from 2021, likely related to their SPAC merger. However, the OCR parsing has resulted in most content being obscured or represented only as bullet points and structural elements.\n\nThe document does not contain any explicit discussion of:\n- Material weaknesses in internal controls\n- Internal control assessments\n- SOX 404 disclosures\n- Audit committee findings\n- Control deficiencies\n- Remediation plans\n\n## Confidence Level: \n**MEDIUM** - While I cannot find any mention of material weaknesses, the poor OCR quality means substantial content may be present but not readable in the parsed version.\n\n## Caveats and Limitations:\n1. **Severe OCR limitations**: The document parsing captured only headers, bullet points, and occasional fragments of text. Most substantive content is missing from the parsed version.\n2. **Incomplete information**: This appears to be a business overview/pitch deck rather than a comprehensive disclosure document where internal control weaknesses would typically be discussed (such as in Form 10-K, S-4, or proxy statements).\n3. **Document type**: Material weaknesses are typically disclosed in SEC filings rather than in confidential presentations, so this may not be the appropriate document source for such information.\n\n**Recommendation**: Request the actual SEC filing documents (Form S-4, proxy statement, or Form 10-K) for proper due diligence on internal control matters.",
+  "model": "claude-sonnet-4-5",
+  "input_tokens": 1662,
+  "output_tokens": 364,
+  "latency_ms": 10854,
+  "timestamp": "2026-01-24T03:29:28.674587",
+  "cost_usd": 0.010446,
+  "raw_response": {
+    "model": "claude-sonnet-4-5-20250929",
+    "id": "msg_01QrSMLfjhvchjdySy9BkBCi",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "# Analysis: Material Weaknesses in Internal Controls\n\n## Answer:\n**Not found in document.**\n\n## Citations:\nI have reviewed all 50 pages of the provided OCR-parsed document. The document appears to be a WeWork confidential presentation from 2021, likely related to their SPAC merger. However, the OCR parsing has resulted in most content being obscured or represented only as bullet points and structural elements.\n\nThe document does not contain any explicit discussion of:\n- Material weaknesses in internal controls\n- Internal control assessments\n- SOX 404 disclosures\n- Audit committee findings\n- Control deficiencies\n- Remediation plans\n\n## Confidence Level: \n**MEDIUM** - While I cannot find any mention of material weaknesses, the poor OCR quality means substantial content may be present but not readable in the parsed version.\n\n## Caveats and Limitations:\n1. **Severe OCR limitations**: The document parsing captured only headers, bullet points, and occasional fragments of text. Most substantive content is missing from the parsed version.\n2. **Incomplete information**: This appears to be a business overview/pitch deck rather than a comprehensive disclosure document where internal control weaknesses would typically be discussed (such as in Form 10-K, S-4, or proxy statements).\n3. **Document type**: Material weaknesses are typically disclosed in SEC filings rather than in confidential presentations, so this may not be the appropriate document source for such information.\n\n**Recommendation**: Request the actual SEC filing documents (Form S-4, proxy statement, or Form 10-K) for proper due diligence on internal control matters."
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "usage": {
+      "input_tokens": 1662,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 364,
+      "service_tier": "standard"
+    }
+  }
+}

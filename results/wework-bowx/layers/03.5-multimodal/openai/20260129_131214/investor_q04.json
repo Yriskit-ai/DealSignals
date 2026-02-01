@@ -1,0 +1,15 @@
+{
+  "question_id": "q04",
+  "question_text": "What is the cash burn rate?",
+  "category": "financial_fundamentals",
+  "response": {
+    "content": "The cash burn rate is not directly mentioned in the document provided. Therefore, I cannot provide specific details about the cash burn rate from the document. \"Not found in document\". Confidence: HIGH (directly searched).",
+    "model": "gpt-4o",
+    "input_tokens": 3694,
+    "output_tokens": 71,
+    "total_tokens": 3765,
+    "latency_ms": 8203,
+    "timestamp": "2026-01-29T18:13:14.393676",
+    "cost_usd": 0.009945
+  }
+}

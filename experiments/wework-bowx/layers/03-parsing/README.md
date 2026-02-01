@@ -28,6 +28,8 @@ Optional overrides:
 - `LAYER_03_OUTPUT_DIR`
 - `LAYER_03_POLL_INTERVAL_S`
 - `LAYER_03_POLL_TIMEOUT_S`
+- `LAYER_03_SKIP_TEXT` (default: false)
+- `LAYER_03_FORCE_OCR` (default: false)
 
 The prep step writes outputs under
 `experiments/wework-bowx/data/layer-03/ocrmypdf_tesseract_v1/`.

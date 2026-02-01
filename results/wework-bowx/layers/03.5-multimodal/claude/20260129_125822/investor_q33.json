@@ -1,0 +1,15 @@
+{
+  "question_id": "q33",
+  "question_text": "What are the lock-up agreements?",
+  "category": "governance_control",
+  "response": {
+    "content": "Based on my review of the provided WeWork SPAC merger document, I cannot find specific information about lock-up agreements.\n\n**Not found in document**\n\n**Confidence: HIGH** - I thoroughly searched the document for terms related to lock-up agreements, lock-up provisions, or similar arrangements that would restrict the sale of shares post-merger, but no such information is present in the pages provided.\n\n**Caveats:**\n- This appears to be a partial presentation document (49 pages) rather than a comprehensive merger agreement or proxy statement\n- Lock-up agreement details are typically found in:\n  - The definitive merger agreement\n  - SEC proxy statement/prospectus (Form S-4)\n  - Registration statements\n- The document does reference on page 2 that \"Investors and security holders of BowX and WeWork are urged to read the proxy statement/prospectus and other relevant documents that will be filed with the SEC carefully\"\n\nTo find lock-up agreement details, you would need to review the complete SEC filings for this SPAC transaction, particularly the proxy statement/prospectus and merger agreement.",
+    "model": "claude-sonnet-4-20250514",
+    "input_tokens": 80339,
+    "output_tokens": 247,
+    "total_tokens": 80586,
+    "latency_ms": 13365,
+    "timestamp": "2026-01-29T18:06:05.946495",
+    "cost_usd": 0.244722
+  }
+}

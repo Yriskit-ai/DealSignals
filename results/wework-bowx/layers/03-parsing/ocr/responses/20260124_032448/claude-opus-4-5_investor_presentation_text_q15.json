@@ -1,0 +1,34 @@
+{
+  "content": "## Analysis: Lease Termination Provisions\n\n**Answer:** Not found in document.\n\n**Explanation:** After reviewing all 50 pages of the provided OCR-parsed document, I was unable to locate any information regarding lease termination provisions. The document appears to be a WeWork confidential presentation from 2021, but the OCR parsing has captured very limited substantive content. \n\nThe visible content includes:\n- Company values/mission statements (Page 10)\n- A timeline graphic reference spanning 2010-2030 (Page 24)\n- Description of the \"All Access\" subscription product (Page 25)\n- Various bullet point placeholders without readable text\n- Definition/metric references (Page 45-46)\n\nHowever, there is no discernible information about:\n- Lease termination clauses\n- Early termination penalties or fees\n- Notice period requirements\n- Termination triggers or conditions\n- Landlord or tenant termination rights\n\n**Confidence Level:** N/A (information not present)\n\n**Caveats and Limitations:**\n1. The OCR parsing appears to have failed to capture most of the document's substantive content - many pages show only the copyright notice and bullet point markers without actual text\n2. This appears to be a presentation deck where images, charts, and formatted text may not have been captured by OCR\n3. Lease termination provisions would typically be found in legal agreements or detailed financial disclosures, which may not be the purpose of this particular document\n4. A complete analysis of lease terms would require access to the underlying lease agreements or SEC filings (such as Form S-4 or prospectus materials)",
+  "model": "claude-opus-4-5",
+  "input_tokens": 1660,
+  "output_tokens": 366,
+  "latency_ms": 9624,
+  "timestamp": "2026-01-24T03:44:30.211806",
+  "cost_usd": 0.01745,
+  "raw_response": {
+    "model": "claude-opus-4-5-20251101",
+    "id": "msg_01KxqjpbDZ9dC4S7j5q5p8VS",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "## Analysis: Lease Termination Provisions\n\n**Answer:** Not found in document.\n\n**Explanation:** After reviewing all 50 pages of the provided OCR-parsed document, I was unable to locate any information regarding lease termination provisions. The document appears to be a WeWork confidential presentation from 2021, but the OCR parsing has captured very limited substantive content. \n\nThe visible content includes:\n- Company values/mission statements (Page 10)\n- A timeline graphic reference spanning 2010-2030 (Page 24)\n- Description of the \"All Access\" subscription product (Page 25)\n- Various bullet point placeholders without readable text\n- Definition/metric references (Page 45-46)\n\nHowever, there is no discernible information about:\n- Lease termination clauses\n- Early termination penalties or fees\n- Notice period requirements\n- Termination triggers or conditions\n- Landlord or tenant termination rights\n\n**Confidence Level:** N/A (information not present)\n\n**Caveats and Limitations:**\n1. The OCR parsing appears to have failed to capture most of the document's substantive content - many pages show only the copyright notice and bullet point markers without actual text\n2. This appears to be a presentation deck where images, charts, and formatted text may not have been captured by OCR\n3. Lease termination provisions would typically be found in legal agreements or detailed financial disclosures, which may not be the purpose of this particular document\n4. A complete analysis of lease terms would require access to the underlying lease agreements or SEC filings (such as Form S-4 or prospectus materials)"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "usage": {
+      "input_tokens": 1660,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 366,
+      "service_tier": "standard"
+    }
+  }
+}

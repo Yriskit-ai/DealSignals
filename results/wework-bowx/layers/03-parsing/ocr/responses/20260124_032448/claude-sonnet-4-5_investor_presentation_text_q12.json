@@ -1,0 +1,34 @@
+{
+  "content": "# Analysis: Average Revenue Per Member\n\n## Answer\n\n**Not found in document.**\n\n## Explanation\n\nThe document provided consists primarily of presentation slides with copyright notices and limited visible content. While the document appears to be a WeWork investor presentation from 2021, the specific financial metric \"average revenue per member\" is not stated in the available text.\n\n## What Was Found\n\n- **Page 25**: Describes WeWork's \"All Access\" product model mentioning it \"Generates Partnerships,\" \"Drives Occupancy,\" and has \"High Margins\" with a \"subscription-based model,\" but provides no specific revenue or member metrics.\n\n- **Page 45**: Contains bullet points that appear to reference various metrics (indicated by multiple \"\u25cf\" symbols), with one mentioning \"divided by\" which could suggest ratio calculations, but the actual text/numbers are not visible in the OCR output.\n\n## Confidence Level\n\n**N/A** - The information is not present in the document as provided.\n\n## Caveats\n\n1. The OCR parsing appears incomplete, with most pages showing only copyright notices\n2. Many pages contain bullet points (\u25cf) without accompanying text, suggesting content may not have been properly captured\n3. If this metric exists in the original presentation, it was not successfully extracted in the OCR process",
+  "model": "claude-sonnet-4-5",
+  "input_tokens": 1660,
+  "output_tokens": 283,
+  "latency_ms": 8211,
+  "timestamp": "2026-01-24T03:26:42.990515",
+  "cost_usd": 0.009225,
+  "raw_response": {
+    "model": "claude-sonnet-4-5-20250929",
+    "id": "msg_01To8V7vh1zrAQWxrigMMAy7",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "# Analysis: Average Revenue Per Member\n\n## Answer\n\n**Not found in document.**\n\n## Explanation\n\nThe document provided consists primarily of presentation slides with copyright notices and limited visible content. While the document appears to be a WeWork investor presentation from 2021, the specific financial metric \"average revenue per member\" is not stated in the available text.\n\n## What Was Found\n\n- **Page 25**: Describes WeWork's \"All Access\" product model mentioning it \"Generates Partnerships,\" \"Drives Occupancy,\" and has \"High Margins\" with a \"subscription-based model,\" but provides no specific revenue or member metrics.\n\n- **Page 45**: Contains bullet points that appear to reference various metrics (indicated by multiple \"\u25cf\" symbols), with one mentioning \"divided by\" which could suggest ratio calculations, but the actual text/numbers are not visible in the OCR output.\n\n## Confidence Level\n\n**N/A** - The information is not present in the document as provided.\n\n## Caveats\n\n1. The OCR parsing appears incomplete, with most pages showing only copyright notices\n2. Many pages contain bullet points (\u25cf) without accompanying text, suggesting content may not have been properly captured\n3. If this metric exists in the original presentation, it was not successfully extracted in the OCR process"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "usage": {
+      "input_tokens": 1660,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 283,
+      "service_tier": "standard"
+    }
+  }
+}

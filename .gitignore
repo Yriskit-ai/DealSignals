@@ -45,6 +45,7 @@ Thumbs.db
 .env
 .env.local
 TODO.local.md
+.data/
 
 # SEC Filing Data (large, re-downloadable from SEC EDGAR)
 # See experiments/wework-bowx/data/README.md for download instructions
@@ -55,6 +56,9 @@ experiments/*/data/supplemental/
 case-studies/*/data/bowx/
 case-studies/*/data/wework/
 case-studies/*/data/supplemental/
+
+# Layer 03 OCR outputs (large, regeneratable via scripts/prep_layer_03.py)
+experiments/*/data/layer-03/
 
 # Jupyter
 .ipynb_checkpoints/

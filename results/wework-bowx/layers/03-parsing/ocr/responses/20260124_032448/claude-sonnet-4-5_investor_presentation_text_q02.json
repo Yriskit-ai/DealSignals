@@ -1,0 +1,34 @@
+{
+  "content": "# Analysis: Revenue Growth Rate Year-over-Year\n\n## Answer\n**Not found in document.**\n\n## Explanation\nThe provided document appears to be a WeWork investor presentation from 2021, but the OCR parsing has not captured any actual financial data, revenue figures, or specific numerical information that would allow calculation of year-over-year revenue growth rates.\n\n## Search Conducted\nI reviewed all 50 pages looking for:\n- Revenue figures for any fiscal years\n- Year-over-year growth percentages\n- Financial tables or charts with revenue data\n- Historical or projected revenue metrics\n\n## What Was Found\nThe document contains:\n- Copyright notices on every page\n- Company values and mission statements (Page 10)\n- Product description for \"All Access\" offering (Page 25)\n- Timeline spanning 2010-2030 (Page 24) - but no data visible\n- Bullet points without readable content (multiple pages)\n\n## Limitations\nThe OCR parsing appears to have failed to capture:\n- Actual text content of bullet points\n- Financial tables or numbers\n- Chart data\n- Detailed financial metrics\n\n## Confidence Level\n**N/A** - Cannot provide a confidence rating as the required information is not present in the parsed document.\n\n## Recommendation\nRequest a higher-quality OCR parse or the original document with readable financial data to answer this question.",
+  "model": "claude-sonnet-4-5",
+  "input_tokens": 1664,
+  "output_tokens": 302,
+  "latency_ms": 8389,
+  "timestamp": "2026-01-24T03:25:06.118479",
+  "cost_usd": 0.009522,
+  "raw_response": {
+    "model": "claude-sonnet-4-5-20250929",
+    "id": "msg_016wSWwuRzMaVFMw7VzGimTv",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "# Analysis: Revenue Growth Rate Year-over-Year\n\n## Answer\n**Not found in document.**\n\n## Explanation\nThe provided document appears to be a WeWork investor presentation from 2021, but the OCR parsing has not captured any actual financial data, revenue figures, or specific numerical information that would allow calculation of year-over-year revenue growth rates.\n\n## Search Conducted\nI reviewed all 50 pages looking for:\n- Revenue figures for any fiscal years\n- Year-over-year growth percentages\n- Financial tables or charts with revenue data\n- Historical or projected revenue metrics\n\n## What Was Found\nThe document contains:\n- Copyright notices on every page\n- Company values and mission statements (Page 10)\n- Product description for \"All Access\" offering (Page 25)\n- Timeline spanning 2010-2030 (Page 24) - but no data visible\n- Bullet points without readable content (multiple pages)\n\n## Limitations\nThe OCR parsing appears to have failed to capture:\n- Actual text content of bullet points\n- Financial tables or numbers\n- Chart data\n- Detailed financial metrics\n\n## Confidence Level\n**N/A** - Cannot provide a confidence rating as the required information is not present in the parsed document.\n\n## Recommendation\nRequest a higher-quality OCR parse or the original document with readable financial data to answer this question."
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "usage": {
+      "input_tokens": 1664,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 302,
+      "service_tier": "standard"
+    }
+  }
+}

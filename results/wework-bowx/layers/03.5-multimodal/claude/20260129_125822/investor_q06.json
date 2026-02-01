@@ -1,0 +1,15 @@
+{
+  "question_id": "q06",
+  "question_text": "What is the path to profitability and timeline stated?",
+  "category": "financial_fundamentals",
+  "response": {
+    "content": "Based on the document, here is the path to profitability and timeline for WeWork:\n\n## Path to Profitability\n\n**Physical Occupancy Threshold**: The company states that approximately **~70% physical occupancy** is needed to achieve Adjusted EBITDA breakeven (page 27).\n\n**Key Strategic Elements** (page 13):\n- Focus on profitable market share expansion, increasing ARPM and asset light buildouts\n- Enhance asset light revenue growth through digitization of real estate and platform offerings\n- Expand beyond core via All Access, Marketplace, and Platform offerings\n\n## Timeline\n\n**2021 Projections** (page 14):\n- Expected to achieve Adjusted EBITDA breakeven by **Q4 2021**\n- 2021E revenue projected at $3.2B with continued losses\n\n**Recovery Timeline** (page 27):\n- **Q4 2021E**: Adjusted EBITDA breakeven expected\n- **2022E Q1**: 1% Adj. EBITDA margin\n- **2022E Q2**: 8% Adj. EBITDA margin  \n- **2022E Q3**: 12% Adj. EBITDA margin\n- **2022E Q4**: 17% Adj. EBITDA margin\n- **2023E**: 23% Adj. EBITDA margin\n- **2024E**: 29% Adj. EBITDA margin\n\n## Financial Targets (page 29)\n\nBy **2024E**:\n- Revenue: $7.0B (excluding ChinaCo)\n- Adj. EBITDA: $2.0B  \n- Adj. EBITDA Margin: 29%\n\n**Confidence Level**: HIGH - These figures are directly stated in the financial projections and management presentations throughout the document.",
+    "model": "claude-sonnet-4-20250514",
+    "input_tokens": 80343,
+    "output_tokens": 422,
+    "total_tokens": 80765,
+    "latency_ms": 16069,
+    "timestamp": "2026-01-29T17:59:43.401997",
+    "cost_usd": 0.247359
+  }
+}

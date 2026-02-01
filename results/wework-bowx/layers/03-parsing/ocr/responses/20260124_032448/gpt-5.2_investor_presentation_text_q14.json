@@ -1,0 +1,80 @@
+{
+  "content": "**Duration profile of lease commitments:** **Not found in document.**\n\n- The provided OCR text does not include any table, narrative, or schedule describing the *maturity / duration profile* of WeWork\u2019s lease commitments (e.g., lease payments by year or by maturity buckets). Most pages are redacted/blank in OCR (e.g., Pages **1\u20139**, **11\u201323**, **26\u201350** largely show only \u201c\u00a9 2021 WeWork. Confidential.\u201d with no lease-commitment content).  \n  **Citations:** Pages **1\u20139**, **11\u201323**, **26\u201350**.\n\n**Confidence:** HIGH (directly absent from provided text)\n\n**Caveats / limitations:**  \n- The OCR appears incomplete/redacted for many pages (bullets with no readable content on Pages **6**, **9**, **15**, **22\u201323**, **27**, **37\u201338**, **45\u201346**, **50**), so a lease maturity schedule could exist in the original document but is not captured in the provided OCR.  \n  **Citations:** Pages **6**, **9**, **15**, **22\u201323**, **27**, **37\u201338**, **45\u201346**, **50**.",
+  "model": "gpt-5.2",
+  "input_tokens": 1306,
+  "output_tokens": 262,
+  "latency_ms": 5518,
+  "timestamp": "2026-01-24T03:33:23.169777",
+  "cost_usd": 0.0059535000000000005,
+  "raw_response": {
+    "id": "resp_0d8fc05952fa9ae40069743d7dd66c819ea05aadd42059d60a",
+    "object": "response",
+    "created_at": 1769225597,
+    "status": "completed",
+    "background": false,
+    "billing": {
+      "payer": "openai"
+    },
+    "completed_at": 1769225602,
+    "error": null,
+    "frequency_penalty": 0,
+    "incomplete_details": null,
+    "instructions": null,
+    "max_output_tokens": null,
+    "max_tool_calls": null,
+    "model": "gpt-5.2-2025-12-11",
+    "output": [
+      {
+        "id": "msg_0d8fc05952fa9ae40069743d7e0c38819ebf4229a447a1ce93",
+        "type": "message",
+        "status": "completed",
+        "content": [
+          {
+            "type": "output_text",
+            "annotations": [],
+            "logprobs": [],
+            "text": "**Duration profile of lease commitments:** **Not found in document.**\n\n- The provided OCR text does not include any table, narrative, or schedule describing the *maturity / duration profile* of WeWork\u2019s lease commitments (e.g., lease payments by year or by maturity buckets). Most pages are redacted/blank in OCR (e.g., Pages **1\u20139**, **11\u201323**, **26\u201350** largely show only \u201c\u00a9 2021 WeWork. Confidential.\u201d with no lease-commitment content).  \n  **Citations:** Pages **1\u20139**, **11\u201323**, **26\u201350**.\n\n**Confidence:** HIGH (directly absent from provided text)\n\n**Caveats / limitations:**  \n- The OCR appears incomplete/redacted for many pages (bullets with no readable content on Pages **6**, **9**, **15**, **22\u201323**, **27**, **37\u201338**, **45\u201346**, **50**), so a lease maturity schedule could exist in the original document but is not captured in the provided OCR.  \n  **Citations:** Pages **6**, **9**, **15**, **22\u201323**, **27**, **37\u201338**, **45\u201346**, **50**."
+          }
+        ],
+        "role": "assistant"
+      }
+    ],
+    "parallel_tool_calls": true,
+    "presence_penalty": 0,
+    "previous_response_id": null,
+    "prompt_cache_key": null,
+    "prompt_cache_retention": null,
+    "reasoning": {
+      "effort": "none",
+      "summary": null
+    },
+    "safety_identifier": null,
+    "service_tier": "default",
+    "store": true,
+    "temperature": 1,
+    "text": {
+      "format": {
+        "type": "text"
+      },
+      "verbosity": "medium"
+    },
+    "tool_choice": "auto",
+    "tools": [],
+    "top_logprobs": 0,
+    "top_p": 0.98,
+    "truncation": "disabled",
+    "usage": {
+      "input_tokens": 1306,
+      "input_tokens_details": {
+        "cached_tokens": 1152
+      },
+      "output_tokens": 262,
+      "output_tokens_details": {
+        "reasoning_tokens": 0
+      },
+      "total_tokens": 1568
+    },
+    "user": null,
+    "metadata": {}
+  }
+}

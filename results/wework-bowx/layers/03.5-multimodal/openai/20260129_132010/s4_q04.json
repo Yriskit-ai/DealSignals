@@ -1,0 +1,15 @@
+{
+  "question_id": "q04",
+  "question_text": "What is the cash burn rate?",
+  "category": "financial_fundamentals",
+  "response": {
+    "content": "The document provides information on cash flows but does not explicitly mention a cash burn rate in a direct manner. The document discusses operating cash flows and indicates a net cash usage from operating activities, which could be used to infer a cash burn rate with further calculations. For instance:\n\n- For the six months ended June 30, 2021, there was an increase in net cash used in operating activities by $1.0 billion compared to the same period in 2020\u30104:0\u2020S-4_A.pdf\u3011.\n- For the year ended December 31, 2020, the net cash used in operating activities was $857.0 million\u30104:2\u2020S-4_A.pdf\u3011.\n- For the six months ended June 30, 2021, net cash used in operating activities amounted to approximately $599.8 million\u30104:5\u2020S-4_A.pdf\u3011.\n\nThese values provide potential indicators of cash outflows that could be extrapolated to calculate a monthly burn rate, but the document does not provide a specific \"cash burn rate\" term or summarization. \n\nConfidence: MEDIUM (derived/calculated)",
+    "model": "gpt-4o",
+    "input_tokens": 17248,
+    "output_tokens": 266,
+    "total_tokens": 17514,
+    "latency_ms": 31496,
+    "timestamp": "2026-01-29T18:22:26.767056",
+    "cost_usd": 0.04578
+  }
+}

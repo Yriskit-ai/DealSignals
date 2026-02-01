@@ -1,0 +1,34 @@
+{
+  "content": "## Analysis of Lock-up Agreements\n\n**Answer:** Not found in document.\n\n**Explanation:** \nI have thoroughly reviewed all 50 pages of the provided OCR-parsed document. The document appears to be a WeWork confidential presentation from 2021, but the OCR parsing has captured very limited text content. The visible content includes:\n\n- Copyright notices (\"\u00a9 2021 WeWork. Confidential.\") on every page\n- Company values/mission statements (Page 10)\n- A timeline spanning 2010-2030 (Page 24)\n- Description of an \"All Access\" subscription product (Page 25)\n- Various bullet points without their associated text content\n- Some definitions or metric explanations (Page 45-46)\n\nHowever, there is **no mention of lock-up agreements** anywhere in the document. Lock-up agreements typically specify:\n- The duration shareholders must hold shares post-merger\n- Which parties are subject to the lock-up\n- Any early release provisions\n- Volume restrictions after lock-up expiration\n\nNone of this information appears in the provided document text.\n\n**Confidence Level:** HIGH (that the information is not present in the document)\n\n**Caveats/Limitations:**\n1. The OCR parsing appears to have missed substantial content from the original document - many pages show only bullet point markers without the actual text\n2. The lock-up agreement details may exist in the full presentation but were not captured by the OCR process\n3. Lock-up terms are often found in separate legal documents (merger agreements, registration statements) rather than investor presentations",
+  "model": "claude-opus-4-5",
+  "input_tokens": 1660,
+  "output_tokens": 351,
+  "latency_ms": 9414,
+  "timestamp": "2026-01-24T03:47:36.169211",
+  "cost_usd": 0.017075,
+  "raw_response": {
+    "model": "claude-opus-4-5-20251101",
+    "id": "msg_0124irLNQZRw2vYvDjSC8pRB",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "## Analysis of Lock-up Agreements\n\n**Answer:** Not found in document.\n\n**Explanation:** \nI have thoroughly reviewed all 50 pages of the provided OCR-parsed document. The document appears to be a WeWork confidential presentation from 2021, but the OCR parsing has captured very limited text content. The visible content includes:\n\n- Copyright notices (\"\u00a9 2021 WeWork. Confidential.\") on every page\n- Company values/mission statements (Page 10)\n- A timeline spanning 2010-2030 (Page 24)\n- Description of an \"All Access\" subscription product (Page 25)\n- Various bullet points without their associated text content\n- Some definitions or metric explanations (Page 45-46)\n\nHowever, there is **no mention of lock-up agreements** anywhere in the document. Lock-up agreements typically specify:\n- The duration shareholders must hold shares post-merger\n- Which parties are subject to the lock-up\n- Any early release provisions\n- Volume restrictions after lock-up expiration\n\nNone of this information appears in the provided document text.\n\n**Confidence Level:** HIGH (that the information is not present in the document)\n\n**Caveats/Limitations:**\n1. The OCR parsing appears to have missed substantial content from the original document - many pages show only bullet point markers without the actual text\n2. The lock-up agreement details may exist in the full presentation but were not captured by the OCR process\n3. Lock-up terms are often found in separate legal documents (merger agreements, registration statements) rather than investor presentations"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "usage": {
+      "input_tokens": 1660,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 351,
+      "service_tier": "standard"
+    }
+  }
+}

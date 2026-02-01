@@ -1,0 +1,15 @@
+{
+  "question_id": "q21",
+  "question_text": "Who are the key executives and what is their track record?",
+  "category": "deal_structure",
+  "response": {
+    "content": "Not found in document. \n\nConfidence: LOW - The document's search results did not reveal detailed information about the key executives or their track records. The document may not contain this level of detail, or it could be present in a part of the document that I was unable to search based on the snippets provided.",
+    "model": "gpt-4o",
+    "input_tokens": 3711,
+    "output_tokens": 97,
+    "total_tokens": 3808,
+    "latency_ms": 10988,
+    "timestamp": "2026-01-29T18:15:39.023914",
+    "cost_usd": 0.0102475
+  }
+}

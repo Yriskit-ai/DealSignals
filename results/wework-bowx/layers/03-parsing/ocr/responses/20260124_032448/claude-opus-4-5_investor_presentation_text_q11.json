@@ -1,0 +1,34 @@
+{
+  "content": "## Answer: Not found in document\n\nThe provided document does not contain any information about member churn rate. While the document appears to be a WeWork confidential presentation from 2021, the OCR-parsed content is extremely limited, showing mostly:\n\n- Copyright notices (\"\u00a9 2021 WeWork. Confidential.\")\n- Bullet point markers without associated text\n- Company values/mission statement (Page 10)\n- A brief description of the \"All Access\" product (Page 25)\n- A timeline spanning 2010-2030 (Page 24)\n\n**Caveats and Limitations:**\n- The OCR parsing appears to have failed to capture most of the actual content from this document\n- Many pages show only bullet point symbols (\u2022, \u25cf, \u25cb) without the accompanying text\n- Page 45 references metrics definitions (including \"divided by\" suggesting ratio calculations), but the actual metric names and values were not captured\n- The document likely contains financial and operational metrics that were not successfully extracted through OCR\n\n**Confidence: N/A** - Cannot provide a confidence rating as the information is not present in the available document content.\n\n**Recommendation:** Request a better quality OCR scan or the original source document to conduct proper due diligence on member churn metrics.",
+  "model": "claude-opus-4-5",
+  "input_tokens": 1659,
+  "output_tokens": 283,
+  "latency_ms": 8400,
+  "timestamp": "2026-01-24T03:43:51.300988",
+  "cost_usd": 0.01537,
+  "raw_response": {
+    "model": "claude-opus-4-5-20251101",
+    "id": "msg_01BKpwH5XKyaSfg8w5MjhTQW",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "## Answer: Not found in document\n\nThe provided document does not contain any information about member churn rate. While the document appears to be a WeWork confidential presentation from 2021, the OCR-parsed content is extremely limited, showing mostly:\n\n- Copyright notices (\"\u00a9 2021 WeWork. Confidential.\")\n- Bullet point markers without associated text\n- Company values/mission statement (Page 10)\n- A brief description of the \"All Access\" product (Page 25)\n- A timeline spanning 2010-2030 (Page 24)\n\n**Caveats and Limitations:**\n- The OCR parsing appears to have failed to capture most of the actual content from this document\n- Many pages show only bullet point symbols (\u2022, \u25cf, \u25cb) without the accompanying text\n- Page 45 references metrics definitions (including \"divided by\" suggesting ratio calculations), but the actual metric names and values were not captured\n- The document likely contains financial and operational metrics that were not successfully extracted through OCR\n\n**Confidence: N/A** - Cannot provide a confidence rating as the information is not present in the available document content.\n\n**Recommendation:** Request a better quality OCR scan or the original source document to conduct proper due diligence on member churn metrics."
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "usage": {
+      "input_tokens": 1659,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 283,
+      "service_tier": "standard"
+    }
+  }
+}

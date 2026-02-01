@@ -1,0 +1,15 @@
+{
+  "question_id": "q37",
+  "question_text": "What is the exit/refinancing strategy for the lease obligations?",
+  "category": "synthesis_judgment",
+  "response": {
+    "content": "Not found in document.\n\nConfidence level: HIGH, as there was no relevant information on the exit or refinancing strategy for lease obligations found in the document.",
+    "model": "gpt-4o",
+    "input_tokens": 3718,
+    "output_tokens": 70,
+    "total_tokens": 3788,
+    "latency_ms": 7242,
+    "timestamp": "2026-01-29T18:17:47.340350",
+    "cost_usd": 0.009994999999999999
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "question_id": "q15",
+  "question_text": "What are the lease termination provisions?",
+  "category": "obligations_exposure",
+  "response": {
+    "content": "Lease termination provisions are not mentioned in the provided document. \n\nConfidence: HIGH (the document was searched specifically for this content with no results). \n\nCaveat: If further details about the lease terms are elsewhere or under different wording, they would require a more detailed search or different document(s) for full context.",
+    "model": "gpt-4o",
+    "input_tokens": 3686,
+    "output_tokens": 83,
+    "total_tokens": 3769,
+    "latency_ms": 7876,
+    "timestamp": "2026-01-29T18:14:42.304084",
+    "cost_usd": 0.010045000000000002
+  }
+}

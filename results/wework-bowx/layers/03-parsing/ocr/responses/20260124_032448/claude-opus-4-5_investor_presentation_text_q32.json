@@ -1,0 +1,34 @@
+{
+  "content": "## Analysis: Voting Structure Post-Merger\n\n### Answer\n\n**Not found in document.**\n\nThe provided document does not contain any information regarding the voting structure post-merger. The OCR-parsed content shows that most pages contain only:\n- Copyright notices (\"\u00a9 2021 WeWork. Confidential.\")\n- Empty bullet points\n- A timeline visual reference (Page 24)\n- Company values/mission statements (Page 10)\n- Product description for \"All Access\" offering (Page 25)\n- Various bullet point placeholders without actual content\n\nThere is no discussion of:\n- Share class structures\n- Voting rights per share\n- Founder/sponsor voting arrangements\n- Any governance provisions related to shareholder voting\n\n### Confidence Level\n**N/A** - Information is not present in the document.\n\n### Caveats and Limitations\n1. **Significant OCR Quality Issues**: The document appears to have substantial OCR parsing problems, with most pages showing only copyright footers and empty bullet points, suggesting images, charts, or formatted text were not captured.\n2. **Document Type**: This appears to be a confidential WeWork presentation (likely an investor deck), which may not be the appropriate source document for voting structure details. Such information would typically be found in:\n   - Definitive Proxy Statement (DEF 14A)\n   - Form S-4 Registration Statement\n   - Merger Agreement exhibits\n\n### Recommendation\nTo answer this question, please provide the SPAC merger proxy statement, Form S-4, or the merger agreement documentation where voting structure details would be disclosed.",
+  "model": "claude-opus-4-5",
+  "input_tokens": 1661,
+  "output_tokens": 351,
+  "latency_ms": 10034,
+  "timestamp": "2026-01-24T03:47:26.751924",
+  "cost_usd": 0.017079999999999998,
+  "raw_response": {
+    "model": "claude-opus-4-5-20251101",
+    "id": "msg_013qQHr18YHrUsjtHYqD9AKo",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "## Analysis: Voting Structure Post-Merger\n\n### Answer\n\n**Not found in document.**\n\nThe provided document does not contain any information regarding the voting structure post-merger. The OCR-parsed content shows that most pages contain only:\n- Copyright notices (\"\u00a9 2021 WeWork. Confidential.\")\n- Empty bullet points\n- A timeline visual reference (Page 24)\n- Company values/mission statements (Page 10)\n- Product description for \"All Access\" offering (Page 25)\n- Various bullet point placeholders without actual content\n\nThere is no discussion of:\n- Share class structures\n- Voting rights per share\n- Founder/sponsor voting arrangements\n- Any governance provisions related to shareholder voting\n\n### Confidence Level\n**N/A** - Information is not present in the document.\n\n### Caveats and Limitations\n1. **Significant OCR Quality Issues**: The document appears to have substantial OCR parsing problems, with most pages showing only copyright footers and empty bullet points, suggesting images, charts, or formatted text were not captured.\n2. **Document Type**: This appears to be a confidential WeWork presentation (likely an investor deck), which may not be the appropriate source document for voting structure details. Such information would typically be found in:\n   - Definitive Proxy Statement (DEF 14A)\n   - Form S-4 Registration Statement\n   - Merger Agreement exhibits\n\n### Recommendation\nTo answer this question, please provide the SPAC merger proxy statement, Form S-4, or the merger agreement documentation where voting structure details would be disclosed."
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "usage": {
+      "input_tokens": 1661,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 351,
+      "service_tier": "standard"
+    }
+  }
+}

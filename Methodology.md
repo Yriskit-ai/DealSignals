@@ -361,34 +361,99 @@ Provide your answer with citations:
 
 ## Retrieval Layers
 
-### Layer 3: Document Parsing Comparison
+### Layer 3: Document Parsing Comparison (OCR)
 
-**What it is:** Compare different parsing approaches on the same documents
+**Status:** FAILED - Methodology limitation discovered
 
-**What it tests:** Does parsing quality affect downstream accuracy?
+**What it is:** Compare OCR-based parsing against native PDF text extraction
+
+**What it tests:** Does OCR parsing quality affect downstream accuracy?
 
 **Setup:**
 
 - Same source documents (PDF)
-- Multiple parsing approaches:
-  - Basic text extraction (PyPDF2, pdfplumber)
-  - Advanced parsing (Azure Document Intelligence, AWS Textract)
-  - LLM-assisted parsing (vision model on page images)
-  - Manual structured extraction (human creates clean text)
+- OCR parsing via OCRmyPDF + Tesseract
+- Compare against Layer 2 native PDF text extraction
+
+**What we learned:**
+
+The experiment revealed a fundamental methodology flaw: **OCR output for large documents exceeds LLM context limits.**
+
+| Document | OCR Output Size | Result |
+|----------|----------------|--------|
+| S-4 (1,193 pages, 37MB PDF) | 4.4MB text (~1.1M tokens) | API failures (500 errors) |
+| Investor Presentation (6.7MB PDF) | 3.8KB text | Completed successfully |
+
+**Key findings:**
+
+1. **OCR works** - Successfully extracted 57K lines from S-4, preserving page boundaries
+2. **Context limits break the approach** - No current LLM can process 4.4MB of text in a single request
+3. **Truncation defeats the purpose** - Truncating OCR output to fit context windows would make comparison unfair vs Layer 2's truncation
+4. **The methodology assumed text would fit** - This was wrong for large SEC filings
+
+**Partial results:**
+
+- Investor Presentation: 120/120 questions completed (3 models × 40 questions)
+- S-4: 0/120 questions completed (API payload too large)
+
+**Conclusion:**
+
+Layer 3's OCR-based approach is not viable for large documents without chunking/RAG (which is Layer 4's domain). The layer conflated two separate problems: parsing quality and context window limits.
+
+**Why this matters:** This failure informed Layer 3.5's design - native multimodal APIs handle document parsing internally, avoiding the context limit problem.
+
+---
+
+### Layer 3.5: Native Multimodal Document Processing
+
+**What it is:** Use LLM providers' native PDF/document capabilities instead of pre-parsing
+
+**What it tests:** Can multimodal APIs process large documents that exceed text context limits?
+
+**Setup:**
+
+- Same source documents (original PDFs, not extracted text)
+- Direct API access bypassing text extraction entirely
+- Three approaches:
+
+| Provider | Method | Capacity | Notes |
+|----------|--------|----------|-------|
+| **Claude Direct** | Native PDF via vision | ~100 pages | Processes PDF pages as images |
+| **OpenAI Assistants** | File search + RAG | Unlimited | Automatic chunking and retrieval |
+| **Gemini Direct** | 1M+ token context | ~800K tokens | Can fit large documents as text |
 
 **Process:**
 
-- Parse all documents with each approach
-- Run same set of extraction questions through same model
-- Compare accuracy across parsing approaches
+1. Upload original PDF to each provider's native document API
+2. Run same 40-question evaluation set
+3. Compare accuracy, latency, and cost across providers
+4. Compare results to Layer 2 (text extraction) baseline
+
+**Variables to test:**
+
+- Provider comparison (Claude vs OpenAI vs Gemini)
+- Document size handling (investor presentation vs full S-4)
+- Question types that benefit from native document access (tables, figures, formatting)
 
 **Output:**
 
-- Parsing quality → downstream accuracy correlation
-- Specific failure modes per parser (tables, footnotes, exhibits)
-- Cost/quality tradeoff per approach
+- Native PDF processing accuracy vs text extraction accuracy
+- Provider comparison on same documents
+- Cost/latency/accuracy tradeoffs
+- Which question types benefit from multimodal (visual elements, tables, charts)
 
-**Why this matters:** Garbage in, garbage out. If parsing fails, nothing downstream can recover.
+**Why this matters:** 
+
+If native multimodal APIs can match or exceed text extraction quality while handling larger documents, the entire parsing pipeline (Layer 3) becomes unnecessary. This could fundamentally simplify document analysis architectures.
+
+**Implementation notes:**
+
+Direct provider implementations exist in `dealsignals/providers/direct.py`:
+- `ClaudeDirectProvider` - Anthropic native PDF support
+- `OpenAIDirectProvider` - Assistants API with file_search
+- `GeminiDirectProvider` - Native file upload with 1M context
+
+---
 
 ### Layer 4: Retrieval (Basic RAG)
 

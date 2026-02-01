@@ -1,0 +1,80 @@
+{
+  "content": "**Exit/refinancing strategy for the lease obligations:** **Not found in document.**\n\n- The provided OCR pages do not contain any explicit discussion of an **exit strategy**, **refinancing plan**, **lease liability refinancing**, **lease buyouts/terminations**, or any structured approach to addressing **lease obligations** (e.g., via renegotiation, asset sales, financing facilities, or securitization). This includes the only partially legible bullet pages (e.g., Pages **6, 15, 22\u201323, 37\u201338, 45\u201346, 50**) and the \u201cAll Access\u201d business model description (Page **25**), none of which mentions lease obligation refinancing/exit.  \n\n**Confidence:** HIGH (direct absence of relevant information in the provided text)\n\n**Caveats / limitations:**\n- The OCR output is heavily redacted/blank across most pages (many pages show only \u201c\u00a9 2021 WeWork. Confidential.\u201d and bullet placeholders), so relevant content may exist in the original slides but is **not available in the provided OCR text** (Pages **1\u20139, 11\u201323, 26\u201350**).",
+  "model": "gpt-5.2",
+  "input_tokens": 1310,
+  "output_tokens": 245,
+  "latency_ms": 6343,
+  "timestamp": "2026-01-24T03:35:31.582809",
+  "cost_usd": 0.0057225,
+  "raw_response": {
+    "id": "resp_02606477a653d1a90069743dfd6ae88195810223b0eee7d890",
+    "object": "response",
+    "created_at": 1769225725,
+    "status": "completed",
+    "background": false,
+    "billing": {
+      "payer": "openai"
+    },
+    "completed_at": 1769225731,
+    "error": null,
+    "frequency_penalty": 0,
+    "incomplete_details": null,
+    "instructions": null,
+    "max_output_tokens": null,
+    "max_tool_calls": null,
+    "model": "gpt-5.2-2025-12-11",
+    "output": [
+      {
+        "id": "msg_02606477a653d1a90069743dfdae3481958608c42d0df97f7c",
+        "type": "message",
+        "status": "completed",
+        "content": [
+          {
+            "type": "output_text",
+            "annotations": [],
+            "logprobs": [],
+            "text": "**Exit/refinancing strategy for the lease obligations:** **Not found in document.**\n\n- The provided OCR pages do not contain any explicit discussion of an **exit strategy**, **refinancing plan**, **lease liability refinancing**, **lease buyouts/terminations**, or any structured approach to addressing **lease obligations** (e.g., via renegotiation, asset sales, financing facilities, or securitization). This includes the only partially legible bullet pages (e.g., Pages **6, 15, 22\u201323, 37\u201338, 45\u201346, 50**) and the \u201cAll Access\u201d business model description (Page **25**), none of which mentions lease obligation refinancing/exit.  \n\n**Confidence:** HIGH (direct absence of relevant information in the provided text)\n\n**Caveats / limitations:**\n- The OCR output is heavily redacted/blank across most pages (many pages show only \u201c\u00a9 2021 WeWork. Confidential.\u201d and bullet placeholders), so relevant content may exist in the original slides but is **not available in the provided OCR text** (Pages **1\u20139, 11\u201323, 26\u201350**)."
+          }
+        ],
+        "role": "assistant"
+      }
+    ],
+    "parallel_tool_calls": true,
+    "presence_penalty": 0,
+    "previous_response_id": null,
+    "prompt_cache_key": null,
+    "prompt_cache_retention": null,
+    "reasoning": {
+      "effort": "none",
+      "summary": null
+    },
+    "safety_identifier": null,
+    "service_tier": "default",
+    "store": true,
+    "temperature": 1,
+    "text": {
+      "format": {
+        "type": "text"
+      },
+      "verbosity": "medium"
+    },
+    "tool_choice": "auto",
+    "tools": [],
+    "top_logprobs": 0,
+    "top_p": 0.98,
+    "truncation": "disabled",
+    "usage": {
+      "input_tokens": 1310,
+      "input_tokens_details": {
+        "cached_tokens": 1152
+      },
+      "output_tokens": 245,
+      "output_tokens_details": {
+        "reasoning_tokens": 0
+      },
+      "total_tokens": 1555
+    },
+    "user": null,
+    "metadata": {}
+  }
+}

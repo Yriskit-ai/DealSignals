@@ -1,0 +1,80 @@
+{
+  "content": "## Key executives and their track record (from provided document)\n\n**Not found in document.**  \n- The OCR text provided does not include any names, titles (e.g., CEO, CFO), bios, or career history/track record information for WeWork executives. The only substantive non-boilerplate content visible is a values/culture statement (Page 10) and a product description for \u201cAll Access\u201d (Page 25), neither of which identifies executives or discusses management track records. **(Pages 10, 25)**\n\n## Caveats / limitations\n- The document appears heavily redacted or the OCR extraction failed for most pages (many pages show only \u201c\u00a9 2021 WeWork. Confidential.\u201d and/or bullet placeholders without readable content). **(Pages 1\u20139, 11\u201323, 26\u201350)**  \n- Because of missing/illegible text, executives and track records may exist in the original source but are **not retrievable from the provided OCR-parsed content**.\n\n**Confidence: HIGH** (directly based on absence of executive names/track record information in the provided text).",
+  "model": "gpt-5.2",
+  "input_tokens": 1309,
+  "output_tokens": 234,
+  "latency_ms": 5939,
+  "timestamp": "2026-01-24T03:34:01.674518",
+  "cost_usd": 0.0055667500000000005,
+  "raw_response": {
+    "id": "resp_0d0f984be9778bc60069743da3f10081a19469663489817a13",
+    "object": "response",
+    "created_at": 1769225635,
+    "status": "completed",
+    "background": false,
+    "billing": {
+      "payer": "openai"
+    },
+    "completed_at": 1769225641,
+    "error": null,
+    "frequency_penalty": 0,
+    "incomplete_details": null,
+    "instructions": null,
+    "max_output_tokens": null,
+    "max_tool_calls": null,
+    "model": "gpt-5.2-2025-12-11",
+    "output": [
+      {
+        "id": "msg_0d0f984be9778bc60069743da451ec81a19d6f6079dd8926f5",
+        "type": "message",
+        "status": "completed",
+        "content": [
+          {
+            "type": "output_text",
+            "annotations": [],
+            "logprobs": [],
+            "text": "## Key executives and their track record (from provided document)\n\n**Not found in document.**  \n- The OCR text provided does not include any names, titles (e.g., CEO, CFO), bios, or career history/track record information for WeWork executives. The only substantive non-boilerplate content visible is a values/culture statement (Page 10) and a product description for \u201cAll Access\u201d (Page 25), neither of which identifies executives or discusses management track records. **(Pages 10, 25)**\n\n## Caveats / limitations\n- The document appears heavily redacted or the OCR extraction failed for most pages (many pages show only \u201c\u00a9 2021 WeWork. Confidential.\u201d and/or bullet placeholders without readable content). **(Pages 1\u20139, 11\u201323, 26\u201350)**  \n- Because of missing/illegible text, executives and track records may exist in the original source but are **not retrievable from the provided OCR-parsed content**.\n\n**Confidence: HIGH** (directly based on absence of executive names/track record information in the provided text)."
+          }
+        ],
+        "role": "assistant"
+      }
+    ],
+    "parallel_tool_calls": true,
+    "presence_penalty": 0,
+    "previous_response_id": null,
+    "prompt_cache_key": null,
+    "prompt_cache_retention": null,
+    "reasoning": {
+      "effort": "none",
+      "summary": null
+    },
+    "safety_identifier": null,
+    "service_tier": "default",
+    "store": true,
+    "temperature": 1,
+    "text": {
+      "format": {
+        "type": "text"
+      },
+      "verbosity": "medium"
+    },
+    "tool_choice": "auto",
+    "tools": [],
+    "top_logprobs": 0,
+    "top_p": 0.98,
+    "truncation": "disabled",
+    "usage": {
+      "input_tokens": 1309,
+      "input_tokens_details": {
+        "cached_tokens": 1152
+      },
+      "output_tokens": 234,
+      "output_tokens_details": {
+        "reasoning_tokens": 0
+      },
+      "total_tokens": 1543
+    },
+    "user": null,
+    "metadata": {}
+  }
+}

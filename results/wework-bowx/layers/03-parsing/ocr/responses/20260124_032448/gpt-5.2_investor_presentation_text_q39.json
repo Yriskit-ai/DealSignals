@@ -1,0 +1,80 @@
+{
+  "content": "## Debt covenants and restrictions\n\n**Not found in document.** The OCR-parsed pages provided do not contain any readable disclosure of **debt covenants** (e.g., leverage/coverage ratios, minimum liquidity, reporting requirements) or **debt-related restrictions** (e.g., limits on additional indebtedness, liens, dividends/distributions, investments, asset sales, change-of-control provisions). Most pages are either redacted/blank (\u201c\u00a9 2021 WeWork. Confidential.\u201d) or contain non-financial narrative content (e.g., values statement on **Page 10**) and high-level product/strategy text (e.g., \u201cAll Access\u201d description on **Page 25**) without covenant terms.  \n\n**Citations:** Pages **1\u20139, 11\u201323, 26\u201350** show no readable covenant language beyond confidentiality/placeholder bullets; **Page 10** contains cultural values text; **Page 25** contains an \u201cAll Access\u201d business description, not financing terms.\n\n### Caveats / limitations\n- The document appears **heavily redacted or not successfully OCR\u2019d** (many pages contain only \u201c\u00a9 2021 WeWork. Confidential.\u201d and/or bullet placeholders), so covenant details may exist in the original but are **not recoverable from the provided text** (e.g., **Pages 6, 9, 15, 22\u201323, 45\u201346, 50** show bullet placeholders without content).\n\n**Confidence: HIGH** (directly based on absence of covenant information in the provided OCR text).",
+  "model": "gpt-5.2",
+  "input_tokens": 1305,
+  "output_tokens": 324,
+  "latency_ms": 6546,
+  "timestamp": "2026-01-24T03:35:48.169533",
+  "cost_usd": 0.006819749999999999,
+  "raw_response": {
+    "id": "resp_0bf61295b5c0dead0069743e0e18fc8196bd4a862e9482ecfa",
+    "object": "response",
+    "created_at": 1769225742,
+    "status": "completed",
+    "background": false,
+    "billing": {
+      "payer": "openai"
+    },
+    "completed_at": 1769225747,
+    "error": null,
+    "frequency_penalty": 0,
+    "incomplete_details": null,
+    "instructions": null,
+    "max_output_tokens": null,
+    "max_tool_calls": null,
+    "model": "gpt-5.2-2025-12-11",
+    "output": [
+      {
+        "id": "msg_0bf61295b5c0dead0069743e0e57848196abffdf42f3aca8a8",
+        "type": "message",
+        "status": "completed",
+        "content": [
+          {
+            "type": "output_text",
+            "annotations": [],
+            "logprobs": [],
+            "text": "## Debt covenants and restrictions\n\n**Not found in document.** The OCR-parsed pages provided do not contain any readable disclosure of **debt covenants** (e.g., leverage/coverage ratios, minimum liquidity, reporting requirements) or **debt-related restrictions** (e.g., limits on additional indebtedness, liens, dividends/distributions, investments, asset sales, change-of-control provisions). Most pages are either redacted/blank (\u201c\u00a9 2021 WeWork. Confidential.\u201d) or contain non-financial narrative content (e.g., values statement on **Page 10**) and high-level product/strategy text (e.g., \u201cAll Access\u201d description on **Page 25**) without covenant terms.  \n\n**Citations:** Pages **1\u20139, 11\u201323, 26\u201350** show no readable covenant language beyond confidentiality/placeholder bullets; **Page 10** contains cultural values text; **Page 25** contains an \u201cAll Access\u201d business description, not financing terms.\n\n### Caveats / limitations\n- The document appears **heavily redacted or not successfully OCR\u2019d** (many pages contain only \u201c\u00a9 2021 WeWork. Confidential.\u201d and/or bullet placeholders), so covenant details may exist in the original but are **not recoverable from the provided text** (e.g., **Pages 6, 9, 15, 22\u201323, 45\u201346, 50** show bullet placeholders without content).\n\n**Confidence: HIGH** (directly based on absence of covenant information in the provided OCR text)."
+          }
+        ],
+        "role": "assistant"
+      }
+    ],
+    "parallel_tool_calls": true,
+    "presence_penalty": 0,
+    "previous_response_id": null,
+    "prompt_cache_key": null,
+    "prompt_cache_retention": null,
+    "reasoning": {
+      "effort": "none",
+      "summary": null
+    },
+    "safety_identifier": null,
+    "service_tier": "default",
+    "store": true,
+    "temperature": 1,
+    "text": {
+      "format": {
+        "type": "text"
+      },
+      "verbosity": "medium"
+    },
+    "tool_choice": "auto",
+    "tools": [],
+    "top_logprobs": 0,
+    "top_p": 0.98,
+    "truncation": "disabled",
+    "usage": {
+      "input_tokens": 1305,
+      "input_tokens_details": {
+        "cached_tokens": 1152
+      },
+      "output_tokens": 324,
+      "output_tokens_details": {
+        "reasoning_tokens": 0
+      },
+      "total_tokens": 1629
+    },
+    "user": null,
+    "metadata": {}
+  }
+}

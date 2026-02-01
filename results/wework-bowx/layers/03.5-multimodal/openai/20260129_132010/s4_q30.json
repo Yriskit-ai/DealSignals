@@ -1,0 +1,15 @@
+{
+  "question_id": "q30",
+  "question_text": "Are there any material weaknesses in internal controls?",
+  "category": "risk_red_flags",
+  "response": {
+    "content": "Yes, there are material weaknesses identified in the internal controls. The document states that there was a material weakness in internal control over financial reporting related to accounting for a significant and unusual transaction, specifically concerning the warrants issued in connection with private placements in August 2020. This material weakness resulted in a material misstatement of warrant liabilities among other financial disclosures for specific periods\u30104:0\u2020S-4_A.pdf\u3011. Additionally, there are also disclosed weaknesses in internal controls related to insufficient accounting personnel, issues in impairment testing, valuation of warrant liabilities, contingent consideration, and accounting for income taxes\u30104:1\u2020S-4_A.pdf\u3011\u30104:5\u2020S-4_A.pdf\u3011.\n\nConfidence: HIGH (based on directly stated information in the document).",
+    "model": "gpt-4o",
+    "input_tokens": 18231,
+    "output_tokens": 190,
+    "total_tokens": 18421,
+    "latency_ms": 24679,
+    "timestamp": "2026-01-29T18:32:29.146965",
+    "cost_usd": 0.0474775
+  }
+}

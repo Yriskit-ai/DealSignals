@@ -1,0 +1,26 @@
+# q03: What are operating losses for the most recent period?
+
+**Provider:** claude
+**Document:** investor
+**Latency:** 15203ms
+**Tokens:** 80341 in / 315 out
+**Cost:** $0.2457
+
+## Response
+
+Based on the document, I cannot find specific operating loss figures for the most recent period directly stated. However, I can provide information about WeWork's recent financial performance:
+
+**Adjusted EBITDA for recent periods (page 31):**
+- 2020A: ($1.8B) - negative 55% margin
+- 2021E: ($0.9B) - negative 28% margin  
+- 2022E: $0.5B - positive 11% margin (projected)
+
+**Key Financial Context (pages 14-15):**
+- The company achieved significant cost savings in 2020, with ~$1.1B in functional expense savings and ~$400M in operational expense savings (page 15)
+- WeWork underwent a "significant turnaround in 2020" and is "positioned for profitable growth" going forward (page 13)
+
+**Confidence: MEDIUM** - The specific "operating losses" figure is not directly stated in the document, but the Adjusted EBITDA figures indicate the company was still generating negative cash flows in recent periods, with projections showing a path to profitability by 2022.
+
+**Caveat:** The document uses Adjusted EBITDA rather than traditional operating income/loss metrics, and the 2021E and forward figures are projections/estimates rather than actual results.
+
+**Page references:** 31, 14-15, 13

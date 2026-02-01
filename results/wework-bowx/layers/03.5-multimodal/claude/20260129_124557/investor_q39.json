@@ -1,0 +1,15 @@
+{
+  "question_id": "q39",
+  "question_text": "What debt covenants and restrictions existed?",
+  "category": "synthesis_judgment",
+  "response": {
+    "content": "Based on the document, I can identify information about WeWork's debt structure and restrictions, though specific debt covenant details are not comprehensively detailed in this presentation.\n\n## WeWork Capital Structure Overview (Page 36)\n\n**Key Debt Components:**\n- **$1.75bn LC Balance (Wholly Owned)**: 5.600% coupon, maturing 2/10/2023\n- **$1.1bn Senior Secured SoftBank Notes**: 12.500% coupon\n- **$46mm LC Balance (Japan)**: 0.200% coupon\n- **Subsidiary Debt**: 2.500% - 3.000% range, various maturities\n- **Senior Notes**: 7.875% coupon, maturing 5/1/2025\n- **SoftBank Senior Unsecured Notes**: 5.000% coupon, maturing 7/10/2025\n\n**Total Debt**: $4.194 billion\n**Net Debt**: $3.529 billion\n\n## Debt Restrictions/Covenants Mentioned:\n\n1. **SoftBank Facility Extension**: The document notes on page 35 that SoftBank has agreed to extend its guarantee of the LC facility to 2024 at WeWork's option on terms consistent with the existing LC agreement, including the issuance of warrants (page 36).\n\n2. **Liquidity Projections**: The document shows liquidity is not expected to drop below $1.8bn throughout the projection period, suggesting potential minimum liquidity requirements (page 35).\n\n**Confidence**: MEDIUM - The document provides the debt structure but does not include detailed covenant terms, financial ratio requirements, or specific restrictions that are typically found in credit agreements.\n\n**Limitation**: This appears to be a high-level investor presentation rather than detailed credit documentation, so specific covenant terms, financial ratios, and detailed restrictions are not disclosed.\n\nFor a complete due diligence analysis, you would need access to the actual credit agreements and indentures to review specific covenant packages, financial ratio requirements, and operational restrictions.",
+    "model": "claude-sonnet-4-20250514",
+    "input_tokens": 80340,
+    "output_tokens": 466,
+    "total_tokens": 80806,
+    "latency_ms": 18406,
+    "timestamp": "2026-01-29T17:55:43.363183",
+    "cost_usd": 0.24800999999999998
+  }
+}

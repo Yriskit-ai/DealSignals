@@ -1,0 +1,80 @@
+{
+  "content": "**Not found in document.** The provided OCR text does not include any explicit valuation methodology (e.g., DCF, comparable company multiples, precedent transactions, NAV, etc.) used to justify the merger price. Most pages are either blank/confidential placeholders or contain non-valuation narrative (e.g., company values on **p.10**; product description such as \u201cAll Access\u201d on **p.25**), with no stated valuation approach.\n\n**Confidence:** HIGH (directly not stated in the provided text)\n\n**Caveats / limitations:**\n- The OCR appears heavily incomplete/redacted across most pages (e.g., pages with only \u201cConfidential\u201d or bullet placeholders such as **p.6, p.22\u201323, p.45\u201346, p.50**), so the valuation methodology may exist in the original document but is **not captured in the provided OCR output**.",
+  "model": "gpt-5.2",
+  "input_tokens": 1307,
+  "output_tokens": 188,
+  "latency_ms": 4502,
+  "timestamp": "2026-01-24T03:33:50.408926",
+  "cost_usd": 0.00491925,
+  "raw_response": {
+    "id": "resp_0ed2e3004ddced3a0069743d9a206081978993fb659ca1f43a",
+    "object": "response",
+    "created_at": 1769225626,
+    "status": "completed",
+    "background": false,
+    "billing": {
+      "payer": "openai"
+    },
+    "completed_at": 1769225630,
+    "error": null,
+    "frequency_penalty": 0,
+    "incomplete_details": null,
+    "instructions": null,
+    "max_output_tokens": null,
+    "max_tool_calls": null,
+    "model": "gpt-5.2-2025-12-11",
+    "output": [
+      {
+        "id": "msg_0ed2e3004ddced3a0069743d9a63d881978cb87de5a70c7aee",
+        "type": "message",
+        "status": "completed",
+        "content": [
+          {
+            "type": "output_text",
+            "annotations": [],
+            "logprobs": [],
+            "text": "**Not found in document.** The provided OCR text does not include any explicit valuation methodology (e.g., DCF, comparable company multiples, precedent transactions, NAV, etc.) used to justify the merger price. Most pages are either blank/confidential placeholders or contain non-valuation narrative (e.g., company values on **p.10**; product description such as \u201cAll Access\u201d on **p.25**), with no stated valuation approach.\n\n**Confidence:** HIGH (directly not stated in the provided text)\n\n**Caveats / limitations:**\n- The OCR appears heavily incomplete/redacted across most pages (e.g., pages with only \u201cConfidential\u201d or bullet placeholders such as **p.6, p.22\u201323, p.45\u201346, p.50**), so the valuation methodology may exist in the original document but is **not captured in the provided OCR output**."
+          }
+        ],
+        "role": "assistant"
+      }
+    ],
+    "parallel_tool_calls": true,
+    "presence_penalty": 0,
+    "previous_response_id": null,
+    "prompt_cache_key": null,
+    "prompt_cache_retention": null,
+    "reasoning": {
+      "effort": "none",
+      "summary": null
+    },
+    "safety_identifier": null,
+    "service_tier": "default",
+    "store": true,
+    "temperature": 1,
+    "text": {
+      "format": {
+        "type": "text"
+      },
+      "verbosity": "medium"
+    },
+    "tool_choice": "auto",
+    "tools": [],
+    "top_logprobs": 0,
+    "top_p": 0.98,
+    "truncation": "disabled",
+    "usage": {
+      "input_tokens": 1307,
+      "input_tokens_details": {
+        "cached_tokens": 1152
+      },
+      "output_tokens": 188,
+      "output_tokens_details": {
+        "reasoning_tokens": 0
+      },
+      "total_tokens": 1495
+    },
+    "user": null,
+    "metadata": {}
+  }
+}

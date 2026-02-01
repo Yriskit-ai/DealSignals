@@ -1,0 +1,34 @@
+{
+  "content": "## Analysis: Path to Profitability and Timeline\n\n**Answer: Not found in document**\n\nThe provided document does not contain specific information about WeWork's path to profitability or a stated timeline for achieving profitability. \n\n### Document Limitations:\n\nThe OCR-parsed document appears to be a WeWork confidential presentation from 2021, but the parsing has captured very limited substantive content:\n\n- Most pages (1-8, 11-14, 16-21, 26, 28-36, 39-44, 47-50) contain only the copyright notice \"\u00a9 2021 WeWork. Confidential.\" with no readable text\n- Pages with content primarily show bullet point markers (\u2022, \u25cf, \u25cb) without the actual text content\n- **Page 10** contains company values/mission statements only\n- **Page 24** shows a timeline spanning 2010-2030 but no associated text explaining what it represents\n- **Page 25** describes the \"All Access\" subscription product with mentions of \"High Margins\" and \"significant incremental margins\" but no profitability timeline\n- **Page 45** appears to contain financial definitions/metrics but the actual text is not captured\n\n### Caveats:\n\n1. The OCR parsing appears to have failed to capture the majority of the document's actual content\n2. A timeline graphic on Page 24 (2010-2030) may relate to profitability projections, but without accompanying text, this cannot be confirmed\n3. References to \"High Margins\" on Page 25 suggest profitability discussions may exist in the full document\n\n**Confidence Level: N/A** - Cannot provide an answer as the information is not readable in the provided document.\n\n**Recommendation:** Request a higher-quality OCR parsing or the original document to conduct proper due diligence on profitability projections.",
+  "model": "claude-opus-4-5",
+  "input_tokens": 1664,
+  "output_tokens": 417,
+  "latency_ms": 10853,
+  "timestamp": "2026-01-24T03:43:00.095720",
+  "cost_usd": 0.018744999999999998,
+  "raw_response": {
+    "model": "claude-opus-4-5-20251101",
+    "id": "msg_01MGmP8EaGarqGSijKY8pB2Z",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "## Analysis: Path to Profitability and Timeline\n\n**Answer: Not found in document**\n\nThe provided document does not contain specific information about WeWork's path to profitability or a stated timeline for achieving profitability. \n\n### Document Limitations:\n\nThe OCR-parsed document appears to be a WeWork confidential presentation from 2021, but the parsing has captured very limited substantive content:\n\n- Most pages (1-8, 11-14, 16-21, 26, 28-36, 39-44, 47-50) contain only the copyright notice \"\u00a9 2021 WeWork. Confidential.\" with no readable text\n- Pages with content primarily show bullet point markers (\u2022, \u25cf, \u25cb) without the actual text content\n- **Page 10** contains company values/mission statements only\n- **Page 24** shows a timeline spanning 2010-2030 but no associated text explaining what it represents\n- **Page 25** describes the \"All Access\" subscription product with mentions of \"High Margins\" and \"significant incremental margins\" but no profitability timeline\n- **Page 45** appears to contain financial definitions/metrics but the actual text is not captured\n\n### Caveats:\n\n1. The OCR parsing appears to have failed to capture the majority of the document's actual content\n2. A timeline graphic on Page 24 (2010-2030) may relate to profitability projections, but without accompanying text, this cannot be confirmed\n3. References to \"High Margins\" on Page 25 suggest profitability discussions may exist in the full document\n\n**Confidence Level: N/A** - Cannot provide an answer as the information is not readable in the provided document.\n\n**Recommendation:** Request a higher-quality OCR parsing or the original document to conduct proper due diligence on profitability projections."
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "usage": {
+      "input_tokens": 1664,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 417,
+      "service_tier": "standard"
+    }
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "question_id": "q24",
+  "question_text": "What are management's incentives/compensation in the deal?",
+  "category": "deal_structure",
+  "response": {
+    "content": "Not found in document. Confidence: HIGH. \n\nThe search results did not contain any specific information about management's incentives or compensation related to the SPAC merger in the WeWork management presentation document.",
+    "model": "gpt-4o",
+    "input_tokens": 3727,
+    "output_tokens": 90,
+    "total_tokens": 3817,
+    "latency_ms": 9581,
+    "timestamp": "2026-01-29T18:16:02.884200",
+    "cost_usd": 0.0102175
+  }
+}

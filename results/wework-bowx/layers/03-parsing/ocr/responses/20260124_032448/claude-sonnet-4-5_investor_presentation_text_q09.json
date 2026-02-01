@@ -1,0 +1,34 @@
+{
+  "content": "# Analysis: Revenue per Available Desk/Workstation\n\n## Answer\n\n**Not found in document.**\n\n## Explanation\n\nThe provided document appears to be a presentation deck about WeWork, but the OCR parsing has captured primarily structural elements (page numbers, copyright notices, bullet points) without the actual content text that would contain financial metrics.\n\nWhile Page 45 shows a bullet point list that includes \"divided by\" suggesting a calculation or ratio definition, the actual text content explaining what is being divided is not visible in the OCR output.\n\nPage 25 mentions WeWork's \"All Access\" subscription model and references \"Drives Occupancy\" and \"High Margins,\" but does not provide specific revenue per desk/workstation metrics.\n\n## Confidence Level\n\n**LOW** - The document structure suggests financial and operational metrics may be present in the original document, but the OCR parsing has not captured the substantive content needed to answer this question.\n\n## Caveats\n\n1. The OCR parsing appears incomplete, capturing only page markers, copyright notices, and bullet point indicators\n2. The actual numerical data and metric definitions are not visible in the provided text\n3. A properly parsed version of this document may contain the requested information",
+  "model": "claude-sonnet-4-5",
+  "input_tokens": 1662,
+  "output_tokens": 263,
+  "latency_ms": 8593,
+  "timestamp": "2026-01-24T03:26:14.930670",
+  "cost_usd": 0.008931,
+  "raw_response": {
+    "model": "claude-sonnet-4-5-20250929",
+    "id": "msg_013gLkEaWfm8zfxjLv8SHiv3",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "# Analysis: Revenue per Available Desk/Workstation\n\n## Answer\n\n**Not found in document.**\n\n## Explanation\n\nThe provided document appears to be a presentation deck about WeWork, but the OCR parsing has captured primarily structural elements (page numbers, copyright notices, bullet points) without the actual content text that would contain financial metrics.\n\nWhile Page 45 shows a bullet point list that includes \"divided by\" suggesting a calculation or ratio definition, the actual text content explaining what is being divided is not visible in the OCR output.\n\nPage 25 mentions WeWork's \"All Access\" subscription model and references \"Drives Occupancy\" and \"High Margins,\" but does not provide specific revenue per desk/workstation metrics.\n\n## Confidence Level\n\n**LOW** - The document structure suggests financial and operational metrics may be present in the original document, but the OCR parsing has not captured the substantive content needed to answer this question.\n\n## Caveats\n\n1. The OCR parsing appears incomplete, capturing only page markers, copyright notices, and bullet point indicators\n2. The actual numerical data and metric definitions are not visible in the provided text\n3. A properly parsed version of this document may contain the requested information"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "usage": {
+      "input_tokens": 1662,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 263,
+      "service_tier": "standard"
+    }
+  }
+}

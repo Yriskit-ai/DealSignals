@@ -1,0 +1,80 @@
+{
+  "content": "**Not found in document.** The provided OCR pages do not include any revenue figures by year (or a table/chart with revenue for at least two years) needed to compute a year-over-year revenue growth rate. Most pages are only marked \u201c\u00a9 2021 WeWork. Confidential.\u201d (e.g., **Pages 1\u20139, 11\u201323, 26\u201350**) and the few pages with readable text (e.g., **Page 10** on values; **Page 25** describing \u201cAll Access\u201d) do not contain revenue numbers or YoY growth.  \n\n**Confidence:** HIGH (document lacks the necessary data).  \n\n**Caveat / limitation:** The OCR appears incomplete/redacted for many pages (numerous bullets with no text, e.g., **Pages 6, 22\u201323, 45\u201346**), so the revenue data may exist in the original slides but is not captured in the provided OCR output.",
+  "model": "gpt-5.2",
+  "input_tokens": 1307,
+  "output_tokens": 198,
+  "latency_ms": 5321,
+  "timestamp": "2026-01-24T03:32:05.754549",
+  "cost_usd": 0.0050592499999999995,
+  "raw_response": {
+    "id": "resp_0d7a01673a7805470069743d310c708197a61a394cb6b42a68",
+    "object": "response",
+    "created_at": 1769225521,
+    "status": "completed",
+    "background": false,
+    "billing": {
+      "payer": "openai"
+    },
+    "completed_at": 1769225525,
+    "error": null,
+    "frequency_penalty": 0,
+    "incomplete_details": null,
+    "instructions": null,
+    "max_output_tokens": null,
+    "max_tool_calls": null,
+    "model": "gpt-5.2-2025-12-11",
+    "output": [
+      {
+        "id": "msg_0d7a01673a7805470069743d318998819791de17ff2c6e5d59",
+        "type": "message",
+        "status": "completed",
+        "content": [
+          {
+            "type": "output_text",
+            "annotations": [],
+            "logprobs": [],
+            "text": "**Not found in document.** The provided OCR pages do not include any revenue figures by year (or a table/chart with revenue for at least two years) needed to compute a year-over-year revenue growth rate. Most pages are only marked \u201c\u00a9 2021 WeWork. Confidential.\u201d (e.g., **Pages 1\u20139, 11\u201323, 26\u201350**) and the few pages with readable text (e.g., **Page 10** on values; **Page 25** describing \u201cAll Access\u201d) do not contain revenue numbers or YoY growth.  \n\n**Confidence:** HIGH (document lacks the necessary data).  \n\n**Caveat / limitation:** The OCR appears incomplete/redacted for many pages (numerous bullets with no text, e.g., **Pages 6, 22\u201323, 45\u201346**), so the revenue data may exist in the original slides but is not captured in the provided OCR output."
+          }
+        ],
+        "role": "assistant"
+      }
+    ],
+    "parallel_tool_calls": true,
+    "presence_penalty": 0,
+    "previous_response_id": null,
+    "prompt_cache_key": null,
+    "prompt_cache_retention": null,
+    "reasoning": {
+      "effort": "none",
+      "summary": null
+    },
+    "safety_identifier": null,
+    "service_tier": "default",
+    "store": true,
+    "temperature": 1,
+    "text": {
+      "format": {
+        "type": "text"
+      },
+      "verbosity": "medium"
+    },
+    "tool_choice": "auto",
+    "tools": [],
+    "top_logprobs": 0,
+    "top_p": 0.98,
+    "truncation": "disabled",
+    "usage": {
+      "input_tokens": 1307,
+      "input_tokens_details": {
+        "cached_tokens": 0
+      },
+      "output_tokens": 198,
+      "output_tokens_details": {
+        "reasoning_tokens": 0
+      },
+      "total_tokens": 1505
+    },
+    "user": null,
+    "metadata": {}
+  }
+}

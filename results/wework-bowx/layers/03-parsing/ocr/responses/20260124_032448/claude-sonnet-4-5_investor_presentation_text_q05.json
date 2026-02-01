@@ -1,0 +1,34 @@
+{
+  "content": "# Analysis: Cash Runway at Current Burn Rate\n\n## Answer:\n**Not found in document.**\n\n## Detailed Explanation:\nThe provided document does not contain any financial data related to:\n- Cash or cash equivalents balances\n- Cash burn rate (monthly or quarterly)\n- Cash runway projections or timelines\n- Operating cash flow figures\n- Balance sheet information\n\n## What the Document Contains:\nThe document appears to be a corporate presentation focused on:\n- Company values and culture (Page 10)\n- Business model description, specifically the \"All Access\" offering (Page 25)\n- Various strategic and operational bullet points (Pages 15, 22, 23, 27, 37-38, 45-46)\n- Timeline visualization (Page 24)\n\n## Limitations:\nThe OCR parsing appears to have captured primarily structural elements (bullet points, copyright notices) but limited substantive financial content. The actual text content for most pages consists only of copyright notices and formatting elements, making it impossible to extract cash runway or burn rate information.\n\n## Confidence Level:\n**HIGH** - I am confident this specific information is not present in the provided document extract.\n\n## Recommendation:\nTo conduct proper due diligence on cash runway, you would need access to:\n- Financial statements (balance sheet showing cash position)\n- Cash flow statements\n- Management discussion sections detailing burn rate\n- Financial projections or investor presentation slides with liquidity metrics",
+  "model": "claude-sonnet-4-5",
+  "input_tokens": 1662,
+  "output_tokens": 319,
+  "latency_ms": 10030,
+  "timestamp": "2026-01-24T03:25:37.043776",
+  "cost_usd": 0.009771,
+  "raw_response": {
+    "model": "claude-sonnet-4-5-20250929",
+    "id": "msg_014CqCrqxBGksGfFVkEdXmeR",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "# Analysis: Cash Runway at Current Burn Rate\n\n## Answer:\n**Not found in document.**\n\n## Detailed Explanation:\nThe provided document does not contain any financial data related to:\n- Cash or cash equivalents balances\n- Cash burn rate (monthly or quarterly)\n- Cash runway projections or timelines\n- Operating cash flow figures\n- Balance sheet information\n\n## What the Document Contains:\nThe document appears to be a corporate presentation focused on:\n- Company values and culture (Page 10)\n- Business model description, specifically the \"All Access\" offering (Page 25)\n- Various strategic and operational bullet points (Pages 15, 22, 23, 27, 37-38, 45-46)\n- Timeline visualization (Page 24)\n\n## Limitations:\nThe OCR parsing appears to have captured primarily structural elements (bullet points, copyright notices) but limited substantive financial content. The actual text content for most pages consists only of copyright notices and formatting elements, making it impossible to extract cash runway or burn rate information.\n\n## Confidence Level:\n**HIGH** - I am confident this specific information is not present in the provided document extract.\n\n## Recommendation:\nTo conduct proper due diligence on cash runway, you would need access to:\n- Financial statements (balance sheet showing cash position)\n- Cash flow statements\n- Management discussion sections detailing burn rate\n- Financial projections or investor presentation slides with liquidity metrics"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "usage": {
+      "input_tokens": 1662,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 319,
+      "service_tier": "standard"
+    }
+  }
+}

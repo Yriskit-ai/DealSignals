@@ -1,0 +1,80 @@
+{
+  "content": "## SoftBank\u2019s role and ongoing obligations\n\n**Not found in document.** The provided OCR text contains no mention of **SoftBank**, nor does it describe **SoftBank\u2019s role** in the transaction or any **ongoing obligations** (e.g., lock-ups, earnouts, PIPE/backstop commitments, governance rights, funding commitments, guarantees). The only legible content relates to WeWork values (Page 10) and a product description for \u201cAll Access\u201d (Page 25); the remainder is largely redacted/empty bullets without SoftBank references (e.g., Pages 6, 9, 15, 22\u201323, 27, 37\u201338, 45\u201346, 50).\n\n### Caveats / limitations\n- The document appears heavily **redacted or not properly OCR-parsed**, with many pages showing only \u201c\u00a9 2021 WeWork. Confidential.\u201d and bullet placeholders (e.g., Pages 1\u20139, 11\u201323, 26\u201350). This significantly limits the ability to identify SoftBank-related terms or obligations.\n\n**Confidence: HIGH** (SoftBank is not mentioned anywhere in the provided text; therefore role/obligations cannot be supported from this document).",
+  "model": "gpt-5.2",
+  "input_tokens": 1307,
+  "output_tokens": 255,
+  "latency_ms": 5523,
+  "timestamp": "2026-01-24T03:34:07.202148",
+  "cost_usd": 0.0058572500000000005,
+  "raw_response": {
+    "id": "resp_03892ede2eab2bac0069743da9dcc0819cb1af9ed5f72a49d4",
+    "object": "response",
+    "created_at": 1769225641,
+    "status": "completed",
+    "background": false,
+    "billing": {
+      "payer": "openai"
+    },
+    "completed_at": 1769225646,
+    "error": null,
+    "frequency_penalty": 0,
+    "incomplete_details": null,
+    "instructions": null,
+    "max_output_tokens": null,
+    "max_tool_calls": null,
+    "model": "gpt-5.2-2025-12-11",
+    "output": [
+      {
+        "id": "msg_03892ede2eab2bac0069743daa176c819cb340240ba8baefd5",
+        "type": "message",
+        "status": "completed",
+        "content": [
+          {
+            "type": "output_text",
+            "annotations": [],
+            "logprobs": [],
+            "text": "## SoftBank\u2019s role and ongoing obligations\n\n**Not found in document.** The provided OCR text contains no mention of **SoftBank**, nor does it describe **SoftBank\u2019s role** in the transaction or any **ongoing obligations** (e.g., lock-ups, earnouts, PIPE/backstop commitments, governance rights, funding commitments, guarantees). The only legible content relates to WeWork values (Page 10) and a product description for \u201cAll Access\u201d (Page 25); the remainder is largely redacted/empty bullets without SoftBank references (e.g., Pages 6, 9, 15, 22\u201323, 27, 37\u201338, 45\u201346, 50).\n\n### Caveats / limitations\n- The document appears heavily **redacted or not properly OCR-parsed**, with many pages showing only \u201c\u00a9 2021 WeWork. Confidential.\u201d and bullet placeholders (e.g., Pages 1\u20139, 11\u201323, 26\u201350). This significantly limits the ability to identify SoftBank-related terms or obligations.\n\n**Confidence: HIGH** (SoftBank is not mentioned anywhere in the provided text; therefore role/obligations cannot be supported from this document)."
+          }
+        ],
+        "role": "assistant"
+      }
+    ],
+    "parallel_tool_calls": true,
+    "presence_penalty": 0,
+    "previous_response_id": null,
+    "prompt_cache_key": null,
+    "prompt_cache_retention": null,
+    "reasoning": {
+      "effort": "none",
+      "summary": null
+    },
+    "safety_identifier": null,
+    "service_tier": "default",
+    "store": true,
+    "temperature": 1,
+    "text": {
+      "format": {
+        "type": "text"
+      },
+      "verbosity": "medium"
+    },
+    "tool_choice": "auto",
+    "tools": [],
+    "top_logprobs": 0,
+    "top_p": 0.98,
+    "truncation": "disabled",
+    "usage": {
+      "input_tokens": 1307,
+      "input_tokens_details": {
+        "cached_tokens": 1152
+      },
+      "output_tokens": 255,
+      "output_tokens_details": {
+        "reasoning_tokens": 0
+      },
+      "total_tokens": 1562
+    },
+    "user": null,
+    "metadata": {}
+  }
+}

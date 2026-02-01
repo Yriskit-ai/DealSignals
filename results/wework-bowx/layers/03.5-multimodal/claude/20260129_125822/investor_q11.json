@@ -1,0 +1,15 @@
+{
+  "question_id": "q11",
+  "question_text": "What is member churn rate?",
+  "category": "unit_economics",
+  "response": {
+    "content": "Looking through the document for information about member churn rate, I find that **member churn rate is not found in this document**.\n\nThe document contains extensive financial and operational data about WeWork's SPAC merger, including:\n- Membership growth metrics and projections (pages 18-19, 30-31)\n- Revenue composition and forecasts (pages 32-33)\n- Customer composition changes over time (page 19)\n- Various occupancy rates and business metrics\n\nHowever, none of the pages specifically define or provide data on member churn rate, which would typically measure the percentage of members who discontinue their memberships over a given period.\n\n**Confidence: HIGH** - I have thoroughly reviewed all pages of the document and can confirm that member churn rate is not mentioned or defined anywhere in this presentation.",
+    "model": "claude-sonnet-4-20250514",
+    "input_tokens": 80338,
+    "output_tokens": 178,
+    "total_tokens": 80516,
+    "latency_ms": 12994,
+    "timestamp": "2026-01-29T18:00:56.351138",
+    "cost_usd": 0.243684
+  }
+}

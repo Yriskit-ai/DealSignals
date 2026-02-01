@@ -1,0 +1,15 @@
+{
+  "question_id": "q02",
+  "question_text": "What is the revenue growth rate year-over-year?",
+  "category": "financial_fundamentals",
+  "response": {
+    "content": "Not found in document. My confidence in this statement is HIGH due to the detailed search conducted across all available sections of the document. If the document does not explicitly contain this information, it may need further analysis or external data sources to determine year-over-year revenue growth rates.",
+    "model": "gpt-4o",
+    "input_tokens": 3707,
+    "output_tokens": 89,
+    "total_tokens": 3796,
+    "latency_ms": 9327,
+    "timestamp": "2026-01-29T18:12:58.995899",
+    "cost_usd": 0.0101575
+  }
+}

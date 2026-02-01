@@ -1,0 +1,80 @@
+{
+  "content": "**Not found in document.** The provided OCR text does not include any statement describing what happens to the business at **70% occupancy**. Most pages contain only confidentiality headers, bullet placeholders, or unrelated content (e.g., company values on **p.10** and \u201cAll Access\u201d product attributes on **p.25**), with no explicit discussion of a 70% occupancy threshold or its business implications (**pp.1\u201350**, especially **p.25** for occupancy references but not 70%).  \n\n**Confidence:** LOW (information is not present in the provided text).  \n\n**Caveat / limitation:** The OCR appears incomplete/redacted across many pages (frequent \u201c\u2022\u201d placeholders and missing text, e.g., **pp.6, 9, 15, 22\u201323, 45\u201346, 50**), so the relevant explanation may exist in the original document but is not captured in the provided OCR.",
+  "model": "gpt-5.2",
+  "input_tokens": 1308,
+  "output_tokens": 198,
+  "latency_ms": 4911,
+  "timestamp": "2026-01-24T03:33:34.638366",
+  "cost_usd": 0.0050609999999999995,
+  "raw_response": {
+    "id": "resp_0887d3b6ea5012980069743d89f8688191820ea2948608e88c",
+    "object": "response",
+    "created_at": 1769225610,
+    "status": "completed",
+    "background": false,
+    "billing": {
+      "payer": "openai"
+    },
+    "completed_at": 1769225614,
+    "error": null,
+    "frequency_penalty": 0,
+    "incomplete_details": null,
+    "instructions": null,
+    "max_output_tokens": null,
+    "max_tool_calls": null,
+    "model": "gpt-5.2-2025-12-11",
+    "output": [
+      {
+        "id": "msg_0887d3b6ea5012980069743d8a7afc81919868441d3c87302c",
+        "type": "message",
+        "status": "completed",
+        "content": [
+          {
+            "type": "output_text",
+            "annotations": [],
+            "logprobs": [],
+            "text": "**Not found in document.** The provided OCR text does not include any statement describing what happens to the business at **70% occupancy**. Most pages contain only confidentiality headers, bullet placeholders, or unrelated content (e.g., company values on **p.10** and \u201cAll Access\u201d product attributes on **p.25**), with no explicit discussion of a 70% occupancy threshold or its business implications (**pp.1\u201350**, especially **p.25** for occupancy references but not 70%).  \n\n**Confidence:** LOW (information is not present in the provided text).  \n\n**Caveat / limitation:** The OCR appears incomplete/redacted across many pages (frequent \u201c\u2022\u201d placeholders and missing text, e.g., **pp.6, 9, 15, 22\u201323, 45\u201346, 50**), so the relevant explanation may exist in the original document but is not captured in the provided OCR."
+          }
+        ],
+        "role": "assistant"
+      }
+    ],
+    "parallel_tool_calls": true,
+    "presence_penalty": 0,
+    "previous_response_id": null,
+    "prompt_cache_key": null,
+    "prompt_cache_retention": null,
+    "reasoning": {
+      "effort": "none",
+      "summary": null
+    },
+    "safety_identifier": null,
+    "service_tier": "default",
+    "store": true,
+    "temperature": 1,
+    "text": {
+      "format": {
+        "type": "text"
+      },
+      "verbosity": "medium"
+    },
+    "tool_choice": "auto",
+    "tools": [],
+    "top_logprobs": 0,
+    "top_p": 0.98,
+    "truncation": "disabled",
+    "usage": {
+      "input_tokens": 1308,
+      "input_tokens_details": {
+        "cached_tokens": 1152
+      },
+      "output_tokens": 198,
+      "output_tokens_details": {
+        "reasoning_tokens": 0
+      },
+      "total_tokens": 1506
+    },
+    "user": null,
+    "metadata": {}
+  }
+}

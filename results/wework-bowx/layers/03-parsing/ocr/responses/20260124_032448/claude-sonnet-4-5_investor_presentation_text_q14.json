@@ -1,0 +1,34 @@
+{
+  "content": "# Answer\n\n**Not found in document.**\n\n## Explanation\n\nThe provided document appears to be an OCR-parsed WeWork investor presentation from 2021, but the text extraction is incomplete with most content missing (showing only headers, bullet points, and page numbers). \n\nI searched for information regarding:\n- Lease commitment durations\n- Weighted average lease terms\n- Lease maturity schedules\n- Contractual obligations related to leases\n\nNone of these details are present in the extracted text. While the document does contain:\n- A reference to WeWork's \"All Access\" subscription model (Page 25)\n- Mentions of \"traditional leased business\" (Page 25)\n- Various bullet points that may have contained financial data (Pages 22-23, 27, 37-38, 45-46)\n\nThe actual content of these sections was not successfully captured in the OCR process.\n\n## Confidence: N/A\n\nThe document's text extraction is too limited to provide any meaningful analysis of lease commitment durations.\n\n## Caveat\n\nTo properly answer this question, a complete OCR extraction or the original document would be needed, particularly sections that would typically contain:\n- Commitments and contingencies notes\n- Operating lease obligations tables\n- Real estate portfolio details",
+  "model": "claude-sonnet-4-5",
+  "input_tokens": 1662,
+  "output_tokens": 281,
+  "latency_ms": 7984,
+  "timestamp": "2026-01-24T03:26:59.783646",
+  "cost_usd": 0.009201,
+  "raw_response": {
+    "model": "claude-sonnet-4-5-20250929",
+    "id": "msg_017DeUPXeH3dCJcjQ9W4KgJg",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "# Answer\n\n**Not found in document.**\n\n## Explanation\n\nThe provided document appears to be an OCR-parsed WeWork investor presentation from 2021, but the text extraction is incomplete with most content missing (showing only headers, bullet points, and page numbers). \n\nI searched for information regarding:\n- Lease commitment durations\n- Weighted average lease terms\n- Lease maturity schedules\n- Contractual obligations related to leases\n\nNone of these details are present in the extracted text. While the document does contain:\n- A reference to WeWork's \"All Access\" subscription model (Page 25)\n- Mentions of \"traditional leased business\" (Page 25)\n- Various bullet points that may have contained financial data (Pages 22-23, 27, 37-38, 45-46)\n\nThe actual content of these sections was not successfully captured in the OCR process.\n\n## Confidence: N/A\n\nThe document's text extraction is too limited to provide any meaningful analysis of lease commitment durations.\n\n## Caveat\n\nTo properly answer this question, a complete OCR extraction or the original document would be needed, particularly sections that would typically contain:\n- Commitments and contingencies notes\n- Operating lease obligations tables\n- Real estate portfolio details"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "usage": {
+      "input_tokens": 1662,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 281,
+      "service_tier": "standard"
+    }
+  }
+}

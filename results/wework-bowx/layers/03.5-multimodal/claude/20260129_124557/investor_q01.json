@@ -1,0 +1,15 @@
+{
+  "question_id": "q01",
+  "question_text": "What is WeWork's revenue for the most recent reported period?",
+  "category": "financial_fundamentals",
+  "response": {
+    "content": "Based on the document, WeWork's revenue for the most recent reported period is **$3.2 billion** for 2020 (page 14).\n\nThe document shows revenue figures as follows:\n- 2019A: $3.2B\n- 2020A: $3.2B \n- 2021E: $3.2B (projected)\n\n**Confidence: HIGH** - This figure is directly stated in multiple places throughout the document, including on page 14 which shows \"Total Revenue\" charts and on page 31 which provides a summary of historical and projected financials.\n\n**Caveat**: The document notes that these figures exclude ChinaCo (WeWork's China operations), as stated on page 31: \"Revenue (Excluding ChinaCo)\".",
+    "model": "claude-sonnet-4-20250514",
+    "input_tokens": 80344,
+    "output_tokens": 178,
+    "total_tokens": 80522,
+    "latency_ms": 15497,
+    "timestamp": "2026-01-29T17:46:13.623900",
+    "cost_usd": 0.243702
+  }
+}

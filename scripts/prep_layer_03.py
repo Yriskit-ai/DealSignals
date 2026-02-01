@@ -52,6 +52,18 @@ def _read_float_env(name: str, default: float) -> float:
         raise ValueError(f"Invalid {name} value: {value}") from exc
 
 
+def _read_bool_env(name: str, default: bool) -> bool:
+    value = os.environ.get(name)
+    if value is None:
+        return default
+    normalized = value.strip().lower()
+    if normalized in {"1", "true", "yes", "y", "on"}:
+        return True
+    if normalized in {"0", "false", "no", "n", "off"}:
+        return False
+    raise ValueError(f"Invalid {name} value: {value}")
+
+
 def _wait_for_completion(
     client: OcrClient,
     job_id: str,
@@ -109,7 +121,9 @@ def main(client: OcrClient | None = None, sleep_seconds: float | None = None) ->
     else:
         output_dir = Path("experiments/wework-bowx/data/layer-03/ocrmypdf_tesseract_v1")
     poll_interval = _read_float_env("LAYER_03_POLL_INTERVAL_S", 2.0)
-    poll_timeout = _read_float_env("LAYER_03_POLL_TIMEOUT_S", 600.0)
+    poll_timeout = _read_float_env("LAYER_03_POLL_TIMEOUT_S", 3600.0)
+    skip_text = _read_bool_env("LAYER_03_SKIP_TEXT", False)
+    force_ocr = _read_bool_env("LAYER_03_FORCE_OCR", False)
     if sleep_seconds is not None:
         poll_interval = sleep_seconds
 
@@ -132,8 +146,18 @@ def main(client: OcrClient | None = None, sleep_seconds: float | None = None) ->
     parser_profile = "ocrmypdf_tesseract_v1"
     run_id = "layer-03"
     callback_url = f"{base_url}/v1/ocr/callback"
+    options: dict[str, bool] = {}
+    if skip_text:
+        options["skip_text"] = True
+    if force_ocr:
+        options["force_ocr"] = True
 
-    def process_document(client_instance: OcrClient, document_id: str, path: Path) -> int:
+    def process_document(
+        client_instance: OcrClient,
+        document_id: str,
+        path: Path,
+        submit_options: dict[str, bool],
+    ) -> int:
         try:
             job_id = client_instance.submit_pdf(
                 file_path=str(path),
@@ -141,6 +165,7 @@ def main(client: OcrClient | None = None, sleep_seconds: float | None = None) ->
                 document_id=document_id,
                 parser_profile=parser_profile,
                 callback_url=callback_url,
+                options=submit_options or None,
             )
         except Exception as exc:
             raise RuntimeError(f"OCR submit failed for {document_id}.") from exc
@@ -168,11 +193,11 @@ def main(client: OcrClient | None = None, sleep_seconds: float | None = None) ->
     if client is None:
         with OcrClient(base_url=base_url) as live_client:
             for document_id, path in documents.items():
-                if process_document(live_client, document_id, path) != 0:
+                if process_document(live_client, document_id, path, options) != 0:
                     return 1
     else:
         for document_id, path in documents.items():
-            if process_document(client, document_id, path) != 0:
+            if process_document(client, document_id, path, options) != 0:
                 return 1
 
     return 0

@@ -1,0 +1,34 @@
+{
+  "content": "## Analysis: Registration Rights\n\n**Answer: Not found in document.**\n\nAfter reviewing all 50 pages of the provided OCR-parsed document, I cannot identify any specific information regarding registration rights. The document appears to be a WeWork confidential presentation from 2021, but the OCR parsing has captured very limited substantive text content. \n\nWhat is visible in the document includes:\n- Page 10: Company values/mission statements about integrity, collaboration, and community\n- Page 24: A timeline graphic spanning 2010-2030\n- Page 25: Description of an \"All Access\" product offering (subscription-based access to WeWork locations)\n- Pages 45-46: Partial bullet points that appear to reference definitions or metrics\n\nThe document does not contain any visible text discussing:\n- Registration rights for shareholders\n- Demand registration provisions\n- Piggyback registration rights\n- S-1 or S-3 registration statement rights\n- Lock-up periods related to registration\n- Any other securities registration provisions\n\n**Confidence Level: HIGH** (that this information is not present in the document as provided)\n\n**Caveats/Limitations:**\n1. The OCR parsing appears to have failed to capture most of the actual text content from this presentation - many pages show only copyright notices and bullet point symbols without the associated text\n2. Registration rights are typically detailed in merger agreements, investor rights agreements, or proxy statement filings rather than investor presentation decks\n3. A complete due diligence review would require examining the actual SPAC merger agreement and related SEC filings (Form S-4, etc.) to identify registration rights provisions",
+  "model": "claude-opus-4-5",
+  "input_tokens": 1657,
+  "output_tokens": 356,
+  "latency_ms": 10238,
+  "timestamp": "2026-01-24T03:47:46.409702",
+  "cost_usd": 0.017185,
+  "raw_response": {
+    "model": "claude-opus-4-5-20251101",
+    "id": "msg_016QiTY9JpukAdZinkGTdHad",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "## Analysis: Registration Rights\n\n**Answer: Not found in document.**\n\nAfter reviewing all 50 pages of the provided OCR-parsed document, I cannot identify any specific information regarding registration rights. The document appears to be a WeWork confidential presentation from 2021, but the OCR parsing has captured very limited substantive text content. \n\nWhat is visible in the document includes:\n- Page 10: Company values/mission statements about integrity, collaboration, and community\n- Page 24: A timeline graphic spanning 2010-2030\n- Page 25: Description of an \"All Access\" product offering (subscription-based access to WeWork locations)\n- Pages 45-46: Partial bullet points that appear to reference definitions or metrics\n\nThe document does not contain any visible text discussing:\n- Registration rights for shareholders\n- Demand registration provisions\n- Piggyback registration rights\n- S-1 or S-3 registration statement rights\n- Lock-up periods related to registration\n- Any other securities registration provisions\n\n**Confidence Level: HIGH** (that this information is not present in the document as provided)\n\n**Caveats/Limitations:**\n1. The OCR parsing appears to have failed to capture most of the actual text content from this presentation - many pages show only copyright notices and bullet point symbols without the associated text\n2. Registration rights are typically detailed in merger agreements, investor rights agreements, or proxy statement filings rather than investor presentation decks\n3. A complete due diligence review would require examining the actual SPAC merger agreement and related SEC filings (Form S-4, etc.) to identify registration rights provisions"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "usage": {
+      "input_tokens": 1657,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 356,
+      "service_tier": "standard"
+    }
+  }
+}

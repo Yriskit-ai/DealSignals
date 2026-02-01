@@ -1,0 +1,34 @@
+{
+  "content": "# Analysis: Operating Losses for Most Recent Period\n\n## Answer:\n**Not found in document**\n\n## Explanation:\nThe provided OCR-parsed document appears to be a WeWork investor presentation from 2021, but the content extracted is heavily redacted or incomplete. The pages contain primarily:\n- Copyright notices (\"\u00a9 2021 WeWork. Confidential.\")\n- Bullet points without accompanying text\n- A few narrative sections (Page 10 contains company values, Page 25 describes the \"All Access\" product)\n- Some page references to charts/timelines (e.g., Page 24 shows years 2010-2030)\n\nHowever, **no financial data, income statements, or operating loss figures are visible** in the extracted text. \n\n## Confidence Level: \n**HIGH** - I can confidently state that operating loss information is not present in the provided document content.\n\n## Caveats:\n1. The OCR extraction may have failed to capture financial tables, charts, or numerical data that were present in the original document\n2. Financial statements typically would appear in later sections of investor presentations, and this may be an incomplete extraction\n3. If this is a partial document excerpt, the financial data may exist in pages not included in this extraction\n\n## Recommendation:\nTo properly answer this question, you would need:\n- A complete OCR extraction including all tables and numerical data\n- Access to the specific pages containing financial statements or performance metrics\n- The full investor deck or financial supplement",
+  "model": "claude-sonnet-4-5",
+  "input_tokens": 1662,
+  "output_tokens": 330,
+  "latency_ms": 10035,
+  "timestamp": "2026-01-24T03:25:16.156964",
+  "cost_usd": 0.009936,
+  "raw_response": {
+    "model": "claude-sonnet-4-5-20250929",
+    "id": "msg_01Cdgf4SW8DMRXrnvfVQJhzp",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "# Analysis: Operating Losses for Most Recent Period\n\n## Answer:\n**Not found in document**\n\n## Explanation:\nThe provided OCR-parsed document appears to be a WeWork investor presentation from 2021, but the content extracted is heavily redacted or incomplete. The pages contain primarily:\n- Copyright notices (\"\u00a9 2021 WeWork. Confidential.\")\n- Bullet points without accompanying text\n- A few narrative sections (Page 10 contains company values, Page 25 describes the \"All Access\" product)\n- Some page references to charts/timelines (e.g., Page 24 shows years 2010-2030)\n\nHowever, **no financial data, income statements, or operating loss figures are visible** in the extracted text. \n\n## Confidence Level: \n**HIGH** - I can confidently state that operating loss information is not present in the provided document content.\n\n## Caveats:\n1. The OCR extraction may have failed to capture financial tables, charts, or numerical data that were present in the original document\n2. Financial statements typically would appear in later sections of investor presentations, and this may be an incomplete extraction\n3. If this is a partial document excerpt, the financial data may exist in pages not included in this extraction\n\n## Recommendation:\nTo properly answer this question, you would need:\n- A complete OCR extraction including all tables and numerical data\n- Access to the specific pages containing financial statements or performance metrics\n- The full investor deck or financial supplement"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "usage": {
+      "input_tokens": 1662,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 330,
+      "service_tier": "standard"
+    }
+  }
+}

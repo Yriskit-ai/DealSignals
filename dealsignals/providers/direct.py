@@ -184,23 +184,21 @@ class OpenAIDirectProvider(DirectProvider):
 
     def _setup_assistant(self, document_path: Path) -> tuple[str, str]:
         """Create assistant and upload document to vector store."""
-        # Create vector store
-        vector_store = self.client.beta.vector_stores.create(
-            name=f"DealSignals-{document_path.stem}"
-        )
+        # Create vector store (moved from beta to main client in openai v2.x)
+        vector_store = self.client.vector_stores.create(name=f"DealSignals-{document_path.stem}")
 
         # Upload file to vector store
         with open(document_path, "rb") as f:
             file = self.client.files.create(file=f, purpose="assistants")
 
-        self.client.beta.vector_stores.files.create(
+        self.client.vector_stores.files.create(
             vector_store_id=vector_store.id,
             file_id=file.id,
         )
 
         # Wait for processing
         while True:
-            vs = self.client.beta.vector_stores.retrieve(vector_store.id)
+            vs = self.client.vector_stores.retrieve(vector_store.id)
             if vs.file_counts.completed > 0:
                 break
             time.sleep(1)
@@ -284,7 +282,7 @@ class OpenAIDirectProvider(DirectProvider):
         if self._assistant_id:
             self.client.beta.assistants.delete(self._assistant_id)
         if self._vector_store_id:
-            self.client.beta.vector_stores.delete(self._vector_store_id)
+            self.client.vector_stores.delete(self._vector_store_id)
 
 
 class GeminiDirectProvider(DirectProvider):

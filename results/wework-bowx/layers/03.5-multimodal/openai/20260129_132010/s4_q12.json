@@ -1,0 +1,15 @@
+{
+  "question_id": "q12",
+  "question_text": "What is the average revenue per member?",
+  "category": "unit_economics",
+  "response": {
+    "content": "The document mentions that the average revenue per WeWork membership declined by approximately 6% for the year ended December 31, 2020, compared to the year ended December 31, 2019\u30104:4\u2020S-4_A.pdf\u3011. However, the exact average revenue per member is not directly stated. \n\nConfidence: LOW (inferred from the decline percentage without specific revenue numbers).",
+    "model": "gpt-4o",
+    "input_tokens": 16980,
+    "output_tokens": 112,
+    "total_tokens": 17092,
+    "latency_ms": 17470,
+    "timestamp": "2026-01-29T18:25:17.022628",
+    "cost_usd": 0.04357
+  }
+}

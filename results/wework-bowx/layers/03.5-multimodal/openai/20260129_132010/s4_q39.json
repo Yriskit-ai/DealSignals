@@ -1,0 +1,15 @@
+{
+  "question_id": "q39",
+  "question_text": "What debt covenants and restrictions existed?",
+  "category": "synthesis_judgment",
+  "response": {
+    "content": "The debt covenants and restrictions in the document include:\n\n1. **Restrictions on Liens and Dispositions**: The covenants restrict WeWork Companies LLC and its Restricted Subsidiaries from placing liens, changing lines of business, or disposing of all or substantially all of their assets, subject to conditions and exceptions consistent with existing notes\u30104:0\u2020S-4_A.pdf\u3011.\n\n2. **Maintenance Covenants**: Obligations such as maintaining property in good working order and maintaining insurance are specified\u30104:6\u2020S-4_A.pdf\u3011\u30104:10\u2020S-4_A.pdf\u3011.\n\n3. **Distribution Restrictions**: There are restrictions on distributions by subsidiaries of WeWork Companies LLC, limiting their ability to pay dividends or make certain transfers to WeWork Inc.\u30104:15\u2020S-4_A.pdf\u3011.\n\n4. **Indebtedness and Transaction Restrictions**: Covenants restrict engaging in transactions with affiliates and require compliance with asset disposition rules\u30104:16\u2020S-4_A.pdf\u3011.\n\n5. **Financial Covenant**: A minimum Growth-Adjusted EBITDA is required for certain periods to incur new indebtedness\u30104:9\u2020S-4_A.pdf\u3011.\n\n6. **Other Operating and Financial Restrictions**: There are significant operating and financial restrictions to prevent actions such as incurring debt, incurring liens, entering mergers, disposing of assets, paying dividends, and making certain acquisitions\u30104:5\u2020S-4_A.pdf\u3011\u30104:8\u2020S-4_A.pdf\u3011\u30104:11\u2020S-4_A.pdf\u3011.\n\nThis information is directly from the document, so the confidence level is HIGH based on direct citations. A limitation to note is that the details of each specific covenant and its implications may require further context from the full document or related legal agreements\u30104:0\u2020S-4_A.pdf\u3011\u30104:6\u2020S-4_A.pdf\u3011\u30104:10\u2020S-4_A.pdf\u3011\u30104:15\u2020S-4_A.pdf\u3011\u30104:16\u2020S-4_A.pdf\u3011\u30104:9\u2020S-4_A.pdf\u3011\u30104:5\u2020S-4_A.pdf\u3011\u30104:8\u2020S-4_A.pdf\u3011\u30104:11\u2020S-4_A.pdf\u3011.",
+    "model": "gpt-4o",
+    "input_tokens": 18116,
+    "output_tokens": 480,
+    "total_tokens": 18596,
+    "latency_ms": 38731,
+    "timestamp": "2026-01-29T18:35:37.370926",
+    "cost_usd": 0.050089999999999996
+  }
+}

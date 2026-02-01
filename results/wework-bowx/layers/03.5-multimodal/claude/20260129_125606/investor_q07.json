@@ -1,0 +1,15 @@
+{
+  "question_id": "q07",
+  "question_text": "What are the key assumptions underlying the projections?",
+  "category": "financial_fundamentals",
+  "response": {
+    "content": "Based on my analysis of the WeWork document, here are the key assumptions underlying the projections:\n\n## Membership and Occupancy Assumptions (Page 42)\n\n**Core Leased Business:**\n- Physical occupancy rates to improve from 45% (2020A) to 85% (2024E)\n- Core Leased revenue CAGR of 26% from 2020-2024\n- ARPM growth from $510 (2020A) to $598 (2024E)\n\n**All Access:**\n- Membership growth from 45k (2021E) to 160k (2024E) \n- Contribution to total occupancy increasing from 5% to 10%\n- Revenue growth from $90mm (2021E) to $481mm (2024E)\n\n**Marketplace:**\n- Revenue growth from $86mm (2021E) to $313mm (2024E)\n- 37% CAGR over projection period\n\n## Financial Performance Assumptions\n\n**Revenue Growth:**\n- Total revenue (excluding ChinaCo) growing from $3.2B (2020A/2021E) to $7.0B (2024E)\n- Compound annual growth rate of ~27% from 2021-2024 (Page 32)\n\n**Profitability Path:**\n- Adj. EBITDA breakeven expected by Q4 2021 (Page 27)\n- Adj. EBITDA margin improvement from (55%) in 2020A to 29% by 2024E (Page 29)\n- Approximately 70% physical occupancy needed to achieve Adj. EBITDA breakeven (Page 27)\n\n## Operational Assumptions\n\n**Cost Structure:**\n- Building expenses optimized with All Access and Marketplace driving incremental margins (Page 33)\n- Functional expense savings of $150-200mm expected over 2021 (Page 14)\n\n**Market Growth:**\n- Flexible workspace market penetration assumed to grow significantly\n- WeWork targeting 25% share of total flexible workspace market (Page 23)\n- Base case flexible workspace penetration of 13.3% by 2030 vs current ~3.3% (Page 23)\n\n## Confidence Level: MEDIUM\n\nThese assumptions are derived from management projections and forward-looking statements throughout the document. The projections appear aggressive, particularly the occupancy recovery timeline and revenue growth rates, given the company's performance challenges noted in 2020.\n\n**Key Caveats:**\n- Document notes these are \"Management Projections\" subject to risks and uncertainties (Page 2)\n- COVID-19 impact and recovery timeline assumptions are inherently uncertain\n- Occupancy recovery assumptions may be optimistic given market conditions at the time",
+    "model": "claude-sonnet-4-20250514",
+    "input_tokens": 80341,
+    "output_tokens": 631,
+    "total_tokens": 80972,
+    "latency_ms": 21592,
+    "timestamp": "2026-01-29T17:57:50.610284",
+    "cost_usd": 0.250488
+  }
+}

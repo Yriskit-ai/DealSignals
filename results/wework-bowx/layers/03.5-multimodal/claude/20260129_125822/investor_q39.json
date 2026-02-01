@@ -1,0 +1,15 @@
+{
+  "question_id": "q39",
+  "question_text": "What debt covenants and restrictions existed?",
+  "category": "synthesis_judgment",
+  "response": {
+    "content": "Based on my review of the WeWork SPAC merger document, I need to note that this document does not contain detailed information about debt covenants and restrictions. However, I can provide the limited debt-related information that is available:\n\n## Capital Structure Overview (Page 36)\n\nThe document shows WeWork's debt structure as of 6/30/2021E:\n\n**Secured Debt:**\n- $1.75bn LC Balance (Wholly Owned) - 5.600% coupon, maturity 2/10/2023\n- $1.1bn Senior Secured SoftBank Notes - 12.500% coupon  \n- $46mm LC Balance (Japan) - 0.200% coupon\n- Subsidiary Debt - 2.500% - 3.000% coupon, various maturities\n\n**Unsecured Debt:**\n- Senior Notes - 7.875% coupon, maturity 5/1/2025\n- SoftBank Senior Unsecured Notes - 5.000% coupon, maturity 7/10/2025\n\n**Total Debt:** $4.194 billion\n**Net Debt:** $3.529 billion\n\n## Confidence Level\n**LOW** - The document focuses primarily on the SPAC transaction structure and business overview rather than detailed debt covenant information.\n\n## Limitations\nThe document does not provide:\n- Specific debt covenant terms\n- Financial ratio requirements\n- Operational restrictions\n- Default triggers\n- Collateral details\n\nFor comprehensive debt covenant information, you would need to review WeWork's actual debt agreements, SEC filings (10-K, 10-Q), or credit agreements, which are not included in this SPAC presentation document.",
+    "model": "claude-sonnet-4-20250514",
+    "input_tokens": 80340,
+    "output_tokens": 389,
+    "total_tokens": 80729,
+    "latency_ms": 16114,
+    "timestamp": "2026-01-29T18:07:43.913027",
+    "cost_usd": 0.246855
+  }
+}

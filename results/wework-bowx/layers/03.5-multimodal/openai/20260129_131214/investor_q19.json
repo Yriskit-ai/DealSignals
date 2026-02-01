@@ -1,0 +1,15 @@
+{
+  "question_id": "q19",
+  "question_text": "What valuation methodology is used to justify the price?",
+  "category": "deal_structure",
+  "response": {
+    "content": "Not found in document. Confidence: HIGH (no relevant excerpts found in the search). There is a limitation here because the complete document content is not visible, only snippets were searched. Further manual review of the document may be required to confirm this thoroughly.",
+    "model": "gpt-4o",
+    "input_tokens": 3699,
+    "output_tokens": 77,
+    "total_tokens": 3776,
+    "latency_ms": 7367,
+    "timestamp": "2026-01-29T18:15:12.033895",
+    "cost_usd": 0.0100175
+  }
+}

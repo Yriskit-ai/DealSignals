@@ -1,0 +1,15 @@
+{
+  "question_id": "q36",
+  "question_text": "Were comparable transactions disclosed?",
+  "category": "governance_control",
+  "response": {
+    "content": "Not found in document. My confidence in this conclusion is HIGH as there was no mention of comparable transactions being disclosed in the available pages of the document.",
+    "model": "gpt-4o",
+    "input_tokens": 3684,
+    "output_tokens": 52,
+    "total_tokens": 3736,
+    "latency_ms": 8780,
+    "timestamp": "2026-01-29T18:17:39.959903",
+    "cost_usd": 0.00973
+  }
+}

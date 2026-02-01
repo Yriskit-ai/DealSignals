@@ -1,0 +1,15 @@
+{
+  "question_id": "q02",
+  "question_text": "What is the revenue growth rate year-over-year?",
+  "category": "financial_fundamentals",
+  "response": {
+    "content": "Based on the financial data in the document, here are the revenue growth rates year-over-year (excluding ChinaCo):\n\n**Historical Growth Rates:**\n- 2019A to 2020A: -1% (page 32, 40)\n- 2020A to 2021E: 1% (page 32, 40)\n\n**Projected Growth Rates:**\n- 2021E to 2022E: 41% (page 32, 40) \n- 2022E to 2023E: 27% (page 32, 40)\n- 2023E to 2024E: 20% (page 32, 40)\n\n**Revenue figures (excluding ChinaCo):**\n- 2020A: $3.2B\n- 2021E: $3.2B  \n- 2022E: $4.6B\n- 2023E: $5.8B\n- 2024E: $7.0B\n\n**Confidence:** HIGH - These figures are directly stated in the revenue composition tables on pages 32 and 40.\n\n**Key Context:** The company experienced minimal growth/decline in 2020-2021 due to the pandemic, but projects strong recovery with 41% growth in 2022, moderating to 27% in 2023 and 20% in 2024 as the business scales.",
+    "model": "claude-sonnet-4-20250514",
+    "input_tokens": 80343,
+    "output_tokens": 324,
+    "total_tokens": 80667,
+    "latency_ms": 11869,
+    "timestamp": "2026-01-29T17:58:46.030771",
+    "cost_usd": 0.245889
+  }
+}

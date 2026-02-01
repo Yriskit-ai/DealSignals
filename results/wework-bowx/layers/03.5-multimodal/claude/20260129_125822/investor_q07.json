@@ -1,0 +1,15 @@
+{
+  "question_id": "q07",
+  "question_text": "What are the key assumptions underlying the projections?",
+  "category": "financial_fundamentals",
+  "response": {
+    "content": "Based on my analysis of the document, here are the key assumptions underlying WeWork's financial projections:\n\n## Occupancy and Growth Assumptions (page 41-42)\n\n**Core Leased Business:**\n- Physical occupancy recovery from 45% (2020A) to 85% by 2024E (page 41)\n- Core leased revenue growth from $2.9B (2020A) to $6.0B (2024E)\n- ARPM (Average Revenue Per Member) growth from $510 (2020A) to $598 (2024E)\n\n**All Access:**\n- Contribution to total occupancy growing from 5% (2021E) to 10% (2024E)\n- Revenue growth from $90mm (2021E) to $481mm (2024E)\n- ARPM increasing from $250 (2021E) to $287 (2024E)\n\n## Market and Expansion Assumptions\n\n**Platform/Marketplace Growth (page 41):**\n- Platform revenue growing from $5mm (2021E) to $159mm (2024E) - a 190% YoY growth assumption\n- Marketplace revenue growing from $86mm (2021E) to $313mm (2024E)\n\n**Geographic Expansion (page 40):**\n- US and Canada revenue growth from $1.3B (2021E) to $3.0B (2024E)\n- EMEA revenue growth from $862mm (2021E) to $1.8B (2024E)\n\n## Key Business Model Assumptions\n\n**Profitability Path (page 27):**\n- Physical occupancy of ~70% needed to achieve Adj. EBITDA breakeven\n- Path to 29% Adj. EBITDA margin by 2024E\n\n**Total Memberships Growth (page 30):**\n- From 476k total memberships (2020A) to 1.5M (2024E)\n- Consolidated memberships from 387k (2020A) to 1M+ (2024E)\n\n## Critical Caveats and Limitations\n\nThe document notes several important limitations (pages 2-3):\n- Projections are \"forward-looking statements\" subject to significant uncertainty\n- Based on management estimates and assumptions that \"may not materialize\"\n- **HIGH confidence** in these being the stated assumptions, but the document emphasizes these are projections with inherent risks and uncertainties\n\nThe assumptions appear aggressive, particularly the platform revenue growth rates and the assumed occupancy recovery timeline, which investors should carefully evaluate against market conditions and execution risk.",
+    "model": "claude-sonnet-4-20250514",
+    "input_tokens": 80341,
+    "output_tokens": 599,
+    "total_tokens": 80940,
+    "latency_ms": 17997,
+    "timestamp": "2026-01-29T18:00:01.440895",
+    "cost_usd": 0.250008
+  }
+}

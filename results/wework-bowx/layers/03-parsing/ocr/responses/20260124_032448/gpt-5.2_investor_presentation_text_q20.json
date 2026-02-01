@@ -1,0 +1,80 @@
+{
+  "content": "Not found in document. The provided OCR text contains no readable references to comparable transactions or comparable companies (e.g., peer set names, precedent M&A deals, or valuation comps). Most pages are either blank, contain only \u201c\u00a9 2021 WeWork. Confidential.\u201d, or show bullet placeholders without content (e.g., Pages 6, 9, 15, 22\u201323, 27, 37\u201338, 45\u201346, 50). The only substantive readable content relates to values/culture (Page 10) and an \u201cAll Access\u201d product description (Page 25), neither of which cites comps.  \n\n**Confidence:** HIGH (explicit absence in provided text)  \n**Caveat / limitation:** OCR appears severely incomplete/redacted across many pages (numerous bullets without text), so comparable transactions/companies may exist in the original document but are not captured in the provided OCR (Pages 6, 9, 15, 22\u201323, 27, 37\u201338, 45\u201346, 50).",
+  "model": "gpt-5.2",
+  "input_tokens": 1305,
+  "output_tokens": 221,
+  "latency_ms": 5320,
+  "timestamp": "2026-01-24T03:33:55.732841",
+  "cost_usd": 0.00537775,
+  "raw_response": {
+    "id": "resp_090eccf53cee0a5c0069743d9e94b08193a8d04c2816e13e9a",
+    "object": "response",
+    "created_at": 1769225630,
+    "status": "completed",
+    "background": false,
+    "billing": {
+      "payer": "openai"
+    },
+    "completed_at": 1769225635,
+    "error": null,
+    "frequency_penalty": 0,
+    "incomplete_details": null,
+    "instructions": null,
+    "max_output_tokens": null,
+    "max_tool_calls": null,
+    "model": "gpt-5.2-2025-12-11",
+    "output": [
+      {
+        "id": "msg_090eccf53cee0a5c0069743d9edb708193923d6f9df3f97610",
+        "type": "message",
+        "status": "completed",
+        "content": [
+          {
+            "type": "output_text",
+            "annotations": [],
+            "logprobs": [],
+            "text": "Not found in document. The provided OCR text contains no readable references to comparable transactions or comparable companies (e.g., peer set names, precedent M&A deals, or valuation comps). Most pages are either blank, contain only \u201c\u00a9 2021 WeWork. Confidential.\u201d, or show bullet placeholders without content (e.g., Pages 6, 9, 15, 22\u201323, 27, 37\u201338, 45\u201346, 50). The only substantive readable content relates to values/culture (Page 10) and an \u201cAll Access\u201d product description (Page 25), neither of which cites comps.  \n\n**Confidence:** HIGH (explicit absence in provided text)  \n**Caveat / limitation:** OCR appears severely incomplete/redacted across many pages (numerous bullets without text), so comparable transactions/companies may exist in the original document but are not captured in the provided OCR (Pages 6, 9, 15, 22\u201323, 27, 37\u201338, 45\u201346, 50)."
+          }
+        ],
+        "role": "assistant"
+      }
+    ],
+    "parallel_tool_calls": true,
+    "presence_penalty": 0,
+    "previous_response_id": null,
+    "prompt_cache_key": null,
+    "prompt_cache_retention": null,
+    "reasoning": {
+      "effort": "none",
+      "summary": null
+    },
+    "safety_identifier": null,
+    "service_tier": "default",
+    "store": true,
+    "temperature": 1,
+    "text": {
+      "format": {
+        "type": "text"
+      },
+      "verbosity": "medium"
+    },
+    "tool_choice": "auto",
+    "tools": [],
+    "top_logprobs": 0,
+    "top_p": 0.98,
+    "truncation": "disabled",
+    "usage": {
+      "input_tokens": 1305,
+      "input_tokens_details": {
+        "cached_tokens": 1152
+      },
+      "output_tokens": 221,
+      "output_tokens_details": {
+        "reasoning_tokens": 0
+      },
+      "total_tokens": 1526
+    },
+    "user": null,
+    "metadata": {}
+  }
+}

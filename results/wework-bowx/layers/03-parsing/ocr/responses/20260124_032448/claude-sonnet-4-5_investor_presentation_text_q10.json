@@ -1,0 +1,34 @@
+{
+  "content": "# Analysis of Occupancy Rate and Trends\n\n## Answer:\n\n**Not found in document.**\n\n## Explanation:\n\nWhile the document does reference occupancy in a strategic context, it does not provide:\n\n1. **Specific occupancy rate figures** - No percentages or numerical metrics are stated\n2. **Historical trend data** - No time series or comparative data showing how occupancy has changed over time\n\n## What the Document Does Contain:\n\n**Page 25** mentions occupancy in the context of WeWork's \"All Access\" product strategy:\n- \"Drives Occupancy: Allows WeWork to drive occupancy beyond physical capacity levels across portfolio based on utilization projections\"\n\nThis describes a strategic capability rather than actual occupancy performance metrics.\n\n## Confidence Level: \n\n**HIGH** - I am confident this information is not present in the document. The OCR-parsed content contains mostly copyright notices and limited strategic/qualitative information, but lacks financial metrics, operational KPIs, or trend data.\n\n## Caveats:\n\n- The document appears to be a heavily redacted or poorly OCR-parsed presentation\n- Most pages contain only \"\u00a9 2021 WeWork. Confidential.\" with occasional bullet points or brief text fragments\n- Financial and operational metrics that would typically appear in a SPAC due diligence document are not visible in this version",
+  "model": "claude-sonnet-4-5",
+  "input_tokens": 1664,
+  "output_tokens": 300,
+  "latency_ms": 8190,
+  "timestamp": "2026-01-24T03:26:23.123115",
+  "cost_usd": 0.009492,
+  "raw_response": {
+    "model": "claude-sonnet-4-5-20250929",
+    "id": "msg_01Gr27JrVpxCJrT2ZkPhPmET",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "# Analysis of Occupancy Rate and Trends\n\n## Answer:\n\n**Not found in document.**\n\n## Explanation:\n\nWhile the document does reference occupancy in a strategic context, it does not provide:\n\n1. **Specific occupancy rate figures** - No percentages or numerical metrics are stated\n2. **Historical trend data** - No time series or comparative data showing how occupancy has changed over time\n\n## What the Document Does Contain:\n\n**Page 25** mentions occupancy in the context of WeWork's \"All Access\" product strategy:\n- \"Drives Occupancy: Allows WeWork to drive occupancy beyond physical capacity levels across portfolio based on utilization projections\"\n\nThis describes a strategic capability rather than actual occupancy performance metrics.\n\n## Confidence Level: \n\n**HIGH** - I am confident this information is not present in the document. The OCR-parsed content contains mostly copyright notices and limited strategic/qualitative information, but lacks financial metrics, operational KPIs, or trend data.\n\n## Caveats:\n\n- The document appears to be a heavily redacted or poorly OCR-parsed presentation\n- Most pages contain only \"\u00a9 2021 WeWork. Confidential.\" with occasional bullet points or brief text fragments\n- Financial and operational metrics that would typically appear in a SPAC due diligence document are not visible in this version"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "usage": {
+      "input_tokens": 1664,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 300,
+      "service_tier": "standard"
+    }
+  }
+}

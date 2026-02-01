@@ -1,0 +1,15 @@
+{
+  "question_id": "q13",
+  "question_text": "What are total lease obligations?",
+  "category": "obligations_exposure",
+  "response": {
+    "content": "Not found in document. \n\nConfidence: HIGH (There was no relevant information regarding total lease obligations in the document content snippets). \n\nCaveat: Since the document was not reviewed in full, it's possible some details were not captured in the search index.",
+    "model": "gpt-4o",
+    "input_tokens": 3684,
+    "output_tokens": 71,
+    "total_tokens": 3755,
+    "latency_ms": 7088,
+    "timestamp": "2026-01-29T18:14:26.662037",
+    "cost_usd": 0.009920000000000002
+  }
+}

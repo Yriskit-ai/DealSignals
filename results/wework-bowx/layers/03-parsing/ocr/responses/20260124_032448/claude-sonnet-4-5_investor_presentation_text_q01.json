@@ -1,0 +1,34 @@
+{
+  "content": "# Analysis: WeWork's Revenue for Most Recent Reported Period\n\n## Answer\n**Not found in document.**\n\n## Explanation\nThe provided document appears to be a corporate presentation or deck focused on WeWork's company values, business model, and strategic overview. While the document contains:\n\n- Company values and mission statements (Page 10)\n- Business model description for \"All Access\" product (Page 25)\n- Reference to a timeline chart spanning 2010-2030 (Page 24)\n- Various bullet points and structural elements throughout\n\n**The document does not contain any specific financial data, revenue figures, or financial statements for any reporting period.**\n\n## Confidence Level\n**HIGH** - I have reviewed all 50 pages of the OCR-parsed document. The pages contain primarily confidential watermarks, bullet points, and limited text content. No revenue figures or financial performance metrics are present in the extracted text.\n\n## Caveats\n- The document appears to be heavily OCR-parsed with minimal actual content extracted\n- Many pages contain only the copyright notice \"\u00a9 2021 WeWork. Confidential.\" with bullet points but no readable text\n- This may be a presentation deck where financial details were in slides that did not parse properly through OCR\n- Financial appendices or detailed financial sections, if they existed in the original document, are not readable in this parsed version",
+  "model": "claude-sonnet-4-5",
+  "input_tokens": 1665,
+  "output_tokens": 298,
+  "latency_ms": 9179,
+  "timestamp": "2026-01-24T03:24:57.726972",
+  "cost_usd": 0.009465000000000001,
+  "raw_response": {
+    "model": "claude-sonnet-4-5-20250929",
+    "id": "msg_01SN1FmBsVNESyXBr7ScRxF3",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "# Analysis: WeWork's Revenue for Most Recent Reported Period\n\n## Answer\n**Not found in document.**\n\n## Explanation\nThe provided document appears to be a corporate presentation or deck focused on WeWork's company values, business model, and strategic overview. While the document contains:\n\n- Company values and mission statements (Page 10)\n- Business model description for \"All Access\" product (Page 25)\n- Reference to a timeline chart spanning 2010-2030 (Page 24)\n- Various bullet points and structural elements throughout\n\n**The document does not contain any specific financial data, revenue figures, or financial statements for any reporting period.**\n\n## Confidence Level\n**HIGH** - I have reviewed all 50 pages of the OCR-parsed document. The pages contain primarily confidential watermarks, bullet points, and limited text content. No revenue figures or financial performance metrics are present in the extracted text.\n\n## Caveats\n- The document appears to be heavily OCR-parsed with minimal actual content extracted\n- Many pages contain only the copyright notice \"\u00a9 2021 WeWork. Confidential.\" with bullet points but no readable text\n- This may be a presentation deck where financial details were in slides that did not parse properly through OCR\n- Financial appendices or detailed financial sections, if they existed in the original document, are not readable in this parsed version"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "usage": {
+      "input_tokens": 1665,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 298,
+      "service_tier": "standard"
+    }
+  }
+}

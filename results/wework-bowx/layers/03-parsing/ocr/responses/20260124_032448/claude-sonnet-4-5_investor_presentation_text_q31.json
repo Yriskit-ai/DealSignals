@@ -1,0 +1,34 @@
+{
+  "content": "# Board Composition Post-Merger\n\n**Answer:** Not found in document.\n\n**Confidence:** HIGH\n\n**Explanation:** \nThe provided OCR-parsed document appears to be a WeWork investor presentation from 2021, likely related to their SPAC merger. However, the OCR extraction has captured primarily formatting elements (copyright notices, bullet points) and only minimal substantive text content. \n\nThe limited readable content includes:\n- Company values and mission statements (Page 10)\n- Product descriptions for \"All Access\" offering (Page 25)\n- Timeline markers (Page 24)\n- Various bullet points and structural elements throughout\n\nNone of the extracted text contains information about:\n- Board of Directors composition\n- Director names or qualifications\n- Board structure post-merger\n- Governance arrangements\n\n**Caveats:**\n1. The OCR extraction appears incomplete, as most pages show only copyright notices and bullet point markers without accompanying text\n2. Board composition information is typically included in SPAC merger documents, so it may exist in the original document but was not successfully captured by the OCR process\n3. This information would normally be found in governance or transaction structure sections of a merger presentation",
+  "model": "claude-sonnet-4-5",
+  "input_tokens": 1661,
+  "output_tokens": 260,
+  "latency_ms": 8597,
+  "timestamp": "2026-01-24T03:29:37.277464",
+  "cost_usd": 0.008882999999999999,
+  "raw_response": {
+    "model": "claude-sonnet-4-5-20250929",
+    "id": "msg_01PmxiejBmigid5nnZGzgV6o",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "# Board Composition Post-Merger\n\n**Answer:** Not found in document.\n\n**Confidence:** HIGH\n\n**Explanation:** \nThe provided OCR-parsed document appears to be a WeWork investor presentation from 2021, likely related to their SPAC merger. However, the OCR extraction has captured primarily formatting elements (copyright notices, bullet points) and only minimal substantive text content. \n\nThe limited readable content includes:\n- Company values and mission statements (Page 10)\n- Product descriptions for \"All Access\" offering (Page 25)\n- Timeline markers (Page 24)\n- Various bullet points and structural elements throughout\n\nNone of the extracted text contains information about:\n- Board of Directors composition\n- Director names or qualifications\n- Board structure post-merger\n- Governance arrangements\n\n**Caveats:**\n1. The OCR extraction appears incomplete, as most pages show only copyright notices and bullet point markers without accompanying text\n2. Board composition information is typically included in SPAC merger documents, so it may exist in the original document but was not successfully captured by the OCR process\n3. This information would normally be found in governance or transaction structure sections of a merger presentation"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "usage": {
+      "input_tokens": 1661,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 260,
+      "service_tier": "standard"
+    }
+  }
+}

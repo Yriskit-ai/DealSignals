@@ -1,0 +1,80 @@
+{
+  "content": "Operating losses for the most recent period: **Not found in document.**\n\n- The OCR content provided does not include any financial statement line item or figure explicitly labeled \u201coperating losses,\u201d nor does it provide readable operating income/loss amounts for any period. Most pages contain only confidentiality footers and/or redacted bullet placeholders (e.g., pages **1\u20139, 11\u201323, 26\u201350**) with no legible operating loss figures.  \n- The only clearly readable content relates to values/culture statements (page **10**) and a product description for \u201cAll Access\u201d (page **25**), neither of which includes operating loss data.\n\n**Confidence:** HIGH (direct absence of operating loss figures in the provided OCR text)\n\n**Caveats / limitations:** The document appears heavily redacted or poorly OCR-parsed (many pages show only \u201c\u00a9 2021 WeWork. Confidential.\u201d and bullet symbols), so operating loss information may exist in the original source but is not recoverable from the provided text.",
+  "model": "gpt-5.2",
+  "input_tokens": 1307,
+  "output_tokens": 211,
+  "latency_ms": 5529,
+  "timestamp": "2026-01-24T03:32:11.285288",
+  "cost_usd": 0.00524125,
+  "raw_response": {
+    "id": "resp_058b4bf0479f521b0069743d368db8819791b9c199960b138a",
+    "object": "response",
+    "created_at": 1769225526,
+    "status": "completed",
+    "background": false,
+    "billing": {
+      "payer": "openai"
+    },
+    "completed_at": 1769225530,
+    "error": null,
+    "frequency_penalty": 0,
+    "incomplete_details": null,
+    "instructions": null,
+    "max_output_tokens": null,
+    "max_tool_calls": null,
+    "model": "gpt-5.2-2025-12-11",
+    "output": [
+      {
+        "id": "msg_058b4bf0479f521b0069743d3703308197a34dc9dcd629c24f",
+        "type": "message",
+        "status": "completed",
+        "content": [
+          {
+            "type": "output_text",
+            "annotations": [],
+            "logprobs": [],
+            "text": "Operating losses for the most recent period: **Not found in document.**\n\n- The OCR content provided does not include any financial statement line item or figure explicitly labeled \u201coperating losses,\u201d nor does it provide readable operating income/loss amounts for any period. Most pages contain only confidentiality footers and/or redacted bullet placeholders (e.g., pages **1\u20139, 11\u201323, 26\u201350**) with no legible operating loss figures.  \n- The only clearly readable content relates to values/culture statements (page **10**) and a product description for \u201cAll Access\u201d (page **25**), neither of which includes operating loss data.\n\n**Confidence:** HIGH (direct absence of operating loss figures in the provided OCR text)\n\n**Caveats / limitations:** The document appears heavily redacted or poorly OCR-parsed (many pages show only \u201c\u00a9 2021 WeWork. Confidential.\u201d and bullet symbols), so operating loss information may exist in the original source but is not recoverable from the provided text."
+          }
+        ],
+        "role": "assistant"
+      }
+    ],
+    "parallel_tool_calls": true,
+    "presence_penalty": 0,
+    "previous_response_id": null,
+    "prompt_cache_key": null,
+    "prompt_cache_retention": null,
+    "reasoning": {
+      "effort": "none",
+      "summary": null
+    },
+    "safety_identifier": null,
+    "service_tier": "default",
+    "store": true,
+    "temperature": 1,
+    "text": {
+      "format": {
+        "type": "text"
+      },
+      "verbosity": "medium"
+    },
+    "tool_choice": "auto",
+    "tools": [],
+    "top_logprobs": 0,
+    "top_p": 0.98,
+    "truncation": "disabled",
+    "usage": {
+      "input_tokens": 1307,
+      "input_tokens_details": {
+        "cached_tokens": 1152
+      },
+      "output_tokens": 211,
+      "output_tokens_details": {
+        "reasoning_tokens": 0
+      },
+      "total_tokens": 1518
+    },
+    "user": null,
+    "metadata": {}
+  }
+}

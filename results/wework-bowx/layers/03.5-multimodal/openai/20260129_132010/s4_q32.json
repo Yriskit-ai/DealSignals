@@ -1,0 +1,15 @@
+{
+  "question_id": "q32",
+  "question_text": "What is the voting structure post-merger?",
+  "category": "governance_control",
+  "response": {
+    "content": "The voting structure post-merger for New WeWork includes that the holders of Class A Common Stock, Class B Common Stock, and Class C Common Stock, along with holders of Senior Preferred Stock and Acquisition Preferred Stock, will vote together as a single class on all matters upon which they have the right to vote. This is done on an as-converted-to-Common Stock basis, except as explicitly provided by the company's Amended and Restated Certificate of Incorporation or by law. Additionally, there are certain conditions under which the written consent or affirmative vote of a majority or two-thirds of the Senior or Acquisition Preferred Stock is required for the company to undertake specific actions\u30104:1\u2020source\u3011.",
+    "model": "gpt-4o",
+    "input_tokens": 17710,
+    "output_tokens": 163,
+    "total_tokens": 17873,
+    "latency_ms": 23461,
+    "timestamp": "2026-01-29T18:33:14.876919",
+    "cost_usd": 0.045905
+  }
+}

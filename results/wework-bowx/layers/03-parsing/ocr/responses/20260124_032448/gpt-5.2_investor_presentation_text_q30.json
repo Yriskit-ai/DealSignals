@@ -1,0 +1,80 @@
+{
+  "content": "**Not found in document.** The provided OCR text does not include any disclosure or discussion of **material weaknesses in internal controls** (e.g., \u201cmaterial weakness,\u201d \u201cinternal control over financial reporting (ICFR),\u201d \u201cSOX 404,\u201d or auditor/management control conclusions). The pages are largely blank/redacted in the OCR output or contain general corporate statements, with no internal-control section visible (e.g., only \u201c\u00a9 2021 WeWork. Confidential.\u201d on most pages such as **Pages 1\u20139, 11\u201323, 26\u201344, 47\u201349**, and limited non-controls content on **Pages 10, 24\u201325, 45\u201346, 50**).\n\n**Confidence:** LOW (absence-of-evidence; document content appears incomplete/mostly redacted in OCR).\n\n**Caveats / limitations:** The OCR-parsed document is heavily truncated/redacted (many pages contain only confidentiality footers and bullet placeholders), so an internal-controls discussion could exist in the original deck but is not captured here (see pervasive missing content across **Pages 1\u20139, 11\u201323, 26\u201344, 47\u201349**).",
+  "model": "gpt-5.2",
+  "input_tokens": 1306,
+  "output_tokens": 247,
+  "latency_ms": 6750,
+  "timestamp": "2026-01-24T03:34:53.283565",
+  "cost_usd": 0.0057435,
+  "raw_response": {
+    "id": "resp_03ba72f0fe492d2e0069743dd71c7c81a3a205385f41198831",
+    "object": "response",
+    "created_at": 1769225687,
+    "status": "completed",
+    "background": false,
+    "billing": {
+      "payer": "openai"
+    },
+    "completed_at": 1769225692,
+    "error": null,
+    "frequency_penalty": 0,
+    "incomplete_details": null,
+    "instructions": null,
+    "max_output_tokens": null,
+    "max_tool_calls": null,
+    "model": "gpt-5.2-2025-12-11",
+    "output": [
+      {
+        "id": "msg_03ba72f0fe492d2e0069743dd7859481a3870d64ffee801cd9",
+        "type": "message",
+        "status": "completed",
+        "content": [
+          {
+            "type": "output_text",
+            "annotations": [],
+            "logprobs": [],
+            "text": "**Not found in document.** The provided OCR text does not include any disclosure or discussion of **material weaknesses in internal controls** (e.g., \u201cmaterial weakness,\u201d \u201cinternal control over financial reporting (ICFR),\u201d \u201cSOX 404,\u201d or auditor/management control conclusions). The pages are largely blank/redacted in the OCR output or contain general corporate statements, with no internal-control section visible (e.g., only \u201c\u00a9 2021 WeWork. Confidential.\u201d on most pages such as **Pages 1\u20139, 11\u201323, 26\u201344, 47\u201349**, and limited non-controls content on **Pages 10, 24\u201325, 45\u201346, 50**).\n\n**Confidence:** LOW (absence-of-evidence; document content appears incomplete/mostly redacted in OCR).\n\n**Caveats / limitations:** The OCR-parsed document is heavily truncated/redacted (many pages contain only confidentiality footers and bullet placeholders), so an internal-controls discussion could exist in the original deck but is not captured here (see pervasive missing content across **Pages 1\u20139, 11\u201323, 26\u201344, 47\u201349**)."
+          }
+        ],
+        "role": "assistant"
+      }
+    ],
+    "parallel_tool_calls": true,
+    "presence_penalty": 0,
+    "previous_response_id": null,
+    "prompt_cache_key": null,
+    "prompt_cache_retention": null,
+    "reasoning": {
+      "effort": "none",
+      "summary": null
+    },
+    "safety_identifier": null,
+    "service_tier": "default",
+    "store": true,
+    "temperature": 1,
+    "text": {
+      "format": {
+        "type": "text"
+      },
+      "verbosity": "medium"
+    },
+    "tool_choice": "auto",
+    "tools": [],
+    "top_logprobs": 0,
+    "top_p": 0.98,
+    "truncation": "disabled",
+    "usage": {
+      "input_tokens": 1306,
+      "input_tokens_details": {
+        "cached_tokens": 1152
+      },
+      "output_tokens": 247,
+      "output_tokens_details": {
+        "reasoning_tokens": 0
+      },
+      "total_tokens": 1553
+    },
+    "user": null,
+    "metadata": {}
+  }
+}

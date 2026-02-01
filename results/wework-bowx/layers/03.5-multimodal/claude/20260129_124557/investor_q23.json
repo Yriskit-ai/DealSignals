@@ -1,0 +1,15 @@
+{
+  "question_id": "q23",
+  "question_text": "What related-party transactions exist?",
+  "category": "deal_structure",
+  "response": {
+    "content": "Based on my review of this WeWork SPAC merger document, I found several related-party transactions mentioned:\n\n## Key Related-Party Transactions (Page 2-3):\n\n**SoftBank Relationships:**\n- SoftBank Group has guaranteed extension of the LC (Letter of Credit) facility to 2024 at WeWork's option on terms consistent with the existing LC agreement, including the issuance of warrants (Page 35)\n- SoftBank Vision Fund will have 1 nominee on the post-transaction board (Page 43)\n- SoftBank Group will have 2 nominees on the post-transaction board (Page 43)\n\n**Platform Business (Page 26):**\nThe document mentions WeWork operates a \"Worldwide Property Technology Platform\" that includes:\n- Management and franchise agreements providing alternatives to existing leasing model\n- Limited upfront capital required to enter new locations and scale efficiently\n\n**BowX SPAC Transaction:**\n- BowX Acquisition Corp. is the SPAC acquiring WeWork\n- Vivek Ranadiv\u00e9 serves as both Chairman and Co-CEO of BowX and will be on the post-transaction board\n- Murray Rode serves as Co-CEO and CFO of BowX\n\n**Confidence Level:** MEDIUM - The document contains clear information about the SoftBank relationships and board composition, but may not include all related-party transactions as this appears to be a presentation rather than a comprehensive regulatory filing.\n\n**Caveats:** This presentation document may not contain the complete universe of related-party transactions. A full proxy statement or SEC filing would typically provide more comprehensive disclosure of all related-party relationships and transactions.",
+    "model": "claude-sonnet-4-20250514",
+    "input_tokens": 80338,
+    "output_tokens": 367,
+    "total_tokens": 80705,
+    "latency_ms": 17361,
+    "timestamp": "2026-01-29T17:51:51.767840",
+    "cost_usd": 0.24651900000000002
+  }
+}

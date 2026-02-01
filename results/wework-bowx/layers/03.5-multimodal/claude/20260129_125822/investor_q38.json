@@ -1,0 +1,15 @@
+{
+  "question_id": "q38",
+  "question_text": "What post-merger integration or business model changes were planned?",
+  "category": "synthesis_judgment",
+  "response": {
+    "content": "Based on the document, WeWork had already undergone significant business model transformation by the time of this presentation, with several key changes implemented and additional ones planned:\n\n## Changes Already Implemented by 2020-2021:\n\n**Cost Structure Optimization (Page 16):**\n- ~$1.1B in functional expense savings (HIGH confidence)\n- ~$400M in operational expense savings\n- $200M+ savings from 200+ lease exits and amendments\n- Exited non-core businesses including conductor, Flatiron School, Meetup, SpaceIQ, Spacious, teem, and Waltz\n\n**Business Model Refocusing (Page 14):**\n- Shifted focus to \"Core WeWork\" - the core leased flexible workspace business\n- Moved from mix of small and medium-sized businesses toward primarily Enterprise customers (500+ employees)\n- Disciplined focus on cost reduction and path to profitability\n\n## Future Platform Evolution Planned:\n\n**Three-Stage Platform Development (Page 22):**\n1. **Space-as-a-Service** - Current core offering providing flexibility of space, time, and cost portability\n2. **Digitization of Real Estate** - All Access offering to digitize WeWork spaces and provide ultimate flexibility\n3. **Platform** - Third party flexible workspace management services leveraging WeWork's property and technology platform\n\n**Revenue Diversification (Page 25-26):**\n- **All Access**: On-demand/subscription access to global network\n- **Marketplace**: Tech services, events, HR services, with insurance expected Q1 2021E\n- **Platform**: Asset-light management and franchise agreements with landlords\n\n## Financial Targets:\nThe document projects achieving $7.0B revenue and $2.0B Adj. EBITDA by 2024E, representing a shift from a -55% Adj. EBITDA margin in 2020A to +29% by 2024E (Page 30, HIGH confidence).\n\n**Confidence Level:** HIGH - These changes are directly stated in the strategic overview sections with specific financial targets and timelines provided.",
+    "model": "claude-sonnet-4-20250514",
+    "input_tokens": 80343,
+    "output_tokens": 473,
+    "total_tokens": 80816,
+    "latency_ms": 20259,
+    "timestamp": "2026-01-29T18:07:27.760792",
+    "cost_usd": 0.24812399999999998
+  }
+}

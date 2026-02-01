@@ -1,0 +1,15 @@
+{
+  "question_id": "q03",
+  "question_text": "What are operating losses for the most recent period?",
+  "category": "financial_fundamentals",
+  "response": {
+    "content": "Based on the document, WeWork's most recent operating losses can be found on page 32 in the financial summary. For 2021E (estimated), the company shows:\n\n**Adj. EBITDA (Excluding ChinaCo): ($0.9) billion or negative $900 million** (page 32)\n\n**Confidence: HIGH** - This figure is directly stated in the financial projections table.\n\n**Page reference:** Page 32\n\n**Caveats:** \n- This is a projected/estimated figure for 2021, not actual reported results\n- The figure excludes ChinaCo operations\n- This represents Adjusted EBITDA, which is a non-GAAP measure, not traditional operating income/loss under GAAP accounting standards\n\nFor context, the document shows that WeWork had negative Adj. EBITDA of ($1.8) billion in 2020A, so the projected 2021E figure of ($0.9) billion represents an improvement, though still a substantial operating loss.",
+    "model": "claude-sonnet-4-20250514",
+    "input_tokens": 80341,
+    "output_tokens": 231,
+    "total_tokens": 80572,
+    "latency_ms": 13383,
+    "timestamp": "2026-01-29T17:56:45.887086",
+    "cost_usd": 0.24448799999999998
+  }
+}

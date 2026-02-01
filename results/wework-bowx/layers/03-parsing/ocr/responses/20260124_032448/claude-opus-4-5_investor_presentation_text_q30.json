@@ -1,0 +1,34 @@
+{
+  "content": "## Analysis: Material Weaknesses in Internal Controls\n\n### Answer:\n**Not found in document.**\n\nThe provided document does not contain any information regarding material weaknesses in internal controls. The OCR-parsed content shows that this appears to be a WeWork confidential presentation from 2021, but the actual substantive content is largely missing or not captured by the OCR process. \n\nThe visible content includes:\n- Company values/culture statements (Page 10)\n- Description of an \"All Access\" product offering (Page 25)\n- Various bullet points throughout without visible text\n- A timeline graphic reference (Page 24)\n- Some metric definitions partially visible (Pages 45-46)\n\nThere is no discussion of:\n- Internal control frameworks\n- Audit findings\n- Material weaknesses\n- Significant deficiencies\n- Management's assessment of internal controls\n- Auditor opinions on internal controls\n\n### Confidence Level: **N/A** (Information not present)\n\n### Caveats and Limitations:\n1. **Poor OCR Quality**: The document parsing appears to have failed to capture most of the actual content from this presentation, showing only copyright notices, bullet point markers, and fragments of text.\n2. **Document Type**: This appears to be an investor presentation rather than a Form S-4, proxy statement, or audit report where material weakness disclosures would typically be found.\n3. **Incomplete Information**: A proper SPAC merger due diligence would require review of SEC filings (particularly Form S-4, 10-K, and auditor letters) to assess internal control matters.\n\n### Recommendation:\nTo properly assess material weaknesses in internal controls, request and review:\n- SEC Form S-4 registration statement\n- Most recent Form 10-K (if applicable)\n- Auditor's report on internal controls\n- Management representation letters",
+  "model": "claude-opus-4-5",
+  "input_tokens": 1662,
+  "output_tokens": 409,
+  "latency_ms": 11064,
+  "timestamp": "2026-01-24T03:47:07.297309",
+  "cost_usd": 0.018535,
+  "raw_response": {
+    "model": "claude-opus-4-5-20251101",
+    "id": "msg_01TZD3ZEMF1Dhc7aGVxNvUVi",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "## Analysis: Material Weaknesses in Internal Controls\n\n### Answer:\n**Not found in document.**\n\nThe provided document does not contain any information regarding material weaknesses in internal controls. The OCR-parsed content shows that this appears to be a WeWork confidential presentation from 2021, but the actual substantive content is largely missing or not captured by the OCR process. \n\nThe visible content includes:\n- Company values/culture statements (Page 10)\n- Description of an \"All Access\" product offering (Page 25)\n- Various bullet points throughout without visible text\n- A timeline graphic reference (Page 24)\n- Some metric definitions partially visible (Pages 45-46)\n\nThere is no discussion of:\n- Internal control frameworks\n- Audit findings\n- Material weaknesses\n- Significant deficiencies\n- Management's assessment of internal controls\n- Auditor opinions on internal controls\n\n### Confidence Level: **N/A** (Information not present)\n\n### Caveats and Limitations:\n1. **Poor OCR Quality**: The document parsing appears to have failed to capture most of the actual content from this presentation, showing only copyright notices, bullet point markers, and fragments of text.\n2. **Document Type**: This appears to be an investor presentation rather than a Form S-4, proxy statement, or audit report where material weakness disclosures would typically be found.\n3. **Incomplete Information**: A proper SPAC merger due diligence would require review of SEC filings (particularly Form S-4, 10-K, and auditor letters) to assess internal control matters.\n\n### Recommendation:\nTo properly assess material weaknesses in internal controls, request and review:\n- SEC Form S-4 registration statement\n- Most recent Form 10-K (if applicable)\n- Auditor's report on internal controls\n- Management representation letters"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "usage": {
+      "input_tokens": 1662,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 409,
+      "service_tier": "standard"
+    }
+  }
+}

@@ -1,0 +1,80 @@
+{
+  "content": "Not found in document. The provided OCR text does not include any section discussing litigation, legal proceedings, claims, disputes, contingencies, or related risk disclosures (Pages 1\u201350 show mainly confidentiality footers and limited business/value statements, e.g., Page 10 and Page 25).  \n\n**Confidence:** HIGH (the document excerpt contains no litigation/dispute content)  \n**Caveats/limitations:** The OCR appears highly incomplete for many pages (mostly \u201c\u00a9 2021 WeWork. Confidential.\u201d and bullet placeholders), so litigation/dispute disclosures could exist in the original document but are not captured in the provided text (Pages 1\u201350).",
+  "model": "gpt-5.2",
+  "input_tokens": 1305,
+  "output_tokens": 137,
+  "latency_ms": 4908,
+  "timestamp": "2026-01-24T03:34:36.695788",
+  "cost_usd": 0.00420175,
+  "raw_response": {
+    "id": "resp_0e797b0c9b00500b0069743dc80a3481a0bdde769dcec3bfff",
+    "object": "response",
+    "created_at": 1769225672,
+    "status": "completed",
+    "background": false,
+    "billing": {
+      "payer": "openai"
+    },
+    "completed_at": 1769225676,
+    "error": null,
+    "frequency_penalty": 0,
+    "incomplete_details": null,
+    "instructions": null,
+    "max_output_tokens": null,
+    "max_tool_calls": null,
+    "model": "gpt-5.2-2025-12-11",
+    "output": [
+      {
+        "id": "msg_0e797b0c9b00500b0069743dc83fec81a09921d8f9a7b03521",
+        "type": "message",
+        "status": "completed",
+        "content": [
+          {
+            "type": "output_text",
+            "annotations": [],
+            "logprobs": [],
+            "text": "Not found in document. The provided OCR text does not include any section discussing litigation, legal proceedings, claims, disputes, contingencies, or related risk disclosures (Pages 1\u201350 show mainly confidentiality footers and limited business/value statements, e.g., Page 10 and Page 25).  \n\n**Confidence:** HIGH (the document excerpt contains no litigation/dispute content)  \n**Caveats/limitations:** The OCR appears highly incomplete for many pages (mostly \u201c\u00a9 2021 WeWork. Confidential.\u201d and bullet placeholders), so litigation/dispute disclosures could exist in the original document but are not captured in the provided text (Pages 1\u201350)."
+          }
+        ],
+        "role": "assistant"
+      }
+    ],
+    "parallel_tool_calls": true,
+    "presence_penalty": 0,
+    "previous_response_id": null,
+    "prompt_cache_key": null,
+    "prompt_cache_retention": null,
+    "reasoning": {
+      "effort": "none",
+      "summary": null
+    },
+    "safety_identifier": null,
+    "service_tier": "default",
+    "store": true,
+    "temperature": 1,
+    "text": {
+      "format": {
+        "type": "text"
+      },
+      "verbosity": "medium"
+    },
+    "tool_choice": "auto",
+    "tools": [],
+    "top_logprobs": 0,
+    "top_p": 0.98,
+    "truncation": "disabled",
+    "usage": {
+      "input_tokens": 1305,
+      "input_tokens_details": {
+        "cached_tokens": 1152
+      },
+      "output_tokens": 137,
+      "output_tokens_details": {
+        "reasoning_tokens": 0
+      },
+      "total_tokens": 1442
+    },
+    "user": null,
+    "metadata": {}
+  }
+}

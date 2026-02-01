@@ -1,0 +1,15 @@
+{
+  "question_id": "q16",
+  "question_text": "What happens to the business at 70% occupancy?",
+  "category": "obligations_exposure",
+  "response": {
+    "content": "Not found in document. My confidence in this assessment is HIGH because the search did not yield relevant results regarding business operations at 70% occupancy within the document provided.",
+    "model": "gpt-4o",
+    "input_tokens": 3702,
+    "output_tokens": 61,
+    "total_tokens": 3763,
+    "latency_ms": 6821,
+    "timestamp": "2026-01-29T18:14:49.294531",
+    "cost_usd": 0.009864999999999999
+  }
+}

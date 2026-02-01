@@ -1,0 +1,80 @@
+{
+  "content": "**Revenue per available desk/workstation:** **Not found in document.**\n\n- The OCR text provided does not include any financial table or metric defining or quantifying \u201crevenue per available desk/workstation.\u201d Most pages contain only confidentiality footers and bullet placeholders, with no readable numeric disclosures for this metric (e.g., Pages **1\u20139**, **11\u201323**, **26\u201350**).  \n- The only legible business content captured relates to \u201cAll Access\u201d and qualitative statements about margins/occupancy, but **no revenue-per-desk/workstation calculation or value** is shown (Page **25**, \u201cAll Access\u201d).\n\n**Confidence:** HIGH (document text does not contain the requested metric).  \n**Caveat/limitation:** The document appears to be heavily truncated/garbled by OCR (many pages show only \u201c\u00a9 2021 WeWork. Confidential.\u201d or bullet symbols), so the metric may exist in the original file but is **not recoverable from the provided OCR output**.",
+  "model": "gpt-5.2",
+  "input_tokens": 1306,
+  "output_tokens": 209,
+  "latency_ms": 5407,
+  "timestamp": "2026-01-24T03:32:50.487076",
+  "cost_usd": 0.005211500000000001,
+  "raw_response": {
+    "id": "resp_027321fa11eb56530069743d5d4ae0819c988c99b322f8e00a",
+    "object": "response",
+    "created_at": 1769225565,
+    "status": "completed",
+    "background": false,
+    "billing": {
+      "payer": "openai"
+    },
+    "completed_at": 1769225570,
+    "error": null,
+    "frequency_penalty": 0,
+    "incomplete_details": null,
+    "instructions": null,
+    "max_output_tokens": null,
+    "max_tool_calls": null,
+    "model": "gpt-5.2-2025-12-11",
+    "output": [
+      {
+        "id": "msg_027321fa11eb56530069743d5d7fa8819c8a3388680e2a19c8",
+        "type": "message",
+        "status": "completed",
+        "content": [
+          {
+            "type": "output_text",
+            "annotations": [],
+            "logprobs": [],
+            "text": "**Revenue per available desk/workstation:** **Not found in document.**\n\n- The OCR text provided does not include any financial table or metric defining or quantifying \u201crevenue per available desk/workstation.\u201d Most pages contain only confidentiality footers and bullet placeholders, with no readable numeric disclosures for this metric (e.g., Pages **1\u20139**, **11\u201323**, **26\u201350**).  \n- The only legible business content captured relates to \u201cAll Access\u201d and qualitative statements about margins/occupancy, but **no revenue-per-desk/workstation calculation or value** is shown (Page **25**, \u201cAll Access\u201d).\n\n**Confidence:** HIGH (document text does not contain the requested metric).  \n**Caveat/limitation:** The document appears to be heavily truncated/garbled by OCR (many pages show only \u201c\u00a9 2021 WeWork. Confidential.\u201d or bullet symbols), so the metric may exist in the original file but is **not recoverable from the provided OCR output**."
+          }
+        ],
+        "role": "assistant"
+      }
+    ],
+    "parallel_tool_calls": true,
+    "presence_penalty": 0,
+    "previous_response_id": null,
+    "prompt_cache_key": null,
+    "prompt_cache_retention": null,
+    "reasoning": {
+      "effort": "none",
+      "summary": null
+    },
+    "safety_identifier": null,
+    "service_tier": "default",
+    "store": true,
+    "temperature": 1,
+    "text": {
+      "format": {
+        "type": "text"
+      },
+      "verbosity": "medium"
+    },
+    "tool_choice": "auto",
+    "tools": [],
+    "top_logprobs": 0,
+    "top_p": 0.98,
+    "truncation": "disabled",
+    "usage": {
+      "input_tokens": 1306,
+      "input_tokens_details": {
+        "cached_tokens": 1152
+      },
+      "output_tokens": 209,
+      "output_tokens_details": {
+        "reasoning_tokens": 0
+      },
+      "total_tokens": 1515
+    },
+    "user": null,
+    "metadata": {}
+  }
+}

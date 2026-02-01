@@ -1,0 +1,15 @@
+{
+  "question_id": "q28",
+  "question_text": "Are there going concern disclosures?",
+  "category": "risk_red_flags",
+  "response": {
+    "content": "The document contains disclosures regarding the company's ability to continue as a going concern. It specifically states that the unaudited condensed consolidated financial statements have been prepared assuming the company will continue as a going concern and details the liquidity and capital resources available to meet the company's needs through the earlier of a business combination or one year from the filing\u30104:0\u2020S-4_A.pdf\u3011. Therefore, going concern disclosures are present in the document.\n\nConfidence: HIGH (directly stated in the document).",
+    "model": "gpt-4o",
+    "input_tokens": 17736,
+    "output_tokens": 119,
+    "total_tokens": 17855,
+    "latency_ms": 16877,
+    "timestamp": "2026-01-29T18:31:27.445481",
+    "cost_usd": 0.04553
+  }
+}

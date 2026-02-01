@@ -1,0 +1,80 @@
+{
+  "content": "**Registration rights**: **Not found in document.** The provided OCR text contains no section or language describing **registration rights**, **demand/piggyback registration**, **shelf registration**, **lock-up/registration timing**, or similar terms. Pages shown are largely confidentiality footers and high-level narrative content (e.g., values on **Page 10**) with no relevant legal/transaction terms.\n\n**Confidence:** HIGH (direct absence of any registration-rights language in the provided text)\n\n**Caveats / limitations:**  \n- The OCR appears highly incomplete for many pages (e.g., many pages show only \u201c\u00a9 2021 WeWork. Confidential.\u201d or bullet placeholders without substantive text), which could mean registration rights exist in the underlying document but were not captured in the OCR (e.g., **Pages 1\u20139, 11\u201349**).",
+  "model": "gpt-5.2",
+  "input_tokens": 1302,
+  "output_tokens": 180,
+  "latency_ms": 4574,
+  "timestamp": "2026-01-24T03:35:14.449740",
+  "cost_usd": 0.004798500000000001,
+  "raw_response": {
+    "id": "resp_077f1038e7c64e4d0069743dee14b081969619c60090de1c27",
+    "object": "response",
+    "created_at": 1769225710,
+    "status": "completed",
+    "background": false,
+    "billing": {
+      "payer": "openai"
+    },
+    "completed_at": 1769225714,
+    "error": null,
+    "frequency_penalty": 0,
+    "incomplete_details": null,
+    "instructions": null,
+    "max_output_tokens": null,
+    "max_tool_calls": null,
+    "model": "gpt-5.2-2025-12-11",
+    "output": [
+      {
+        "id": "msg_077f1038e7c64e4d0069743dee513881968b6b70214257b067",
+        "type": "message",
+        "status": "completed",
+        "content": [
+          {
+            "type": "output_text",
+            "annotations": [],
+            "logprobs": [],
+            "text": "**Registration rights**: **Not found in document.** The provided OCR text contains no section or language describing **registration rights**, **demand/piggyback registration**, **shelf registration**, **lock-up/registration timing**, or similar terms. Pages shown are largely confidentiality footers and high-level narrative content (e.g., values on **Page 10**) with no relevant legal/transaction terms.\n\n**Confidence:** HIGH (direct absence of any registration-rights language in the provided text)\n\n**Caveats / limitations:**  \n- The OCR appears highly incomplete for many pages (e.g., many pages show only \u201c\u00a9 2021 WeWork. Confidential.\u201d or bullet placeholders without substantive text), which could mean registration rights exist in the underlying document but were not captured in the OCR (e.g., **Pages 1\u20139, 11\u201349**)."
+          }
+        ],
+        "role": "assistant"
+      }
+    ],
+    "parallel_tool_calls": true,
+    "presence_penalty": 0,
+    "previous_response_id": null,
+    "prompt_cache_key": null,
+    "prompt_cache_retention": null,
+    "reasoning": {
+      "effort": "none",
+      "summary": null
+    },
+    "safety_identifier": null,
+    "service_tier": "default",
+    "store": true,
+    "temperature": 1,
+    "text": {
+      "format": {
+        "type": "text"
+      },
+      "verbosity": "medium"
+    },
+    "tool_choice": "auto",
+    "tools": [],
+    "top_logprobs": 0,
+    "top_p": 0.98,
+    "truncation": "disabled",
+    "usage": {
+      "input_tokens": 1302,
+      "input_tokens_details": {
+        "cached_tokens": 1152
+      },
+      "output_tokens": 180,
+      "output_tokens_details": {
+        "reasoning_tokens": 0
+      },
+      "total_tokens": 1482
+    },
+    "user": null,
+    "metadata": {}
+  }
+}

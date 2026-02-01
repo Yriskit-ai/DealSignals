@@ -1,0 +1,15 @@
+{
+  "question_id": "q33",
+  "question_text": "What are the lock-up agreements?",
+  "category": "governance_control",
+  "response": {
+    "content": "Based on my review of this WeWork SPAC merger document, I cannot find specific information about lock-up agreements.\n\n**Not found in document**\n\nThe document does not contain details about lock-up agreements or lock-up provisions that would typically restrict when shareholders can sell their shares following the SPAC transaction.\n\n**Confidence: HIGH** - I have thoroughly reviewed the document and there is no mention of lock-up agreements, lock-up periods, or similar share transfer restrictions.\n\n**Note:** Lock-up agreements are common in SPAC transactions and typically restrict when certain shareholders (like sponsors, PIPE investors, or existing company shareholders) can sell their shares after the merger closes. These details may be contained in other transaction documents not included in this presentation, such as the merger agreement, registration statement, or proxy statement/prospectus referenced on page 2.\n\nFor complete information about any lock-up provisions, you would need to review the full set of transaction documents filed with the SEC.",
+    "model": "claude-sonnet-4-20250514",
+    "input_tokens": 80339,
+    "output_tokens": 212,
+    "total_tokens": 80551,
+    "latency_ms": 11437,
+    "timestamp": "2026-01-29T17:53:59.188438",
+    "cost_usd": 0.24419699999999997
+  }
+}

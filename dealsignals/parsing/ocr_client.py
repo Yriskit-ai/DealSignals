@@ -36,6 +36,7 @@ class OcrClient:
         document_id: str,
         parser_profile: str,
         callback_url: str,
+        options: dict[str, Any] | None = None,
     ) -> str:
         pdf_path = Path(file_path)
         with pdf_path.open("rb") as handle:
@@ -46,6 +47,14 @@ class OcrClient:
                 "parser_profile": parser_profile,
                 "callback_url": callback_url,
             }
+            if options:
+                for key, value in options.items():
+                    if value is None:
+                        continue
+                    if isinstance(value, bool):
+                        data[key] = "true" if value else "false"
+                    else:
+                        data[key] = str(value)
             response = self._client.post("/v1/ocr", data=data, files=files)
         response.raise_for_status()
         payload = response.json()

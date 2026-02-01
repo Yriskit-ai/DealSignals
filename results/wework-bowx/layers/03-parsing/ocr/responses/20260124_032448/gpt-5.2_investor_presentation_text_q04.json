@@ -1,0 +1,80 @@
+{
+  "content": "**Cash burn rate:** **Not found in document.**\n\n- The OCR-parsed pages provided do not include any financial statements, cash flow figures, or explicit metrics such as \u201ccash burn,\u201d \u201cmonthly cash burn,\u201d \u201cburn rate,\u201d or \u201cnet cash used in operating activities.\u201d Most pages are either confidentiality headers or high-level qualitative content (e.g., company values on **Page 10**; product description on **Page 25**).  \n  - Values/mission statements: **Page 10**  \n  - \u201cAll Access\u201d product overview (no cash/cash flow metrics): **Page 25**  \n\n**Confidence:** HIGH (the document excerpt does not contain burn-rate data)\n\n**Caveats / limitations:**  \n- The provided OCR appears incomplete/redacted across many pages (numerous bullets with no readable text, e.g., **Pages 6, 9, 22\u201323, 45\u201346, 50**), so the burn rate could exist in the original document but is not available in the provided text.",
+  "model": "gpt-5.2",
+  "input_tokens": 1304,
+  "output_tokens": 217,
+  "latency_ms": 5324,
+  "timestamp": "2026-01-24T03:32:16.612705",
+  "cost_usd": 0.00532,
+  "raw_response": {
+    "id": "resp_07bb2252b21253680069743d3bde6081a0847a75d03d97e2fb",
+    "object": "response",
+    "created_at": 1769225531,
+    "status": "completed",
+    "background": false,
+    "billing": {
+      "payer": "openai"
+    },
+    "completed_at": 1769225536,
+    "error": null,
+    "frequency_penalty": 0,
+    "incomplete_details": null,
+    "instructions": null,
+    "max_output_tokens": null,
+    "max_tool_calls": null,
+    "model": "gpt-5.2-2025-12-11",
+    "output": [
+      {
+        "id": "msg_07bb2252b21253680069743d3c4ea481a0b49fe44bc46757c4",
+        "type": "message",
+        "status": "completed",
+        "content": [
+          {
+            "type": "output_text",
+            "annotations": [],
+            "logprobs": [],
+            "text": "**Cash burn rate:** **Not found in document.**\n\n- The OCR-parsed pages provided do not include any financial statements, cash flow figures, or explicit metrics such as \u201ccash burn,\u201d \u201cmonthly cash burn,\u201d \u201cburn rate,\u201d or \u201cnet cash used in operating activities.\u201d Most pages are either confidentiality headers or high-level qualitative content (e.g., company values on **Page 10**; product description on **Page 25**).  \n  - Values/mission statements: **Page 10**  \n  - \u201cAll Access\u201d product overview (no cash/cash flow metrics): **Page 25**  \n\n**Confidence:** HIGH (the document excerpt does not contain burn-rate data)\n\n**Caveats / limitations:**  \n- The provided OCR appears incomplete/redacted across many pages (numerous bullets with no readable text, e.g., **Pages 6, 9, 22\u201323, 45\u201346, 50**), so the burn rate could exist in the original document but is not available in the provided text."
+          }
+        ],
+        "role": "assistant"
+      }
+    ],
+    "parallel_tool_calls": true,
+    "presence_penalty": 0,
+    "previous_response_id": null,
+    "prompt_cache_key": null,
+    "prompt_cache_retention": null,
+    "reasoning": {
+      "effort": "none",
+      "summary": null
+    },
+    "safety_identifier": null,
+    "service_tier": "default",
+    "store": true,
+    "temperature": 1,
+    "text": {
+      "format": {
+        "type": "text"
+      },
+      "verbosity": "medium"
+    },
+    "tool_choice": "auto",
+    "tools": [],
+    "top_logprobs": 0,
+    "top_p": 0.98,
+    "truncation": "disabled",
+    "usage": {
+      "input_tokens": 1304,
+      "input_tokens_details": {
+        "cached_tokens": 1152
+      },
+      "output_tokens": 217,
+      "output_tokens_details": {
+        "reasoning_tokens": 0
+      },
+      "total_tokens": 1521
+    },
+    "user": null,
+    "metadata": {}
+  }
+}

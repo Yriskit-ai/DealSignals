@@ -1,0 +1,80 @@
+{
+  "content": "**Average revenue per member:** Not found in document.\n\n**Citations:** The provided OCR text contains no numeric revenue figures, no member counts, and no metric explicitly labeled \u201caverage revenue per member\u201d (pages **1\u201350**, including the only partially legible business/metric content on pages **25** and **45**).\n\n**Confidence:** **HIGH** (the metric is not present in the provided OCR-parsed content).\n\n**Caveats / limitations:**\n- The document appears to be heavily redacted/blank in the OCR output (many pages show only \u201c\u00a9 2021 WeWork. Confidential.\u201d and bullet placeholders), so the metric could exist in the original slides but is **not recoverable from the provided text** (pages **1\u201350**, notably **45\u201346** show placeholder bullets without values).",
+  "model": "gpt-5.2",
+  "input_tokens": 1305,
+  "output_tokens": 172,
+  "latency_ms": 5113,
+  "timestamp": "2026-01-24T03:33:12.111049",
+  "cost_usd": 0.00469175,
+  "raw_response": {
+    "id": "resp_074398ffea779d860069743d738568819792bcf5aa625be4b8",
+    "object": "response",
+    "created_at": 1769225587,
+    "status": "completed",
+    "background": false,
+    "billing": {
+      "payer": "openai"
+    },
+    "completed_at": 1769225591,
+    "error": null,
+    "frequency_penalty": 0,
+    "incomplete_details": null,
+    "instructions": null,
+    "max_output_tokens": null,
+    "max_tool_calls": null,
+    "model": "gpt-5.2-2025-12-11",
+    "output": [
+      {
+        "id": "msg_074398ffea779d860069743d73e21081978d436c374fedba71",
+        "type": "message",
+        "status": "completed",
+        "content": [
+          {
+            "type": "output_text",
+            "annotations": [],
+            "logprobs": [],
+            "text": "**Average revenue per member:** Not found in document.\n\n**Citations:** The provided OCR text contains no numeric revenue figures, no member counts, and no metric explicitly labeled \u201caverage revenue per member\u201d (pages **1\u201350**, including the only partially legible business/metric content on pages **25** and **45**).\n\n**Confidence:** **HIGH** (the metric is not present in the provided OCR-parsed content).\n\n**Caveats / limitations:**\n- The document appears to be heavily redacted/blank in the OCR output (many pages show only \u201c\u00a9 2021 WeWork. Confidential.\u201d and bullet placeholders), so the metric could exist in the original slides but is **not recoverable from the provided text** (pages **1\u201350**, notably **45\u201346** show placeholder bullets without values)."
+          }
+        ],
+        "role": "assistant"
+      }
+    ],
+    "parallel_tool_calls": true,
+    "presence_penalty": 0,
+    "previous_response_id": null,
+    "prompt_cache_key": null,
+    "prompt_cache_retention": null,
+    "reasoning": {
+      "effort": "none",
+      "summary": null
+    },
+    "safety_identifier": null,
+    "service_tier": "default",
+    "store": true,
+    "temperature": 1,
+    "text": {
+      "format": {
+        "type": "text"
+      },
+      "verbosity": "medium"
+    },
+    "tool_choice": "auto",
+    "tools": [],
+    "top_logprobs": 0,
+    "top_p": 0.98,
+    "truncation": "disabled",
+    "usage": {
+      "input_tokens": 1305,
+      "input_tokens_details": {
+        "cached_tokens": 1152
+      },
+      "output_tokens": 172,
+      "output_tokens_details": {
+        "reasoning_tokens": 0
+      },
+      "total_tokens": 1477
+    },
+    "user": null,
+    "metadata": {}
+  }
+}

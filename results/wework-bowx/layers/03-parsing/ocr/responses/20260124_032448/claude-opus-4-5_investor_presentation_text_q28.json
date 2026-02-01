@@ -1,0 +1,34 @@
+{
+  "content": "## Analysis: Going Concern Disclosures\n\n**Answer:** Not found in document.\n\n**Explanation:** The provided document appears to be a WeWork confidential presentation (dated 2021), but the OCR parsing has captured very limited substantive content. The document consists primarily of:\n\n- Copyright notices (\"\u00a9 2021 WeWork. Confidential.\") on each page\n- Bullet point markers without associated text\n- A timeline reference on Page 24 (2010-2030)\n- Corporate values/culture statements on Page 10\n- Product description for \"All Access\" subscription model on Page 25\n- Some partial text fragments on Pages 45-46\n\nThe document does not contain any visible going concern disclosures, auditor opinions, or financial statement footnotes that would typically address going concern matters. Going concern disclosures are typically found in:\n- Audited financial statements\n- Auditor's reports\n- Notes to financial statements\n- Risk factors sections\n\nNone of these appear in the captured text of this document.\n\n**Confidence Level:** LOW\n\n**Caveats/Limitations:**\n1. The OCR parsing appears to have failed to capture most of the substantive content from this presentation\n2. This appears to be a marketing/investor presentation rather than audited financial statements where going concern disclosures would typically appear\n3. The bullet points visible throughout suggest significant content was not captured by the OCR process\n4. A complete going concern analysis would require access to WeWork's audited financial statements and SEC filings (such as the S-4/proxy statement for the SPAC merger)",
+  "model": "claude-opus-4-5",
+  "input_tokens": 1660,
+  "output_tokens": 353,
+  "latency_ms": 9415,
+  "timestamp": "2026-01-24T03:46:46.812293",
+  "cost_usd": 0.017125,
+  "raw_response": {
+    "model": "claude-opus-4-5-20251101",
+    "id": "msg_01RTWmB1Gi4LmE6HX55zBQBo",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "## Analysis: Going Concern Disclosures\n\n**Answer:** Not found in document.\n\n**Explanation:** The provided document appears to be a WeWork confidential presentation (dated 2021), but the OCR parsing has captured very limited substantive content. The document consists primarily of:\n\n- Copyright notices (\"\u00a9 2021 WeWork. Confidential.\") on each page\n- Bullet point markers without associated text\n- A timeline reference on Page 24 (2010-2030)\n- Corporate values/culture statements on Page 10\n- Product description for \"All Access\" subscription model on Page 25\n- Some partial text fragments on Pages 45-46\n\nThe document does not contain any visible going concern disclosures, auditor opinions, or financial statement footnotes that would typically address going concern matters. Going concern disclosures are typically found in:\n- Audited financial statements\n- Auditor's reports\n- Notes to financial statements\n- Risk factors sections\n\nNone of these appear in the captured text of this document.\n\n**Confidence Level:** LOW\n\n**Caveats/Limitations:**\n1. The OCR parsing appears to have failed to capture most of the substantive content from this presentation\n2. This appears to be a marketing/investor presentation rather than audited financial statements where going concern disclosures would typically appear\n3. The bullet points visible throughout suggest significant content was not captured by the OCR process\n4. A complete going concern analysis would require access to WeWork's audited financial statements and SEC filings (such as the S-4/proxy statement for the SPAC merger)"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "usage": {
+      "input_tokens": 1660,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 353,
+      "service_tier": "standard"
+    }
+  }
+}

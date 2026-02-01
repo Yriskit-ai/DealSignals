@@ -1,0 +1,15 @@
+{
+  "question_id": "q05",
+  "question_text": "What is the cash runway at current burn rate?",
+  "category": "financial_fundamentals",
+  "response": {
+    "content": "Based on the document, I cannot provide a specific cash runway calculation at the current burn rate because the document does not clearly state the current quarterly cash burn rate.\n\n**Available Cash Information (Page 35):**\n- Total Available Global Cash: $667 million (as of 6/30/2021E)\n- Total Undrawn Financing Commitments + Global Cash: $1,767 million\n\n**Liquidity Projections (Page 34):**\nThe document shows total liquidity declining from $3.4B in 2019A to $1.8B in Q2 2021E, then recovering to $3.4B by 2024E. However, it states that \"liquidity is not expected to drop below $1.8bn throughout projection period\" (page 34).\n\n**Key Limitation:**\nThe document shows historical free cash flow data (2019: -$3.9B, 2020: -$2.3B on page 49), but does not provide a clear current quarterly or annual cash burn rate to calculate runway.\n\n**Management's Assessment:**\nThe company expects to achieve Adj. EBITDA breakeven by Q4 2021E (page 27), suggesting they believe current cash levels are sufficient to reach profitability.\n\n**Confidence: LOW** - The specific cash runway calculation cannot be determined from the available information, as current burn rate is not explicitly stated.",
+    "model": "claude-sonnet-4-20250514",
+    "input_tokens": 80341,
+    "output_tokens": 315,
+    "total_tokens": 80656,
+    "latency_ms": 15261,
+    "timestamp": "2026-01-29T17:59:27.289348",
+    "cost_usd": 0.245748
+  }
+}

@@ -1,0 +1,338 @@
+{
+  "provider": "openai",
+  "document": "/home/leo/dev/projects/DealSignals/.worktrees/layer-3.5-multimodal/.data/WeWork-Management-Presentation-March-2021-vF-1.pdf",
+  "document_id": "investor",
+  "run_id": "20260129_131214",
+  "started_at": "2026-01-29T18:12:14.144661",
+  "questions": [
+    {
+      "id": "q01",
+      "status": "completed",
+      "latency_ms": 35254,
+      "input_tokens": 3701,
+      "output_tokens": 71,
+      "cost_usd": 0.009962500000000001
+    },
+    {
+      "id": "q02",
+      "status": "completed",
+      "latency_ms": 9327,
+      "input_tokens": 3707,
+      "output_tokens": 89,
+      "cost_usd": 0.0101575
+    },
+    {
+      "id": "q03",
+      "status": "completed",
+      "latency_ms": 6914,
+      "input_tokens": 3697,
+      "output_tokens": 59,
+      "cost_usd": 0.009832500000000001
+    },
+    {
+      "id": "q04",
+      "status": "completed",
+      "latency_ms": 8203,
+      "input_tokens": 3694,
+      "output_tokens": 71,
+      "cost_usd": 0.009945
+    },
+    {
+      "id": "q05",
+      "status": "completed",
+      "latency_ms": 10431,
+      "input_tokens": 3701,
+      "output_tokens": 92,
+      "cost_usd": 0.010172500000000001
+    },
+    {
+      "id": "q06",
+      "status": "completed",
+      "latency_ms": 7195,
+      "input_tokens": 3693,
+      "output_tokens": 68,
+      "cost_usd": 0.009912500000000001
+    },
+    {
+      "id": "q07",
+      "status": "completed",
+      "latency_ms": 6784,
+      "input_tokens": 3691,
+      "output_tokens": 71,
+      "cost_usd": 0.0099375
+    },
+    {
+      "id": "q08",
+      "status": "completed",
+      "latency_ms": 6950,
+      "input_tokens": 3688,
+      "output_tokens": 62,
+      "cost_usd": 0.00984
+    },
+    {
+      "id": "q09",
+      "status": "completed",
+      "latency_ms": 6212,
+      "input_tokens": 3718,
+      "output_tokens": 75,
+      "cost_usd": 0.010045
+    },
+    {
+      "id": "q10",
+      "status": "completed",
+      "latency_ms": 7218,
+      "input_tokens": 3719,
+      "output_tokens": 93,
+      "cost_usd": 0.0102275
+    },
+    {
+      "id": "q11",
+      "status": "completed",
+      "latency_ms": 13169,
+      "input_tokens": 3687,
+      "output_tokens": 65,
+      "cost_usd": 0.0098675
+    },
+    {
+      "id": "q12",
+      "status": "completed",
+      "latency_ms": 5960,
+      "input_tokens": 3689,
+      "output_tokens": 48,
+      "cost_usd": 0.0097025
+    },
+    {
+      "id": "q13",
+      "status": "completed",
+      "latency_ms": 7088,
+      "input_tokens": 3684,
+      "output_tokens": 71,
+      "cost_usd": 0.009920000000000002
+    },
+    {
+      "id": "q14",
+      "status": "completed",
+      "latency_ms": 7240,
+      "input_tokens": 3692,
+      "output_tokens": 86,
+      "cost_usd": 0.01009
+    },
+    {
+      "id": "q15",
+      "status": "completed",
+      "latency_ms": 7876,
+      "input_tokens": 3686,
+      "output_tokens": 83,
+      "cost_usd": 0.010045000000000002
+    },
+    {
+      "id": "q16",
+      "status": "completed",
+      "latency_ms": 6821,
+      "input_tokens": 3702,
+      "output_tokens": 61,
+      "cost_usd": 0.009864999999999999
+    },
+    {
+      "id": "q17",
+      "status": "completed",
+      "latency_ms": 5548,
+      "input_tokens": 3702,
+      "output_tokens": 58,
+      "cost_usd": 0.009835
+    },
+    {
+      "id": "q18",
+      "status": "completed",
+      "latency_ms": 9448,
+      "input_tokens": 3701,
+      "output_tokens": 89,
+      "cost_usd": 0.0101425
+    },
+    {
+      "id": "q19",
+      "status": "completed",
+      "latency_ms": 7367,
+      "input_tokens": 3699,
+      "output_tokens": 77,
+      "cost_usd": 0.0100175
+    },
+    {
+      "id": "q20",
+      "status": "completed",
+      "latency_ms": 15726,
+      "input_tokens": 3704,
+      "output_tokens": 81,
+      "cost_usd": 0.010069999999999999
+    },
+    {
+      "id": "q21",
+      "status": "completed",
+      "latency_ms": 10988,
+      "input_tokens": 3711,
+      "output_tokens": 97,
+      "cost_usd": 0.0102475
+    },
+    {
+      "id": "q22",
+      "status": "completed",
+      "latency_ms": 7478,
+      "input_tokens": 3710,
+      "output_tokens": 71,
+      "cost_usd": 0.009985
+    },
+    {
+      "id": "q23",
+      "status": "completed",
+      "latency_ms": 6447,
+      "input_tokens": 3684,
+      "output_tokens": 47,
+      "cost_usd": 0.009680000000000001
+    },
+    {
+      "id": "q24",
+      "status": "completed",
+      "latency_ms": 9581,
+      "input_tokens": 3727,
+      "output_tokens": 90,
+      "cost_usd": 0.0102175
+    },
+    {
+      "id": "q25",
+      "status": "completed",
+      "latency_ms": 7452,
+      "input_tokens": 3707,
+      "output_tokens": 70,
+      "cost_usd": 0.009967499999999999
+    },
+    {
+      "id": "q26",
+      "status": "completed",
+      "latency_ms": 6754,
+      "input_tokens": 3689,
+      "output_tokens": 72,
+      "cost_usd": 0.0099425
+    },
+    {
+      "id": "q27",
+      "status": "completed",
+      "latency_ms": 8366,
+      "input_tokens": 3702,
+      "output_tokens": 86,
+      "cost_usd": 0.010114999999999999
+    },
+    {
+      "id": "q28",
+      "status": "completed",
+      "latency_ms": 6974,
+      "input_tokens": 3684,
+      "output_tokens": 46,
+      "cost_usd": 0.009670000000000002
+    },
+    {
+      "id": "q29",
+      "status": "completed",
+      "latency_ms": 8034,
+      "input_tokens": 3699,
+      "output_tokens": 72,
+      "cost_usd": 0.0099675
+    },
+    {
+      "id": "q30",
+      "status": "completed",
+      "latency_ms": 11543,
+      "input_tokens": 3692,
+      "output_tokens": 39,
+      "cost_usd": 0.00962
+    },
+    {
+      "id": "q31",
+      "status": "completed",
+      "latency_ms": 6610,
+      "input_tokens": 3717,
+      "output_tokens": 76,
+      "cost_usd": 0.010052499999999999
+    },
+    {
+      "id": "q32",
+      "status": "completed",
+      "latency_ms": 7062,
+      "input_tokens": 3722,
+      "output_tokens": 57,
+      "cost_usd": 0.009875
+    },
+    {
+      "id": "q33",
+      "status": "completed",
+      "latency_ms": 8410,
+      "input_tokens": 3686,
+      "output_tokens": 47,
+      "cost_usd": 0.009685000000000001
+    },
+    {
+      "id": "q34",
+      "status": "completed",
+      "latency_ms": 8183,
+      "input_tokens": 3681,
+      "output_tokens": 77,
+      "cost_usd": 0.009972499999999999
+    },
+    {
+      "id": "q35",
+      "status": "completed",
+      "latency_ms": 7186,
+      "input_tokens": 3692,
+      "output_tokens": 49,
+      "cost_usd": 0.00972
+    },
+    {
+      "id": "q36",
+      "status": "completed",
+      "latency_ms": 8780,
+      "input_tokens": 3684,
+      "output_tokens": 52,
+      "cost_usd": 0.00973
+    },
+    {
+      "id": "q37",
+      "status": "completed",
+      "latency_ms": 7242,
+      "input_tokens": 3718,
+      "output_tokens": 70,
+      "cost_usd": 0.009994999999999999
+    },
+    {
+      "id": "q38",
+      "status": "completed",
+      "latency_ms": 9297,
+      "input_tokens": 3726,
+      "output_tokens": 87,
+      "cost_usd": 0.010185
+    },
+    {
+      "id": "q39",
+      "status": "completed",
+      "latency_ms": 13559,
+      "input_tokens": 3715,
+      "output_tokens": 97,
+      "cost_usd": 0.010257500000000001
+    },
+    {
+      "id": "q40",
+      "status": "completed",
+      "latency_ms": 15852,
+      "input_tokens": 3706,
+      "output_tokens": 398,
+      "cost_usd": 0.013245
+    }
+  ],
+  "summary": {
+    "total": 40,
+    "completed": 40,
+    "failed": 0,
+    "total_cost": 0.40171750000000006,
+    "total_tokens": 151177,
+    "total_latency_ms": 366529
+  },
+  "finished_at": "2026-01-29T18:18:29.106551"
+}

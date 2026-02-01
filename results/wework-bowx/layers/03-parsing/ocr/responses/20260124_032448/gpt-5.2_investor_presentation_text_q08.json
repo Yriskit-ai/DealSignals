@@ -1,0 +1,80 @@
+{
+  "content": "**Contribution margin per membership:** Not found in document.\n\n- The OCR-parsed pages do not contain any readable metric labeled \u201ccontribution margin per membership,\u201d nor any underlying numeric inputs (e.g., contribution margin and number of memberships) required to calculate it. Most pages are redacted/blank in the OCR output (e.g., Pages **1\u20139, 11\u201323, 26\u201334, 36, 39\u201344, 47\u201350** show only \u201c\u00a9 2021 WeWork. Confidential.\u201d or bullet placeholders).  \n- The only legible business/financial-related text is a qualitative description of \u201cAll Access\u201d (Page **25**) and company values text (Page **10**), neither of which provides a contribution margin per membership.\n\n**Confidence:** HIGH (directly not present in provided OCR text)\n\n**Caveat / limitation:** The OCR appears incomplete/redacted (many pages show only confidentiality headers and placeholder bullets), so the metric may exist in the original document but is not available in the provided extract (Pages **1\u20139, 11\u201323, 26\u201334, 36\u201350**).",
+  "model": "gpt-5.2",
+  "input_tokens": 1304,
+  "output_tokens": 239,
+  "latency_ms": 7370,
+  "timestamp": "2026-01-24T03:32:45.076859",
+  "cost_usd": 0.005628,
+  "raw_response": {
+    "id": "resp_0ab87dea7fb0d1df0069743d55f4648196a1552eaf09088272",
+    "object": "response",
+    "created_at": 1769225558,
+    "status": "completed",
+    "background": false,
+    "billing": {
+      "payer": "openai"
+    },
+    "completed_at": 1769225564,
+    "error": null,
+    "frequency_penalty": 0,
+    "incomplete_details": null,
+    "instructions": null,
+    "max_output_tokens": null,
+    "max_tool_calls": null,
+    "model": "gpt-5.2-2025-12-11",
+    "output": [
+      {
+        "id": "msg_0ab87dea7fb0d1df0069743d5649488196a62aa6183ed5ec7a",
+        "type": "message",
+        "status": "completed",
+        "content": [
+          {
+            "type": "output_text",
+            "annotations": [],
+            "logprobs": [],
+            "text": "**Contribution margin per membership:** Not found in document.\n\n- The OCR-parsed pages do not contain any readable metric labeled \u201ccontribution margin per membership,\u201d nor any underlying numeric inputs (e.g., contribution margin and number of memberships) required to calculate it. Most pages are redacted/blank in the OCR output (e.g., Pages **1\u20139, 11\u201323, 26\u201334, 36, 39\u201344, 47\u201350** show only \u201c\u00a9 2021 WeWork. Confidential.\u201d or bullet placeholders).  \n- The only legible business/financial-related text is a qualitative description of \u201cAll Access\u201d (Page **25**) and company values text (Page **10**), neither of which provides a contribution margin per membership.\n\n**Confidence:** HIGH (directly not present in provided OCR text)\n\n**Caveat / limitation:** The OCR appears incomplete/redacted (many pages show only confidentiality headers and placeholder bullets), so the metric may exist in the original document but is not available in the provided extract (Pages **1\u20139, 11\u201323, 26\u201334, 36\u201350**)."
+          }
+        ],
+        "role": "assistant"
+      }
+    ],
+    "parallel_tool_calls": true,
+    "presence_penalty": 0,
+    "previous_response_id": null,
+    "prompt_cache_key": null,
+    "prompt_cache_retention": null,
+    "reasoning": {
+      "effort": "none",
+      "summary": null
+    },
+    "safety_identifier": null,
+    "service_tier": "default",
+    "store": true,
+    "temperature": 1,
+    "text": {
+      "format": {
+        "type": "text"
+      },
+      "verbosity": "medium"
+    },
+    "tool_choice": "auto",
+    "tools": [],
+    "top_logprobs": 0,
+    "top_p": 0.98,
+    "truncation": "disabled",
+    "usage": {
+      "input_tokens": 1304,
+      "input_tokens_details": {
+        "cached_tokens": 1152
+      },
+      "output_tokens": 239,
+      "output_tokens_details": {
+        "reasoning_tokens": 0
+      },
+      "total_tokens": 1543
+    },
+    "user": null,
+    "metadata": {}
+  }
+}

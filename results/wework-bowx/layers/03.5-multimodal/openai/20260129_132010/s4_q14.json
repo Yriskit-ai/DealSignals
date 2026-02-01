@@ -1,0 +1,15 @@
+{
+  "question_id": "q14",
+  "question_text": "What is the duration profile of lease commitments?",
+  "category": "obligations_exposure",
+  "response": {
+    "content": "The duration profile of lease commitments shows that non-cancelable lease terms for most of the Company's real estate leases typically range between 10-20 years. The document mentions that renewal options are typically solely at the Company's discretion and are only included within the lease obligation and right-of-use asset when the Company is reasonably certain that the renewal options would be exercised\u30104:7\u2020source\u3011. \n\nThe aggregate annual lease obligations relating to non-cancelable finance and operating leases as of December 31, 2020, includes major commitments to 2026 and beyond\u30104:0\u2020source\u3011.\n\nMy confidence in the accuracy of this information is HIGH since it is directly stated in the document. Please note that these durations include leases in possession as of the mentioned dates, so any future changes or renewals would affect this profile.",
+    "model": "gpt-4o",
+    "input_tokens": 17793,
+    "output_tokens": 205,
+    "total_tokens": 17998,
+    "latency_ms": 11808,
+    "timestamp": "2026-01-29T18:25:50.732566",
+    "cost_usd": 0.046532500000000004
+  }
+}

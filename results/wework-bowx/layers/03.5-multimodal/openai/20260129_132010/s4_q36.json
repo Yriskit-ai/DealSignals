@@ -1,0 +1,15 @@
+{
+  "question_id": "q36",
+  "question_text": "Were comparable transactions disclosed?",
+  "category": "governance_control",
+  "response": {
+    "content": "Comparable transactions are not explicitly disclosed in the document. \n\nConfidence: HIGH (as there is no direct mention or detailed section outlining comparable transactions in the provided search results).\n\nCaveat: The document may include comparable transaction analysis in sections that were not retrieved in the search, or it may provide this information in a format or section not explicitly marked as such.",
+    "model": "gpt-4o",
+    "input_tokens": 17110,
+    "output_tokens": 103,
+    "total_tokens": 17213,
+    "latency_ms": 8111,
+    "timestamp": "2026-01-29T18:34:13.505339",
+    "cost_usd": 0.043805000000000004
+  }
+}

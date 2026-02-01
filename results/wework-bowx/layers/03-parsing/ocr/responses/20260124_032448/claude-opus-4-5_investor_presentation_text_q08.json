@@ -1,0 +1,34 @@
+{
+  "content": "## Analysis: Contribution Margin Per Membership\n\n### Answer:\n**Not found in document.**\n\nThe provided document does not contain specific numerical data regarding contribution margin per membership. While the document appears to be a WeWork confidential presentation (dated 2021), the OCR parsing has captured primarily:\n\n- Copyright notices on each page\n- Bullet point markers (\u2022, \u25cf, \u25cb) without their associated text content\n- Some general corporate values language (Page 10)\n- A mention of the \"All Access\" product with qualitative descriptions of \"High Margins\" and \"significant incremental margins\" (Page 25)\n- A timeline spanning 2010-2030 (Page 24)\n- References to financial metric definitions on Page 45-46, but the actual definitions and values are not captured\n\n### Relevant Partial Information:\nPage 25 mentions that the All Access subscription model has \"High Margins\" with \"significant incremental margins given subscription-based model on top of traditional leased business,\" but **no specific numerical contribution margin per membership figure is provided** in the readable text.\n\nPage 45-46 appears to contain financial metric definitions (including what seems to be formula references like \"divided by\"), but the actual text content defining contribution margin or its value was not captured by the OCR.\n\n### Confidence Level: \n**N/A** - The specific metric requested is not available in the document as parsed.\n\n### Caveats/Limitations:\n1. **Significant OCR quality issues**: The document parsing captured mostly formatting elements (bullet points, copyright notices) rather than substantive content\n2. The actual slide content, charts, and financial data appear to be missing from the parsed text\n3. A complete version of this document would likely contain the requested financial metrics, but they are not accessible in this parsed version",
+  "model": "claude-opus-4-5",
+  "input_tokens": 1659,
+  "output_tokens": 400,
+  "latency_ms": 11057,
+  "timestamp": "2026-01-24T03:43:22.217094",
+  "cost_usd": 0.018295,
+  "raw_response": {
+    "model": "claude-opus-4-5-20251101",
+    "id": "msg_01QhdCvuRFY85qwZXTMekjyp",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "## Analysis: Contribution Margin Per Membership\n\n### Answer:\n**Not found in document.**\n\nThe provided document does not contain specific numerical data regarding contribution margin per membership. While the document appears to be a WeWork confidential presentation (dated 2021), the OCR parsing has captured primarily:\n\n- Copyright notices on each page\n- Bullet point markers (\u2022, \u25cf, \u25cb) without their associated text content\n- Some general corporate values language (Page 10)\n- A mention of the \"All Access\" product with qualitative descriptions of \"High Margins\" and \"significant incremental margins\" (Page 25)\n- A timeline spanning 2010-2030 (Page 24)\n- References to financial metric definitions on Page 45-46, but the actual definitions and values are not captured\n\n### Relevant Partial Information:\nPage 25 mentions that the All Access subscription model has \"High Margins\" with \"significant incremental margins given subscription-based model on top of traditional leased business,\" but **no specific numerical contribution margin per membership figure is provided** in the readable text.\n\nPage 45-46 appears to contain financial metric definitions (including what seems to be formula references like \"divided by\"), but the actual text content defining contribution margin or its value was not captured by the OCR.\n\n### Confidence Level: \n**N/A** - The specific metric requested is not available in the document as parsed.\n\n### Caveats/Limitations:\n1. **Significant OCR quality issues**: The document parsing captured mostly formatting elements (bullet points, copyright notices) rather than substantive content\n2. The actual slide content, charts, and financial data appear to be missing from the parsed text\n3. A complete version of this document would likely contain the requested financial metrics, but they are not accessible in this parsed version"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "usage": {
+      "input_tokens": 1659,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 400,
+      "service_tier": "standard"
+    }
+  }
+}

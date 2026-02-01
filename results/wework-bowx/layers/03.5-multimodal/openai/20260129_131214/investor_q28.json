@@ -1,0 +1,15 @@
+{
+  "question_id": "q28",
+  "question_text": "Are there going concern disclosures?",
+  "category": "risk_red_flags",
+  "response": {
+    "content": "Not found in document. Confidence: HIGH. The search did not yield any references to going concern disclosures .",
+    "model": "gpt-4o",
+    "input_tokens": 3684,
+    "output_tokens": 46,
+    "total_tokens": 3730,
+    "latency_ms": 6974,
+    "timestamp": "2026-01-29T18:16:33.136781",
+    "cost_usd": 0.009670000000000002
+  }
+}

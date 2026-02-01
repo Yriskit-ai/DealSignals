@@ -1,0 +1,34 @@
+{
+  "content": "# Analysis: Contribution Margin per Membership\n\n## Answer\n\n**Not found in document.**\n\n## Explanation\n\nThe document provided consists primarily of page headers showing \"\u00a9 2021 WeWork. Confidential.\" with minimal substantive content visible. While there are several pages with bullet points and some text:\n\n- **Page 10** contains company values and mission statements\n- **Page 24** shows a timeline from 2010-2030\n- **Page 25** describes \"All Access\" product features including mentions of \"High Margins\" with \"significant incremental margins given subscription-based model\"\n- **Pages 45-46** contain bullet points that appear to reference metrics (noting \"divided by\" on page 45), suggesting financial calculations may exist\n\nHowever, **no specific numerical data or explicit definition of \"contribution margin per membership\" is visible** in the OCR-parsed content provided.\n\n## Confidence Level\n\n**HIGH** - The specific metric \"contribution margin per membership\" is not directly stated in the visible document content.\n\n## Caveats\n\n1. The OCR parsing appears incomplete, with many pages showing only copyright notices and bullet point markers without associated text\n2. Financial metrics may exist in portions of the document that were not successfully parsed\n3. The document appears to be a presentation deck that may contain charts, tables, or graphics that did not convert to text through OCR",
+  "model": "claude-sonnet-4-5",
+  "input_tokens": 1659,
+  "output_tokens": 301,
+  "latency_ms": 9215,
+  "timestamp": "2026-01-24T03:26:06.331888",
+  "cost_usd": 0.009492,
+  "raw_response": {
+    "model": "claude-sonnet-4-5-20250929",
+    "id": "msg_012KM4YWYVHthhhiFSd3wdsV",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "# Analysis: Contribution Margin per Membership\n\n## Answer\n\n**Not found in document.**\n\n## Explanation\n\nThe document provided consists primarily of page headers showing \"\u00a9 2021 WeWork. Confidential.\" with minimal substantive content visible. While there are several pages with bullet points and some text:\n\n- **Page 10** contains company values and mission statements\n- **Page 24** shows a timeline from 2010-2030\n- **Page 25** describes \"All Access\" product features including mentions of \"High Margins\" with \"significant incremental margins given subscription-based model\"\n- **Pages 45-46** contain bullet points that appear to reference metrics (noting \"divided by\" on page 45), suggesting financial calculations may exist\n\nHowever, **no specific numerical data or explicit definition of \"contribution margin per membership\" is visible** in the OCR-parsed content provided.\n\n## Confidence Level\n\n**HIGH** - The specific metric \"contribution margin per membership\" is not directly stated in the visible document content.\n\n## Caveats\n\n1. The OCR parsing appears incomplete, with many pages showing only copyright notices and bullet point markers without associated text\n2. Financial metrics may exist in portions of the document that were not successfully parsed\n3. The document appears to be a presentation deck that may contain charts, tables, or graphics that did not convert to text through OCR"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "usage": {
+      "input_tokens": 1659,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 301,
+      "service_tier": "standard"
+    }
+  }
+}

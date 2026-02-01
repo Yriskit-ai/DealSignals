@@ -1,0 +1,15 @@
+{
+  "question_id": "q05",
+  "question_text": "What is the cash runway at current burn rate?",
+  "category": "financial_fundamentals",
+  "response": {
+    "content": "Based on the information provided in the document, I can analyze WeWork's liquidity position and cash runway.\n\n**Current Liquidity Position (as of Q2 2021E):**\n- Total liquidity: $1.8 billion (page 34)\n- This includes cash and available financing commitments\n\n**Cash Flow Analysis:**\nFrom the liquidity projections on page 34, the document shows quarterly Adjusted EBITDA figures:\n- Q2 2021E: ($321) million \n- Q3 2021E: ($171) million\n- Q4 2021E: $8 million (breakeven)\n\n**Cash Runway Assessment:**\nBased on the projections shown on page 34, WeWork expects to achieve Adjusted EBITDA breakeven by Q4 2021E. The document states that \"liquidity is not expected to drop below $1.8bn throughout projection period\" (page 34).\n\n**Key Points:**\n- The company projects improving cash burn through 2021, reaching breakeven by Q4 2021E\n- Total liquidity of $1.8B provides cushion during the recovery period\n- Management expects liquidity to remain above $1.8B throughout the projection period\n\n**Confidence Level: MEDIUM** - The analysis is based on management projections and assumes execution of their turnaround plan. The document provides forward-looking liquidity projections but actual cash runway depends on achieving projected improvements in occupancy and cost management.\n\n**Caveat:** This analysis is based on management projections from March 2021 and assumes successful execution of WeWork's restructuring and recovery plan.",
+    "model": "claude-sonnet-4-20250514",
+    "input_tokens": 80341,
+    "output_tokens": 363,
+    "total_tokens": 80704,
+    "latency_ms": 14215,
+    "timestamp": "2026-01-29T17:47:12.004478",
+    "cost_usd": 0.246468
+  }
+}

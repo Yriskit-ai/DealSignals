@@ -1,0 +1,80 @@
+{
+  "content": "Not found in document.\n\n- The provided OCR text contains no section explicitly describing \u201ckey assumptions,\u201d \u201cprojection assumptions,\u201d \u201cforecast assumptions,\u201d or any numeric projection inputs (e.g., revenue growth rates, occupancy/utilization, pricing, margins, capex, churn, SG&A assumptions). Most pages are either blank/boilerplate (\u201c\u00a9 2021 WeWork. Confidential.\u201d) or contain non-financial narrative (e.g., values statements on **Page 10**) and a brief product description of \u201cAll Access\u201d without quantified projection inputs (**Page 25**).  \n- There is also no visible \u201cAssumptions,\u201d \u201cForecast,\u201d \u201cOutlook,\u201d \u201cGuidance,\u201d or \u201cProjections\u201d table/footnote content in the OCR extract that could be used to derive assumptions (e.g., **Pages 45\u201346** show only bullet placeholders with missing text).\n\n**Confidence:** HIGH (the assumptions are not present in the provided OCR-parsed content)\n\n**Caveats / limitations:**  \n- The OCR appears incomplete/redacted for many pages (numerous pages show only confidentiality headers or bullet placeholders), so assumptions may exist in the original document but are not captured in the provided text (e.g., **Pages 6, 9, 15, 22\u201323, 27, 37\u201338, 45\u201346, 50**).",
+  "model": "gpt-5.2",
+  "input_tokens": 1306,
+  "output_tokens": 283,
+  "latency_ms": 9413,
+  "timestamp": "2026-01-24T03:32:37.703743",
+  "cost_usd": 0.0062475000000000004,
+  "raw_response": {
+    "id": "resp_03ffa61a920174b80069743d4dd2e88197865e17f6cbc7996e",
+    "object": "response",
+    "created_at": 1769225549,
+    "status": "completed",
+    "background": false,
+    "billing": {
+      "payer": "openai"
+    },
+    "completed_at": 1769225557,
+    "error": null,
+    "frequency_penalty": 0,
+    "incomplete_details": null,
+    "instructions": null,
+    "max_output_tokens": null,
+    "max_tool_calls": null,
+    "model": "gpt-5.2-2025-12-11",
+    "output": [
+      {
+        "id": "msg_03ffa61a920174b80069743d4e2c048197b00ced038e548ddd",
+        "type": "message",
+        "status": "completed",
+        "content": [
+          {
+            "type": "output_text",
+            "annotations": [],
+            "logprobs": [],
+            "text": "Not found in document.\n\n- The provided OCR text contains no section explicitly describing \u201ckey assumptions,\u201d \u201cprojection assumptions,\u201d \u201cforecast assumptions,\u201d or any numeric projection inputs (e.g., revenue growth rates, occupancy/utilization, pricing, margins, capex, churn, SG&A assumptions). Most pages are either blank/boilerplate (\u201c\u00a9 2021 WeWork. Confidential.\u201d) or contain non-financial narrative (e.g., values statements on **Page 10**) and a brief product description of \u201cAll Access\u201d without quantified projection inputs (**Page 25**).  \n- There is also no visible \u201cAssumptions,\u201d \u201cForecast,\u201d \u201cOutlook,\u201d \u201cGuidance,\u201d or \u201cProjections\u201d table/footnote content in the OCR extract that could be used to derive assumptions (e.g., **Pages 45\u201346** show only bullet placeholders with missing text).\n\n**Confidence:** HIGH (the assumptions are not present in the provided OCR-parsed content)\n\n**Caveats / limitations:**  \n- The OCR appears incomplete/redacted for many pages (numerous pages show only confidentiality headers or bullet placeholders), so assumptions may exist in the original document but are not captured in the provided text (e.g., **Pages 6, 9, 15, 22\u201323, 27, 37\u201338, 45\u201346, 50**)."
+          }
+        ],
+        "role": "assistant"
+      }
+    ],
+    "parallel_tool_calls": true,
+    "presence_penalty": 0,
+    "previous_response_id": null,
+    "prompt_cache_key": null,
+    "prompt_cache_retention": null,
+    "reasoning": {
+      "effort": "none",
+      "summary": null
+    },
+    "safety_identifier": null,
+    "service_tier": "default",
+    "store": true,
+    "temperature": 1,
+    "text": {
+      "format": {
+        "type": "text"
+      },
+      "verbosity": "medium"
+    },
+    "tool_choice": "auto",
+    "tools": [],
+    "top_logprobs": 0,
+    "top_p": 0.98,
+    "truncation": "disabled",
+    "usage": {
+      "input_tokens": 1306,
+      "input_tokens_details": {
+        "cached_tokens": 0
+      },
+      "output_tokens": 283,
+      "output_tokens_details": {
+        "reasoning_tokens": 0
+      },
+      "total_tokens": 1589
+    },
+    "user": null,
+    "metadata": {}
+  }
+}

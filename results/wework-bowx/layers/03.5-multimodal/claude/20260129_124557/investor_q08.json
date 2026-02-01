@@ -1,0 +1,15 @@
+{
+  "question_id": "q08",
+  "question_text": "What is contribution margin per membership?",
+  "category": "unit_economics",
+  "response": {
+    "content": "Looking through the document for contribution margin per membership data...\n\n**Not found in document.**\n\nWhile the document contains extensive financial information including:\n- Revenue composition and projections (pages 32, 39-40)\n- Adj. EBITDA figures and margins (pages 29-31, 40)\n- Building margins for mature locations (page 33)\n- Location contribution margins in reconciliation tables (pages 47-48)\n\nThe document does not explicitly state a \"contribution margin per membership\" metric. The closest related metrics are:\n\n1. **Building Margin** - shown as 27% for consolidated mature locations in 2019 (page 33)\n2. **Location Contribution Margin** - referenced in reconciliation tables but without clear per-membership calculations (pages 47-48)\n3. **ARPM (Average Revenue Per Member)** - ranging from $250-$598 across different products (page 41)\n\n**Confidence: HIGH** - I have thoroughly reviewed all financial sections and appendix materials, and this specific metric is not provided.\n\n**Caveat:** The document focuses on aggregate financial metrics rather than per-unit economics for individual memberships.",
+    "model": "claude-sonnet-4-20250514",
+    "input_tokens": 80338,
+    "output_tokens": 261,
+    "total_tokens": 80599,
+    "latency_ms": 14468,
+    "timestamp": "2026-01-29T17:48:05.714796",
+    "cost_usd": 0.244929
+  }
+}

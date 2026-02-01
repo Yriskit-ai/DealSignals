@@ -1,0 +1,80 @@
+{
+  "content": "**Member churn rate:** **Not found in document.**\n\n- The OCR-parsed pages provided do not include any readable definition, metric value, or calculation for \u201cmember churn rate.\u201d Most pages contain only \u201c\u00a9 2021 WeWork. Confidential.\u201d with limited legible content, and no section/header referencing churn (e.g., \u201cChurn,\u201d \u201cRetention,\u201d \u201cMember churn rate\u201d) appears in the extracted text (Pages **1\u20139**, **11\u201323**, **26\u201350**).  \n- The only clearly legible business-metric-related content shown pertains to \u201cAll Access\u201d (e.g., \u201cHigh Margins,\u201d \u201cDrives Occupancy\u201d), but it does **not** mention churn (Page **25**).\n\n**Confidence:** HIGH (directly based on absence in provided OCR text)\n\n**Caveat / limitation:** The document appears to be heavily OCR-degraded/redacted (many bullets with no text), so \u201cmember churn rate\u201d may exist in the original slides but is not captured in the provided extracted text (Pages **6**, **9**, **15**, **22\u201323**, **27**, **37\u201338**, **45\u201346**, **50**).",
+  "model": "gpt-5.2",
+  "input_tokens": 1303,
+  "output_tokens": 248,
+  "latency_ms": 6553,
+  "timestamp": "2026-01-24T03:33:06.993034",
+  "cost_usd": 0.00575225,
+  "raw_response": {
+    "id": "resp_0e4289f5733bddc80069743d6d0494819196d449de338b2634",
+    "object": "response",
+    "created_at": 1769225581,
+    "status": "completed",
+    "background": false,
+    "billing": {
+      "payer": "openai"
+    },
+    "completed_at": 1769225586,
+    "error": null,
+    "frequency_penalty": 0,
+    "incomplete_details": null,
+    "instructions": null,
+    "max_output_tokens": null,
+    "max_tool_calls": null,
+    "model": "gpt-5.2-2025-12-11",
+    "output": [
+      {
+        "id": "msg_0e4289f5733bddc80069743d6d7b6881918b83e9993641323a",
+        "type": "message",
+        "status": "completed",
+        "content": [
+          {
+            "type": "output_text",
+            "annotations": [],
+            "logprobs": [],
+            "text": "**Member churn rate:** **Not found in document.**\n\n- The OCR-parsed pages provided do not include any readable definition, metric value, or calculation for \u201cmember churn rate.\u201d Most pages contain only \u201c\u00a9 2021 WeWork. Confidential.\u201d with limited legible content, and no section/header referencing churn (e.g., \u201cChurn,\u201d \u201cRetention,\u201d \u201cMember churn rate\u201d) appears in the extracted text (Pages **1\u20139**, **11\u201323**, **26\u201350**).  \n- The only clearly legible business-metric-related content shown pertains to \u201cAll Access\u201d (e.g., \u201cHigh Margins,\u201d \u201cDrives Occupancy\u201d), but it does **not** mention churn (Page **25**).\n\n**Confidence:** HIGH (directly based on absence in provided OCR text)\n\n**Caveat / limitation:** The document appears to be heavily OCR-degraded/redacted (many bullets with no text), so \u201cmember churn rate\u201d may exist in the original slides but is not captured in the provided extracted text (Pages **6**, **9**, **15**, **22\u201323**, **27**, **37\u201338**, **45\u201346**, **50**)."
+          }
+        ],
+        "role": "assistant"
+      }
+    ],
+    "parallel_tool_calls": true,
+    "presence_penalty": 0,
+    "previous_response_id": null,
+    "prompt_cache_key": null,
+    "prompt_cache_retention": null,
+    "reasoning": {
+      "effort": "none",
+      "summary": null
+    },
+    "safety_identifier": null,
+    "service_tier": "default",
+    "store": true,
+    "temperature": 1,
+    "text": {
+      "format": {
+        "type": "text"
+      },
+      "verbosity": "medium"
+    },
+    "tool_choice": "auto",
+    "tools": [],
+    "top_logprobs": 0,
+    "top_p": 0.98,
+    "truncation": "disabled",
+    "usage": {
+      "input_tokens": 1303,
+      "input_tokens_details": {
+        "cached_tokens": 1152
+      },
+      "output_tokens": 248,
+      "output_tokens_details": {
+        "reasoning_tokens": 0
+      },
+      "total_tokens": 1551
+    },
+    "user": null,
+    "metadata": {}
+  }
+}

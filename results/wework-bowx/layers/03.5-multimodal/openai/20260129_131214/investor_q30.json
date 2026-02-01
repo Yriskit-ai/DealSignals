@@ -1,0 +1,15 @@
+{
+  "question_id": "q30",
+  "question_text": "Are there any material weaknesses in internal controls?",
+  "category": "risk_red_flags",
+  "response": {
+    "content": "Not found in document. \n\nConfidence: HIGH (no mentions found in provided excerpts).",
+    "model": "gpt-4o",
+    "input_tokens": 3692,
+    "output_tokens": 39,
+    "total_tokens": 3731,
+    "latency_ms": 11543,
+    "timestamp": "2026-01-29T18:16:52.953042",
+    "cost_usd": 0.00962
+  }
+}

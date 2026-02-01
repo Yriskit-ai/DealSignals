@@ -1,0 +1,80 @@
+{
+  "content": "## Management incentives/compensation in the deal\n**Not found in document.** The provided OCR pages do not disclose management\u2019s deal-related incentives or compensation (e.g., transaction bonuses, retention/rollover equity, earnouts, new employment agreements, SPAC sponsor promote allocations to management, or equity awards tied to closing). The pages are largely confidentiality notices, values statements, and high-level business descriptions without compensation terms (e.g., values on **Page 10**; All Access business model description on **Page 25**).\n\n### Caveats / limitations\n- The OCR text appears heavily incomplete/redacted across many pages (e.g., bullet-only pages such as **Pages 6, 9, 15, 22\u201323, 45\u201346, 50**), which could mean compensation details exist in the original but are not captured in this extract.\n- No section headers indicating \u201cManagement,\u201d \u201cCompensation,\u201d \u201cIncentives,\u201d \u201cEmployment Agreements,\u201d or similar are present in the provided text.\n\n**Confidence: HIGH** (the document extract provided contains no explicit management incentive/compensation disclosures).",
+  "model": "gpt-5.2",
+  "input_tokens": 1309,
+  "output_tokens": 231,
+  "latency_ms": 5729,
+  "timestamp": "2026-01-24T03:34:18.876561",
+  "cost_usd": 0.00552475,
+  "raw_response": {
+    "id": "resp_025e6130be01a6410069743db55b9481968eed77c93b1cd6a7",
+    "object": "response",
+    "created_at": 1769225653,
+    "status": "completed",
+    "background": false,
+    "billing": {
+      "payer": "openai"
+    },
+    "completed_at": 1769225658,
+    "error": null,
+    "frequency_penalty": 0,
+    "incomplete_details": null,
+    "instructions": null,
+    "max_output_tokens": null,
+    "max_tool_calls": null,
+    "model": "gpt-5.2-2025-12-11",
+    "output": [
+      {
+        "id": "msg_025e6130be01a6410069743db5e13c8196afa06b53c93f3f1c",
+        "type": "message",
+        "status": "completed",
+        "content": [
+          {
+            "type": "output_text",
+            "annotations": [],
+            "logprobs": [],
+            "text": "## Management incentives/compensation in the deal\n**Not found in document.** The provided OCR pages do not disclose management\u2019s deal-related incentives or compensation (e.g., transaction bonuses, retention/rollover equity, earnouts, new employment agreements, SPAC sponsor promote allocations to management, or equity awards tied to closing). The pages are largely confidentiality notices, values statements, and high-level business descriptions without compensation terms (e.g., values on **Page 10**; All Access business model description on **Page 25**).\n\n### Caveats / limitations\n- The OCR text appears heavily incomplete/redacted across many pages (e.g., bullet-only pages such as **Pages 6, 9, 15, 22\u201323, 45\u201346, 50**), which could mean compensation details exist in the original but are not captured in this extract.\n- No section headers indicating \u201cManagement,\u201d \u201cCompensation,\u201d \u201cIncentives,\u201d \u201cEmployment Agreements,\u201d or similar are present in the provided text.\n\n**Confidence: HIGH** (the document extract provided contains no explicit management incentive/compensation disclosures)."
+          }
+        ],
+        "role": "assistant"
+      }
+    ],
+    "parallel_tool_calls": true,
+    "presence_penalty": 0,
+    "previous_response_id": null,
+    "prompt_cache_key": null,
+    "prompt_cache_retention": null,
+    "reasoning": {
+      "effort": "none",
+      "summary": null
+    },
+    "safety_identifier": null,
+    "service_tier": "default",
+    "store": true,
+    "temperature": 1,
+    "text": {
+      "format": {
+        "type": "text"
+      },
+      "verbosity": "medium"
+    },
+    "tool_choice": "auto",
+    "tools": [],
+    "top_logprobs": 0,
+    "top_p": 0.98,
+    "truncation": "disabled",
+    "usage": {
+      "input_tokens": 1309,
+      "input_tokens_details": {
+        "cached_tokens": 1152
+      },
+      "output_tokens": 231,
+      "output_tokens_details": {
+        "reasoning_tokens": 0
+      },
+      "total_tokens": 1540
+    },
+    "user": null,
+    "metadata": {}
+  }
+}

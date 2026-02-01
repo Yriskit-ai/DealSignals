@@ -1,0 +1,80 @@
+{
+  "content": "**Voting structure post-merger:** **Not found in document.**  \n\n- The OCR text provided does not include any description of post-merger share classes, voting rights (e.g., one-share-one-vote vs. dual-class), founder/sponsor voting arrangements, or any governance/voting provisions. Most pages contain only \u201c\u00a9 2021 WeWork. Confidential.\u201d with minimal readable content (e.g., general values language on **p.10** and a product description on **p.25**), and none mention voting structure (**pp.1\u201350**, including **p.10**, **p.25**).\n\n**Confidence:** HIGH (the document text provided does not contain the requested information).  \n\n**Caveats / limitations:** The document appears to be heavily redacted or poorly OCR-parsed (many pages contain only the confidentiality footer and bullet placeholders), so relevant voting-structure details may exist in the original source but are not captured in the provided text (**pp.1\u201350**).",
+  "model": "gpt-5.2",
+  "input_tokens": 1306,
+  "output_tokens": 208,
+  "latency_ms": 5393,
+  "timestamp": "2026-01-24T03:35:04.209509",
+  "cost_usd": 0.0051975,
+  "raw_response": {
+    "id": "resp_0f4aa6c24875f5460069743de324bc81928bbbddc1914895d5",
+    "object": "response",
+    "created_at": 1769225699,
+    "status": "completed",
+    "background": false,
+    "billing": {
+      "payer": "openai"
+    },
+    "completed_at": 1769225703,
+    "error": null,
+    "frequency_penalty": 0,
+    "incomplete_details": null,
+    "instructions": null,
+    "max_output_tokens": null,
+    "max_tool_calls": null,
+    "model": "gpt-5.2-2025-12-11",
+    "output": [
+      {
+        "id": "msg_0f4aa6c24875f5460069743de36444819283f7433007c374f7",
+        "type": "message",
+        "status": "completed",
+        "content": [
+          {
+            "type": "output_text",
+            "annotations": [],
+            "logprobs": [],
+            "text": "**Voting structure post-merger:** **Not found in document.**  \n\n- The OCR text provided does not include any description of post-merger share classes, voting rights (e.g., one-share-one-vote vs. dual-class), founder/sponsor voting arrangements, or any governance/voting provisions. Most pages contain only \u201c\u00a9 2021 WeWork. Confidential.\u201d with minimal readable content (e.g., general values language on **p.10** and a product description on **p.25**), and none mention voting structure (**pp.1\u201350**, including **p.10**, **p.25**).\n\n**Confidence:** HIGH (the document text provided does not contain the requested information).  \n\n**Caveats / limitations:** The document appears to be heavily redacted or poorly OCR-parsed (many pages contain only the confidentiality footer and bullet placeholders), so relevant voting-structure details may exist in the original source but are not captured in the provided text (**pp.1\u201350**)."
+          }
+        ],
+        "role": "assistant"
+      }
+    ],
+    "parallel_tool_calls": true,
+    "presence_penalty": 0,
+    "previous_response_id": null,
+    "prompt_cache_key": null,
+    "prompt_cache_retention": null,
+    "reasoning": {
+      "effort": "none",
+      "summary": null
+    },
+    "safety_identifier": null,
+    "service_tier": "default",
+    "store": true,
+    "temperature": 1,
+    "text": {
+      "format": {
+        "type": "text"
+      },
+      "verbosity": "medium"
+    },
+    "tool_choice": "auto",
+    "tools": [],
+    "top_logprobs": 0,
+    "top_p": 0.98,
+    "truncation": "disabled",
+    "usage": {
+      "input_tokens": 1306,
+      "input_tokens_details": {
+        "cached_tokens": 1152
+      },
+      "output_tokens": 208,
+      "output_tokens_details": {
+        "reasoning_tokens": 0
+      },
+      "total_tokens": 1514
+    },
+    "user": null,
+    "metadata": {}
+  }
+}

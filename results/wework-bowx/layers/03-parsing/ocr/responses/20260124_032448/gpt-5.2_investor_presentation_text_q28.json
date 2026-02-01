@@ -1,0 +1,80 @@
+{
+  "content": "**Not found in document.**\n\n- The provided OCR text does not include any explicit **\u201cgoing concern\u201d** language, auditor\u2019s going concern emphasis, or disclosures about substantial doubt regarding the company\u2019s ability to continue as a going concern. The pages shown are largely confidentiality footers and high-level narrative content (e.g., values on **Page 10**), with no financial statement footnotes or audit report excerpts.\n\n**Confidence:** LOW (based on absence in the provided OCR text, but the document appears heavily truncated/garbled).  \n\n**Caveats / limitations:**  \n- The OCR output is severely incomplete across most pages (many pages show only \u201c\u00a9 2021 WeWork. Confidential.\u201d or bullet placeholders), so a going concern disclosure could exist in sections not captured by OCR or omitted from the extract (e.g., financial statements, MD&A, or footnotes not present in the text).",
+  "model": "gpt-5.2",
+  "input_tokens": 1303,
+  "output_tokens": 187,
+  "latency_ms": 5729,
+  "timestamp": "2026-01-24T03:34:42.427939",
+  "cost_usd": 0.00489825,
+  "raw_response": {
+    "id": "resp_01104e16d32541f00069743dccf3e481919495edcf911532c2",
+    "object": "response",
+    "created_at": 1769225676,
+    "status": "completed",
+    "background": false,
+    "billing": {
+      "payer": "openai"
+    },
+    "completed_at": 1769225682,
+    "error": null,
+    "frequency_penalty": 0,
+    "incomplete_details": null,
+    "instructions": null,
+    "max_output_tokens": null,
+    "max_tool_calls": null,
+    "model": "gpt-5.2-2025-12-11",
+    "output": [
+      {
+        "id": "msg_01104e16d32541f00069743dcd21488191b9a6efd87814bb96",
+        "type": "message",
+        "status": "completed",
+        "content": [
+          {
+            "type": "output_text",
+            "annotations": [],
+            "logprobs": [],
+            "text": "**Not found in document.**\n\n- The provided OCR text does not include any explicit **\u201cgoing concern\u201d** language, auditor\u2019s going concern emphasis, or disclosures about substantial doubt regarding the company\u2019s ability to continue as a going concern. The pages shown are largely confidentiality footers and high-level narrative content (e.g., values on **Page 10**), with no financial statement footnotes or audit report excerpts.\n\n**Confidence:** LOW (based on absence in the provided OCR text, but the document appears heavily truncated/garbled).  \n\n**Caveats / limitations:**  \n- The OCR output is severely incomplete across most pages (many pages show only \u201c\u00a9 2021 WeWork. Confidential.\u201d or bullet placeholders), so a going concern disclosure could exist in sections not captured by OCR or omitted from the extract (e.g., financial statements, MD&A, or footnotes not present in the text)."
+          }
+        ],
+        "role": "assistant"
+      }
+    ],
+    "parallel_tool_calls": true,
+    "presence_penalty": 0,
+    "previous_response_id": null,
+    "prompt_cache_key": null,
+    "prompt_cache_retention": null,
+    "reasoning": {
+      "effort": "none",
+      "summary": null
+    },
+    "safety_identifier": null,
+    "service_tier": "default",
+    "store": true,
+    "temperature": 1,
+    "text": {
+      "format": {
+        "type": "text"
+      },
+      "verbosity": "medium"
+    },
+    "tool_choice": "auto",
+    "tools": [],
+    "top_logprobs": 0,
+    "top_p": 0.98,
+    "truncation": "disabled",
+    "usage": {
+      "input_tokens": 1303,
+      "input_tokens_details": {
+        "cached_tokens": 1152
+      },
+      "output_tokens": 187,
+      "output_tokens_details": {
+        "reasoning_tokens": 0
+      },
+      "total_tokens": 1490
+    },
+    "user": null,
+    "metadata": {}
+  }
+}

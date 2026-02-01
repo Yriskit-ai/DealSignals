@@ -1,0 +1,15 @@
+{
+  "question_id": "q09",
+  "question_text": "What is revenue per available desk/workstation?",
+  "category": "unit_economics",
+  "response": {
+    "content": "Based on the provided document, I cannot find a direct metric for \"revenue per available desk/workstation.\" \n\nHowever, I can provide related metrics that are available:\n\n**Core Leased ARPM (Average Revenue Per Member):**\n- 2020A: $510 (page 41)\n- 2021E: $542 \n- 2022E: $554\n- 2023E: $576\n- 2024E: $598\n\n**All Access ARPM:**\n- 2021E: $250 (page 41)\n- 2022E: $256\n- 2023E: $270\n- 2024E: $287\n\nThe document shows total workstations and revenue figures, but doesn't explicitly calculate revenue per workstation. From page 31, I can see:\n- Total workstations projected to grow from 954k (2021E) to 1.55M (2024E)\n- Revenue (excluding ChinaCo) projected to grow from $3.2B (2021E) to $7.0B (2024E)\n\n**Confidence: MEDIUM** - The specific metric requested is not directly stated, but related per-member metrics are provided. A revenue per workstation calculation would need to be derived from the available data.\n\n**Caveats:** The ARPM figures are per member, not per available workstation/desk, and occupancy rates would affect the relationship between available capacity and actual revenue generation.",
+    "model": "claude-sonnet-4-20250514",
+    "input_tokens": 80341,
+    "output_tokens": 334,
+    "total_tokens": 80675,
+    "latency_ms": 14867,
+    "timestamp": "2026-01-29T17:48:20.679169",
+    "cost_usd": 0.24603299999999997
+  }
+}

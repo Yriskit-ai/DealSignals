@@ -1,0 +1,80 @@
+{
+  "content": "## Top disclosed risk factors\n**Not found in document.**  \n\n### Evidence / citations\n- The provided OCR text does not include any \u201cRisk Factors\u201d section, risk-factor headings, or readable risk-factor statements. Most pages only show \u201c\u00a9 2021 WeWork. Confidential.\u201d with bullets or redacted/blank content (e.g., pages **1\u20139, 11\u201323, 26\u201350**).\n- The only legible narrative content appears to be **company values/culture statements** (page **10**) and a **product description of \u201cAll Access\u201d** (page **25**), neither of which discloses risk factors.\n\n## Caveats / limitations\n- **Severe OCR loss / redaction:** Many pages contain only confidentiality footer text and unreadable bullets, indicating the risk-factor content may exist in the underlying document but is **not captured in the provided OCR extract** (pages **6, 9, 15, 22\u201323, 27, 37\u201338, 45\u201346, 50** show bullets without readable text).\n- Without readable risk-factor text, no reliable identification or ranking of \u201ctop disclosed risk factors\u201d is possible based solely on this document.\n\n**Confidence: HIGH** (the absence of risk-factor text is directly observable in the provided document).",
+  "model": "gpt-5.2",
+  "input_tokens": 1305,
+  "output_tokens": 274,
+  "latency_ms": 8014,
+  "timestamp": "2026-01-24T03:34:31.783919",
+  "cost_usd": 0.00611975,
+  "raw_response": {
+    "id": "resp_0a975981e6803afb0069743dbff05c8195aa095efbc108d4fa",
+    "object": "response",
+    "created_at": 1769225663,
+    "status": "completed",
+    "background": false,
+    "billing": {
+      "payer": "openai"
+    },
+    "completed_at": 1769225671,
+    "error": null,
+    "frequency_penalty": 0,
+    "incomplete_details": null,
+    "instructions": null,
+    "max_output_tokens": null,
+    "max_tool_calls": null,
+    "model": "gpt-5.2-2025-12-11",
+    "output": [
+      {
+        "id": "msg_0a975981e6803afb0069743dc0a6b88195a705da06fed32dcd",
+        "type": "message",
+        "status": "completed",
+        "content": [
+          {
+            "type": "output_text",
+            "annotations": [],
+            "logprobs": [],
+            "text": "## Top disclosed risk factors\n**Not found in document.**  \n\n### Evidence / citations\n- The provided OCR text does not include any \u201cRisk Factors\u201d section, risk-factor headings, or readable risk-factor statements. Most pages only show \u201c\u00a9 2021 WeWork. Confidential.\u201d with bullets or redacted/blank content (e.g., pages **1\u20139, 11\u201323, 26\u201350**).\n- The only legible narrative content appears to be **company values/culture statements** (page **10**) and a **product description of \u201cAll Access\u201d** (page **25**), neither of which discloses risk factors.\n\n## Caveats / limitations\n- **Severe OCR loss / redaction:** Many pages contain only confidentiality footer text and unreadable bullets, indicating the risk-factor content may exist in the underlying document but is **not captured in the provided OCR extract** (pages **6, 9, 15, 22\u201323, 27, 37\u201338, 45\u201346, 50** show bullets without readable text).\n- Without readable risk-factor text, no reliable identification or ranking of \u201ctop disclosed risk factors\u201d is possible based solely on this document.\n\n**Confidence: HIGH** (the absence of risk-factor text is directly observable in the provided document)."
+          }
+        ],
+        "role": "assistant"
+      }
+    ],
+    "parallel_tool_calls": true,
+    "presence_penalty": 0,
+    "previous_response_id": null,
+    "prompt_cache_key": null,
+    "prompt_cache_retention": null,
+    "reasoning": {
+      "effort": "none",
+      "summary": null
+    },
+    "safety_identifier": null,
+    "service_tier": "default",
+    "store": true,
+    "temperature": 1,
+    "text": {
+      "format": {
+        "type": "text"
+      },
+      "verbosity": "medium"
+    },
+    "tool_choice": "auto",
+    "tools": [],
+    "top_logprobs": 0,
+    "top_p": 0.98,
+    "truncation": "disabled",
+    "usage": {
+      "input_tokens": 1305,
+      "input_tokens_details": {
+        "cached_tokens": 1152
+      },
+      "output_tokens": 274,
+      "output_tokens_details": {
+        "reasoning_tokens": 0
+      },
+      "total_tokens": 1579
+    },
+    "user": null,
+    "metadata": {}
+  }
+}

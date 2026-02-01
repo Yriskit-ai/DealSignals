@@ -1,0 +1,15 @@
+{
+  "question_id": "q22",
+  "question_text": "What is SoftBank's role and ongoing obligations?",
+  "category": "deal_structure",
+  "response": {
+    "content": "Based on the provided document, here is SoftBank's role and ongoing obligations in the WeWork SPAC merger:\n\n## SoftBank's Role and Ongoing Obligations:\n\n**Board Representation:**\n- **2 nominees** on the post-transaction 9-member board (page 43)\n- **SoftBank Vision Fund** gets **1 nominee** on the board (page 43)\n\n**Financial Commitments:**\n- **$1.1bn Senior Secured SoftBank Notes** outstanding (page 35)\n- **SoftBank Senior Unsecured Notes** with 5.000% coupon, maturing 7/10/2025 totaling $2.2bn (page 35)\n\n**Future Financing Facilities:**\n- The document mentions plans to replace existing facilities with a **$550mm new SoftBank Senior Secured Facility** at 7.5% interest rate (page 34)\n- This new facility would be **available at the earlier of closing of SPAC or August 12, 2021** (page 34)\n\n**Confidence Level:** HIGH - This information is directly stated in the capital structure and board composition sections.\n\n**Caveats:** \n- The document is from March 2021, so some terms may have changed since then\n- Some financing arrangements appear to be subject to the completion of the SPAC transaction\n- The document indicates that SoftBank has been a major investor and lender to WeWork, suggesting ongoing financial involvement beyond what's explicitly detailed\n\nThe document shows SoftBank maintaining significant influence through both debt financing and board representation in the combined entity.",
+    "model": "claude-sonnet-4-20250514",
+    "input_tokens": 80342,
+    "output_tokens": 363,
+    "total_tokens": 80705,
+    "latency_ms": 15916,
+    "timestamp": "2026-01-29T17:51:34.362140",
+    "cost_usd": 0.246471
+  }
+}

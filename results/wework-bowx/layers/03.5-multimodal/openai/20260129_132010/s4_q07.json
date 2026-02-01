@@ -1,0 +1,15 @@
+{
+  "question_id": "q07",
+  "question_text": "What are the key assumptions underlying the projections?",
+  "category": "financial_fundamentals",
+  "response": {
+    "content": "The key assumptions underlying the projections include the following:\n\n1. Revenues and expenses are based on historical operating trends\u30104:0\u2020S-4_A.pdf\u3011.\n2. Average revenue per member is estimated based on historic trends by region and projected using a 2-3% annual growth rate tied to inflation\u30104:0\u2020S-4_A.pdf\u3011.\n3. Membership levels and occupancy rates are estimated assuming a recovery from COVID-19 beginning in the second half of 2021, with long-term forecasts based on historical occupancy curves\u30104:0\u2020S-4_A.pdf\u3011.\n4. Business growth is estimated based on future workstation projections\u30104:0\u2020S-4_A.pdf\u3011.\n5. Cost savings are assumed from restructuring efforts and lease portfolio optimization\u30104:0\u2020S-4_A.pdf\u3011.\n6. The impact of new business lines (WeWork All Access, Marketplace, and Platform) is estimated based on current growth and expectations for increased demand for flexible workspaces as COVID-19 impacts subside\u30104:0\u2020S-4_A.pdf\u3011.\n7. Expectations for recovery and average revenue adjustments are impacted by the COVID-19 pandemic developments\u30104:1\u2020S-4_A.pdf\u3011.\n\nConfidence: HIGH (information is directly stated in the document) \n\nCaveats or limitations noted include economic uncertainties due to the COVID-19 pandemic and its impact on supply and demand, as well as the timing of continued vaccinations and economic re-openings\u30104:0\u2020S-4_A.pdf\u3011.",
+    "model": "gpt-4o",
+    "input_tokens": 17795,
+    "output_tokens": 351,
+    "total_tokens": 18146,
+    "latency_ms": 20630,
+    "timestamp": "2026-01-29T18:23:35.228805",
+    "cost_usd": 0.0479975
+  }
+}

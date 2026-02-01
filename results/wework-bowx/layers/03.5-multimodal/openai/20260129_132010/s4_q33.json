@@ -1,0 +1,15 @@
+{
+  "question_id": "q33",
+  "question_text": "What are the lock-up agreements?",
+  "category": "governance_control",
+  "response": {
+    "content": "The lock-up agreements relate to restrictions on selling or transferring shares to ensure market stability after a merger or public offering. In the context of the SPAC merger involving BowX and WeWork, several parties including the Sponsor, certain officers of BowX, and certain officers and stockholders of WeWork entered into Lock-Up Agreements. These agreements require them not to sell or otherwise dispose of their shares of New WeWork Common Stock (referred to as Lock-Up Shares), enter into swaps, or publicly announce similar intentions during the specified Lock-Up Period\u30104:1\u2020source\u3011\u30104:3\u2020source\u3011.\n\nThe Lock-Up Period is defined as one year or nine months, depending on the agreement details\u30104:2\u2020source\u3011. Specifically, Mr. Neumann, part of these parties, agreed not to sell, transfer, or assign any BowX Common Stock until nine months after the closing date\u30104:4\u2020source\u3011.\n\nThese restrictions can be lifted if the conditions of the lock-up period expire or if the related Merger Agreement is terminated\u30104:4\u2020source\u3011.\n\nConfidence: HIGH, as the information is directly stated in the document.",
+    "model": "gpt-4o",
+    "input_tokens": 17541,
+    "output_tokens": 262,
+    "total_tokens": 17803,
+    "latency_ms": 22663,
+    "timestamp": "2026-01-29T18:33:37.703751",
+    "cost_usd": 0.0464725
+  }
+}

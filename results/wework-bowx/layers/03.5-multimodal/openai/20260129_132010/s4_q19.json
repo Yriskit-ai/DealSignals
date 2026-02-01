@@ -1,0 +1,15 @@
+{
+  "question_id": "q19",
+  "question_text": "What valuation methodology is used to justify the price?",
+  "category": "deal_structure",
+  "response": {
+    "content": "The valuation methodology used to justify the price in the SPAC merger involves a comparison between WeWork's pre-money enterprise valuation and the cash in the trust account, among other factors. The board of directors of BowX considered a pre-money enterprise valuation of approximately $9 billion for WeWork. This valuation was compared to approximately $463 million in the trust account to ensure compliance with the Nasdaq listing requirement that any business acquired must have a fair market value equal to at least 80% of the balance of the funds in the trust account at the time of execution of a definitive agreement. This requirement was determined to be met based on the valuation. The board concluded that the consideration being paid reflected WeWork's value. This determination was made based on qualitative factors such as management strength, competitive positioning, customer relationships, and technical skills, as well as quantitative factors\u30104:19\u2020S-4_A.pdf\u3011. Additionally, it was noted that BowX's board of directors did not obtain a third-party valuation or fairness opinion but relied on the financial skills and background of its directors to determine the fairness of the transaction\u30104:10\u2020S-4_A.pdf\u3011.\n\nConfidence: HIGH (The information is directly stated in the document). \n\nCaveat: The valuation process did not involve an independent third-party valuation or fairness opinion, which could influence the perceived objectivity of the valuation.",
+    "model": "gpt-4o",
+    "input_tokens": 17342,
+    "output_tokens": 313,
+    "total_tokens": 17655,
+    "latency_ms": 24007,
+    "timestamp": "2026-01-29T18:27:36.948952",
+    "cost_usd": 0.046485
+  }
+}

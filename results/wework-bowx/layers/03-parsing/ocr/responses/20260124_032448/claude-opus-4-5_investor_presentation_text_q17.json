@@ -1,0 +1,34 @@
+{
+  "content": "## Analysis: Business at 50% Occupancy\n\n**Not found in document.**\n\nThe provided document does not contain any specific information about what happens to the business at 50% occupancy. While the document appears to be a WeWork confidential presentation (based on the copyright notices on each page), the OCR parsing has captured very limited substantive content.\n\n### Relevant Content Found:\n\nThe only occupancy-related content appears on **Page 25**, which mentions:\n- \"Drives Occupancy - Allows WeWork to drive occupancy beyond physical capacity levels across portfolio based on utilization projections\"\n\nHowever, this does not address what occurs at a 50% occupancy threshold specifically.\n\n### Limitations:\n\n1. **Significant OCR parsing issues**: The document appears to be heavily image-based, with most pages showing only copyright notices and bullet point markers without the actual text content.\n\n2. **Missing data**: Pages contain bullet points (\u2022, \u25cf, \u25cb) but the accompanying text was not captured by the OCR.\n\n3. **Page 24** shows a timeline from 2010-2030 but no associated data or metrics.\n\n### Confidence Level: **N/A** (Information not present)\n\n### Recommendation:\n\nTo properly answer this question, you would need:\n- The original document with complete OCR parsing\n- Financial projections showing break-even analysis\n- Unit economics data at various occupancy levels\n\nThe document likely contains this information in the unparsed visual elements, but it cannot be analyzed from the current extraction.",
+  "model": "claude-opus-4-5",
+  "input_tokens": 1664,
+  "output_tokens": 340,
+  "latency_ms": 9214,
+  "timestamp": "2026-01-24T03:44:49.051488",
+  "cost_usd": 0.01682,
+  "raw_response": {
+    "model": "claude-opus-4-5-20251101",
+    "id": "msg_01RB42k83XYNWwx5mMDRR57o",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "## Analysis: Business at 50% Occupancy\n\n**Not found in document.**\n\nThe provided document does not contain any specific information about what happens to the business at 50% occupancy. While the document appears to be a WeWork confidential presentation (based on the copyright notices on each page), the OCR parsing has captured very limited substantive content.\n\n### Relevant Content Found:\n\nThe only occupancy-related content appears on **Page 25**, which mentions:\n- \"Drives Occupancy - Allows WeWork to drive occupancy beyond physical capacity levels across portfolio based on utilization projections\"\n\nHowever, this does not address what occurs at a 50% occupancy threshold specifically.\n\n### Limitations:\n\n1. **Significant OCR parsing issues**: The document appears to be heavily image-based, with most pages showing only copyright notices and bullet point markers without the actual text content.\n\n2. **Missing data**: Pages contain bullet points (\u2022, \u25cf, \u25cb) but the accompanying text was not captured by the OCR.\n\n3. **Page 24** shows a timeline from 2010-2030 but no associated data or metrics.\n\n### Confidence Level: **N/A** (Information not present)\n\n### Recommendation:\n\nTo properly answer this question, you would need:\n- The original document with complete OCR parsing\n- Financial projections showing break-even analysis\n- Unit economics data at various occupancy levels\n\nThe document likely contains this information in the unparsed visual elements, but it cannot be analyzed from the current extraction."
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "usage": {
+      "input_tokens": 1664,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 340,
+      "service_tier": "standard"
+    }
+  }
+}

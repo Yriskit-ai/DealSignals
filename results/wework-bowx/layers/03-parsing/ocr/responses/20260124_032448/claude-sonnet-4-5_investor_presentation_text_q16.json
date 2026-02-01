@@ -1,0 +1,34 @@
+{
+  "content": "# Analysis: What happens to the business at 70% occupancy?\n\n## Answer:\n**Not found in document.**\n\n## Search Methodology:\nI conducted a thorough search of the provided document for any mention of:\n- \"70% occupancy\" or \"70 percent occupancy\"\n- Specific occupancy thresholds and their business implications\n- Breakeven occupancy levels\n- Financial performance at specific occupancy rates\n\n## What the Document Does Contain:\nThe document does reference occupancy conceptually:\n- **Page 25** mentions \"Drives Occupancy\" as a benefit of the All Access model, stating it \"Allows WeWork to drive occupancy beyond physical capacity levels across portfolio based on utilization projections\"\n\nHowever, no specific occupancy percentage (70% or otherwise) is mentioned with associated business outcomes.\n\n## Confidence Level:\n**HIGH** - I am highly confident this specific information is not in the provided document, as the OCR text appears to be heavily redacted (most pages only show copyright notices and bullet points without content).\n\n## Caveats:\n- The document appears to be heavily redacted or incompletely parsed by OCR\n- Most pages contain only \"\u00a9 2021 WeWork. Confidential.\" and bullet points without actual content\n- The answer to this question may exist in the full, non-redacted version of this presentation",
+  "model": "claude-sonnet-4-5",
+  "input_tokens": 1664,
+  "output_tokens": 305,
+  "latency_ms": 8426,
+  "timestamp": "2026-01-24T03:27:15.788970",
+  "cost_usd": 0.009566999999999999,
+  "raw_response": {
+    "model": "claude-sonnet-4-5-20250929",
+    "id": "msg_014FDeH5VkvF1AiS3CUwLNHQ",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "# Analysis: What happens to the business at 70% occupancy?\n\n## Answer:\n**Not found in document.**\n\n## Search Methodology:\nI conducted a thorough search of the provided document for any mention of:\n- \"70% occupancy\" or \"70 percent occupancy\"\n- Specific occupancy thresholds and their business implications\n- Breakeven occupancy levels\n- Financial performance at specific occupancy rates\n\n## What the Document Does Contain:\nThe document does reference occupancy conceptually:\n- **Page 25** mentions \"Drives Occupancy\" as a benefit of the All Access model, stating it \"Allows WeWork to drive occupancy beyond physical capacity levels across portfolio based on utilization projections\"\n\nHowever, no specific occupancy percentage (70% or otherwise) is mentioned with associated business outcomes.\n\n## Confidence Level:\n**HIGH** - I am highly confident this specific information is not in the provided document, as the OCR text appears to be heavily redacted (most pages only show copyright notices and bullet points without content).\n\n## Caveats:\n- The document appears to be heavily redacted or incompletely parsed by OCR\n- Most pages contain only \"\u00a9 2021 WeWork. Confidential.\" and bullet points without actual content\n- The answer to this question may exist in the full, non-redacted version of this presentation"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "usage": {
+      "input_tokens": 1664,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 305,
+      "service_tier": "standard"
+    }
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "question_id": "q34",
+  "question_text": "What registration rights exist?",
+  "category": "governance_control",
+  "response": {
+    "content": "Not found in document. \n\nConfidence: HIGH (I conducted a search on the document, and no relevant information about registration rights was found). \n\nCaveats: The document might not cover all legal details, especially if it is focused on a different aspect such as financials or operations.",
+    "model": "gpt-4o",
+    "input_tokens": 3681,
+    "output_tokens": 77,
+    "total_tokens": 3758,
+    "latency_ms": 8183,
+    "timestamp": "2026-01-29T18:17:23.737659",
+    "cost_usd": 0.009972499999999999
+  }
+}

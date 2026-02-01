@@ -23,6 +23,8 @@ def test_layer_03_readme_includes_run_commands():
         "LAYER_03_BASE_URL=",
         "LAYER_03_S4_PDF_PATH=",
         "LAYER_03_INVESTOR_PDF_PATH=",
+        "LAYER_03_SKIP_TEXT",
+        "LAYER_03_FORCE_OCR",
     ]
 
     for snippet in required_snippets:

@@ -1,0 +1,15 @@
+{
+  "question_id": "q23",
+  "question_text": "What related-party transactions exist?",
+  "category": "deal_structure",
+  "response": {
+    "content": "Not found in document. My confidence level is HIGH because the search did not return any information on related-party transactions within the provided document.",
+    "model": "gpt-4o",
+    "input_tokens": 3684,
+    "output_tokens": 47,
+    "total_tokens": 3731,
+    "latency_ms": 6447,
+    "timestamp": "2026-01-29T18:15:53.182187",
+    "cost_usd": 0.009680000000000001
+  }
+}

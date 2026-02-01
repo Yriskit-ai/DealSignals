@@ -1,0 +1,80 @@
+{
+  "content": "**Not found in document.** The provided OCR text does not include any figures for **current cash balance**, **cash burn rate (e.g., monthly/quarterly free cash flow or net cash used in operations)**, or an explicit **cash runway** calculation. Most pages contain only confidentiality marks and limited qualitative content (e.g., culture statements on **Page 10** and a brief product description on **Page 25**), with no financial metrics needed to compute runway.\n\n- Evidence of missing financial data: **Pages 1\u20139, 11\u201323, 26\u201344, 47\u201350** show only \u201c\u00a9 2021 WeWork. Confidential.\u201d with no cash/burn figures; **Page 10** contains values/mission statements; **Page 25** discusses \u201cAll Access\u201d benefits; **Pages 45\u201346** show redacted/bulleted content without readable numeric values.  \n\n**Confidence:** HIGH (the required inputs to compute runway are absent from the OCR-provided content).  \n\n**Caveats/limitations:** The OCR appears heavily incomplete/redacted (many pages have only headers or bullet placeholders), so the runway may exist in the underlying slides but is **not recoverable from the provided text** (notably **Pages 45\u201346**).",
+  "model": "gpt-5.2",
+  "input_tokens": 1307,
+  "output_tokens": 268,
+  "latency_ms": 5931,
+  "timestamp": "2026-01-24T03:32:22.548052",
+  "cost_usd": 0.00603925,
+  "raw_response": {
+    "id": "resp_0ddc1195fec66c7c0069743d40d1b0819c83c0f99a64b46ea3",
+    "object": "response",
+    "created_at": 1769225536,
+    "status": "completed",
+    "background": false,
+    "billing": {
+      "payer": "openai"
+    },
+    "completed_at": 1769225542,
+    "error": null,
+    "frequency_penalty": 0,
+    "incomplete_details": null,
+    "instructions": null,
+    "max_output_tokens": null,
+    "max_tool_calls": null,
+    "model": "gpt-5.2-2025-12-11",
+    "output": [
+      {
+        "id": "msg_0ddc1195fec66c7c0069743d410550819cb7b63fbf3c075c6c",
+        "type": "message",
+        "status": "completed",
+        "content": [
+          {
+            "type": "output_text",
+            "annotations": [],
+            "logprobs": [],
+            "text": "**Not found in document.** The provided OCR text does not include any figures for **current cash balance**, **cash burn rate (e.g., monthly/quarterly free cash flow or net cash used in operations)**, or an explicit **cash runway** calculation. Most pages contain only confidentiality marks and limited qualitative content (e.g., culture statements on **Page 10** and a brief product description on **Page 25**), with no financial metrics needed to compute runway.\n\n- Evidence of missing financial data: **Pages 1\u20139, 11\u201323, 26\u201344, 47\u201350** show only \u201c\u00a9 2021 WeWork. Confidential.\u201d with no cash/burn figures; **Page 10** contains values/mission statements; **Page 25** discusses \u201cAll Access\u201d benefits; **Pages 45\u201346** show redacted/bulleted content without readable numeric values.  \n\n**Confidence:** HIGH (the required inputs to compute runway are absent from the OCR-provided content).  \n\n**Caveats/limitations:** The OCR appears heavily incomplete/redacted (many pages have only headers or bullet placeholders), so the runway may exist in the underlying slides but is **not recoverable from the provided text** (notably **Pages 45\u201346**)."
+          }
+        ],
+        "role": "assistant"
+      }
+    ],
+    "parallel_tool_calls": true,
+    "presence_penalty": 0,
+    "previous_response_id": null,
+    "prompt_cache_key": null,
+    "prompt_cache_retention": null,
+    "reasoning": {
+      "effort": "none",
+      "summary": null
+    },
+    "safety_identifier": null,
+    "service_tier": "default",
+    "store": true,
+    "temperature": 1,
+    "text": {
+      "format": {
+        "type": "text"
+      },
+      "verbosity": "medium"
+    },
+    "tool_choice": "auto",
+    "tools": [],
+    "top_logprobs": 0,
+    "top_p": 0.98,
+    "truncation": "disabled",
+    "usage": {
+      "input_tokens": 1307,
+      "input_tokens_details": {
+        "cached_tokens": 0
+      },
+      "output_tokens": 268,
+      "output_tokens_details": {
+        "reasoning_tokens": 0
+      },
+      "total_tokens": 1575
+    },
+    "user": null,
+    "metadata": {}
+  }
+}

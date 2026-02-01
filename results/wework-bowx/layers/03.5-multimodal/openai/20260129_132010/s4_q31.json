@@ -1,0 +1,15 @@
+{
+  "question_id": "q31",
+  "question_text": "What is the board composition post-merger?",
+  "category": "governance_control",
+  "response": {
+    "content": "The board composition post-merger, known as New WeWork, is structured with nine directors. This includes:\n\n1. Three directors designated by SBWW:\n   - Michel Combes\n   - Marcelo Claure (who will serve as Executive Chairman)\n   - V\u00e9ronique Laury\n\n2. One director designated by SVFE, initially Kirthiga Reddy.\n\n3. One director designated by Benchmark Capital Partners, initially Bruce Dunlevie.\n\n4. One director designated by Insight Partners, initially Deven Parekh.\n\n5. One director designated by the Sponsor, initially Vivek Ranadiv\u00e9.\n\n6. The Chief Executive Officer of New WeWork, initially Sandeep Mathrani.\n\n7. Jeff Sine\u30104:2\u2020source\u3011.",
+    "model": "gpt-4o",
+    "input_tokens": 17980,
+    "output_tokens": 200,
+    "total_tokens": 18180,
+    "latency_ms": 22033,
+    "timestamp": "2026-01-29T18:32:51.306716",
+    "cost_usd": 0.04695
+  }
+}

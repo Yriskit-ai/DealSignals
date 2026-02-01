@@ -1,0 +1,34 @@
+{
+  "content": "## Analysis: Occupancy Rate and Trends\n\n### Answer\n\n**Not found in document.**\n\nThe provided document does not contain specific occupancy rate figures or historical occupancy trend data. While the document references occupancy conceptually on **Page 25**, which discusses the \"All Access\" product and states it \"Allows WeWork to drive occupancy beyond physical capacity levels across portfolio based on utilization projections,\" this is a description of a product feature rather than actual occupancy metrics or historical trends.\n\n### What the Document Does Contain\n\n**Page 25** mentions occupancy in the context of the \"All Access\" subscription product:\n- \"Drives Occupancy: Allows WeWork to drive occupancy beyond physical capacity levels across portfolio based on utilization projections\"\n\nThis indicates WeWork has a strategy to maximize occupancy through subscription-based access, but no specific percentages, historical data, or trend information is provided.\n\n### Caveats and Limitations\n\n1. **OCR Quality Issues**: The document appears to have significant OCR parsing problems, with many pages showing only copyright notices and bullet points without substantive content\n2. **Missing Data**: Key financial metrics, charts, and detailed text appear to be missing from the parsed output\n3. **Incomplete Information**: Page 24 shows a timeline (2010-2030) that likely contained relevant data or charts that were not captured in the OCR\n\n### Confidence Level\n\n**LOW** - The document in its current parsed form does not provide the requested information. The actual presentation likely contained occupancy data that was not captured by the OCR process.\n\n### Recommendation\n\nRequest the original document or a better-quality OCR scan to obtain actual occupancy rate figures and trend data for proper due diligence analysis.",
+  "model": "claude-opus-4-5",
+  "input_tokens": 1664,
+  "output_tokens": 380,
+  "latency_ms": 9826,
+  "timestamp": "2026-01-24T03:43:42.899206",
+  "cost_usd": 0.01782,
+  "raw_response": {
+    "model": "claude-opus-4-5-20251101",
+    "id": "msg_01PpcZcWp7cRZai55kdTzhkd",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "## Analysis: Occupancy Rate and Trends\n\n### Answer\n\n**Not found in document.**\n\nThe provided document does not contain specific occupancy rate figures or historical occupancy trend data. While the document references occupancy conceptually on **Page 25**, which discusses the \"All Access\" product and states it \"Allows WeWork to drive occupancy beyond physical capacity levels across portfolio based on utilization projections,\" this is a description of a product feature rather than actual occupancy metrics or historical trends.\n\n### What the Document Does Contain\n\n**Page 25** mentions occupancy in the context of the \"All Access\" subscription product:\n- \"Drives Occupancy: Allows WeWork to drive occupancy beyond physical capacity levels across portfolio based on utilization projections\"\n\nThis indicates WeWork has a strategy to maximize occupancy through subscription-based access, but no specific percentages, historical data, or trend information is provided.\n\n### Caveats and Limitations\n\n1. **OCR Quality Issues**: The document appears to have significant OCR parsing problems, with many pages showing only copyright notices and bullet points without substantive content\n2. **Missing Data**: Key financial metrics, charts, and detailed text appear to be missing from the parsed output\n3. **Incomplete Information**: Page 24 shows a timeline (2010-2030) that likely contained relevant data or charts that were not captured in the OCR\n\n### Confidence Level\n\n**LOW** - The document in its current parsed form does not provide the requested information. The actual presentation likely contained occupancy data that was not captured by the OCR process.\n\n### Recommendation\n\nRequest the original document or a better-quality OCR scan to obtain actual occupancy rate figures and trend data for proper due diligence analysis."
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "usage": {
+      "input_tokens": 1664,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 380,
+      "service_tier": "standard"
+    }
+  }
+}

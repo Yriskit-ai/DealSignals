@@ -1,0 +1,80 @@
+{
+  "content": "## Occupancy rate (definition)\n**Not found in document.** The provided OCR text does not include a definition of \u201coccupancy rate,\u201d nor a formula or description of how WeWork calculates it (no readable definition appears in the pages provided; most pages are only \u201c\u00a9 2021 WeWork. Confidential.\u201d, and the only legible business content is qualitative).  \n- Evidence of limited/qualitative content only: Page 25 discusses \u201cDrives Occupancy\u201d in connection with All Access but does **not** define occupancy rate or provide a metric definition (Page 25).  \n- Page 45 appears to contain a partially redacted/incomplete formula (\u201c\u2026 divided by \u2026\u201d) but the OCR does not show what metric it relates to, and it does not explicitly state \u201coccupancy rate\u201d (Page 45).\n\n## Occupancy rate trend\n**Not found in document.** No occupancy rate values, time series, chart labels, or trend commentary are readable in the OCR-provided pages. While a timeline axis appears (\u201c2010\u20262030\u201d), it contains no associated occupancy data (Page 24).  \n\n## Caveats / limitations\n- The OCR output is largely blank or redacted across most pages (Pages 1\u20139, 11\u201323, 26\u201344, 47\u201350 show no usable occupancy metric data beyond confidentiality markings or bullets). This prevents verifying any definition or trend from the document text provided.\n- Any inference about occupancy or trends would be speculative and is therefore not provided per instructions.\n\n**Confidence: HIGH** (that the definition and trend are not present/readable in the provided OCR text, based on the cited pages).",
+  "model": "gpt-5.2",
+  "input_tokens": 1308,
+  "output_tokens": 343,
+  "latency_ms": 9947,
+  "timestamp": "2026-01-24T03:33:00.436686",
+  "cost_usd": 0.007091,
+  "raw_response": {
+    "id": "resp_04eaed2566a068260069743d6346dc819f932444a497543f3f",
+    "object": "response",
+    "created_at": 1769225571,
+    "status": "completed",
+    "background": false,
+    "billing": {
+      "payer": "openai"
+    },
+    "completed_at": 1769225580,
+    "error": null,
+    "frequency_penalty": 0,
+    "incomplete_details": null,
+    "instructions": null,
+    "max_output_tokens": null,
+    "max_tool_calls": null,
+    "model": "gpt-5.2-2025-12-11",
+    "output": [
+      {
+        "id": "msg_04eaed2566a068260069743d638238819fa51205d79d586c1d",
+        "type": "message",
+        "status": "completed",
+        "content": [
+          {
+            "type": "output_text",
+            "annotations": [],
+            "logprobs": [],
+            "text": "## Occupancy rate (definition)\n**Not found in document.** The provided OCR text does not include a definition of \u201coccupancy rate,\u201d nor a formula or description of how WeWork calculates it (no readable definition appears in the pages provided; most pages are only \u201c\u00a9 2021 WeWork. Confidential.\u201d, and the only legible business content is qualitative).  \n- Evidence of limited/qualitative content only: Page 25 discusses \u201cDrives Occupancy\u201d in connection with All Access but does **not** define occupancy rate or provide a metric definition (Page 25).  \n- Page 45 appears to contain a partially redacted/incomplete formula (\u201c\u2026 divided by \u2026\u201d) but the OCR does not show what metric it relates to, and it does not explicitly state \u201coccupancy rate\u201d (Page 45).\n\n## Occupancy rate trend\n**Not found in document.** No occupancy rate values, time series, chart labels, or trend commentary are readable in the OCR-provided pages. While a timeline axis appears (\u201c2010\u20262030\u201d), it contains no associated occupancy data (Page 24).  \n\n## Caveats / limitations\n- The OCR output is largely blank or redacted across most pages (Pages 1\u20139, 11\u201323, 26\u201344, 47\u201350 show no usable occupancy metric data beyond confidentiality markings or bullets). This prevents verifying any definition or trend from the document text provided.\n- Any inference about occupancy or trends would be speculative and is therefore not provided per instructions.\n\n**Confidence: HIGH** (that the definition and trend are not present/readable in the provided OCR text, based on the cited pages)."
+          }
+        ],
+        "role": "assistant"
+      }
+    ],
+    "parallel_tool_calls": true,
+    "presence_penalty": 0,
+    "previous_response_id": null,
+    "prompt_cache_key": null,
+    "prompt_cache_retention": null,
+    "reasoning": {
+      "effort": "none",
+      "summary": null
+    },
+    "safety_identifier": null,
+    "service_tier": "default",
+    "store": true,
+    "temperature": 1,
+    "text": {
+      "format": {
+        "type": "text"
+      },
+      "verbosity": "medium"
+    },
+    "tool_choice": "auto",
+    "tools": [],
+    "top_logprobs": 0,
+    "top_p": 0.98,
+    "truncation": "disabled",
+    "usage": {
+      "input_tokens": 1308,
+      "input_tokens_details": {
+        "cached_tokens": 1152
+      },
+      "output_tokens": 343,
+      "output_tokens_details": {
+        "reasoning_tokens": 0
+      },
+      "total_tokens": 1651
+    },
+    "user": null,
+    "metadata": {}
+  }
+}

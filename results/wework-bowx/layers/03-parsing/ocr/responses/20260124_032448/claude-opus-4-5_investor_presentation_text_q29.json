@@ -1,0 +1,34 @@
+{
+  "content": "## Analysis: Auditor Statement\n\n**Answer:** Not found in document.\n\n**Explanation:** The provided document does not contain any information regarding auditor statements, auditor opinions, audit reports, or any commentary from auditors. The document appears to be a WeWork confidential presentation from 2021, but the OCR parsing has captured primarily:\n- Copyright notices (\"\u00a9 2021 WeWork. Confidential.\")\n- Bullet point markers (\u2022, \u25cf, \u25cb)\n- Corporate values/culture statements (Page 10)\n- Brief descriptions of an \"All Access\" product offering (Page 25)\n- A timeline spanning 2010-2030 (Page 24)\n- Various formatting elements\n\n**Confidence Level:** HIGH (that the information is not present)\n\n**Caveats/Limitations:**\n1. The OCR parsing appears to have failed to capture most substantive content from this document - primarily only formatting elements and copyright notices were extracted\n2. The actual document likely contains more information that was not successfully parsed\n3. Any auditor statements, if they existed in the original document, were not captured in this OCR output\n4. This appears to be an investor presentation rather than an audit report or financial filing where auditor opinions would typically appear\n\n**Recommendation:** Request a properly parsed version of this document or the original source file, as well as any separate audit reports or SEC filings (such as Form S-4 or proxy statements) that would contain auditor opinions for due diligence purposes.",
+  "model": "claude-opus-4-5",
+  "input_tokens": 1659,
+  "output_tokens": 333,
+  "latency_ms": 9417,
+  "timestamp": "2026-01-24T03:46:56.231695",
+  "cost_usd": 0.016620000000000003,
+  "raw_response": {
+    "model": "claude-opus-4-5-20251101",
+    "id": "msg_01F6MQhU6yz2z9HRGBFNUrqt",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "## Analysis: Auditor Statement\n\n**Answer:** Not found in document.\n\n**Explanation:** The provided document does not contain any information regarding auditor statements, auditor opinions, audit reports, or any commentary from auditors. The document appears to be a WeWork confidential presentation from 2021, but the OCR parsing has captured primarily:\n- Copyright notices (\"\u00a9 2021 WeWork. Confidential.\")\n- Bullet point markers (\u2022, \u25cf, \u25cb)\n- Corporate values/culture statements (Page 10)\n- Brief descriptions of an \"All Access\" product offering (Page 25)\n- A timeline spanning 2010-2030 (Page 24)\n- Various formatting elements\n\n**Confidence Level:** HIGH (that the information is not present)\n\n**Caveats/Limitations:**\n1. The OCR parsing appears to have failed to capture most substantive content from this document - primarily only formatting elements and copyright notices were extracted\n2. The actual document likely contains more information that was not successfully parsed\n3. Any auditor statements, if they existed in the original document, were not captured in this OCR output\n4. This appears to be an investor presentation rather than an audit report or financial filing where auditor opinions would typically appear\n\n**Recommendation:** Request a properly parsed version of this document or the original source file, as well as any separate audit reports or SEC filings (such as Form S-4 or proxy statements) that would contain auditor opinions for due diligence purposes."
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "usage": {
+      "input_tokens": 1659,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 333,
+      "service_tier": "standard"
+    }
+  }
+}

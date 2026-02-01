@@ -1,0 +1,15 @@
+{
+  "question_id": "q02",
+  "question_text": "What is the revenue growth rate year-over-year?",
+  "category": "financial_fundamentals",
+  "response": {
+    "content": "The document states that the total revenue grew by 90% year-over-year from 2018 to 2019, increasing from $1.82 billion to $3.46 billion\u30104:0\u2020S-4_A.pdf\u3011. This suggests a high confidence level, as the data is directly stated in the document. However, the revenue growth rate for other years, such as 2020, is affected by specific circumstances like the impact of COVID-19, which reduced both membership and average revenue per member\u30104:1\u2020S-4_A.pdf\u3011. Please note there may be variation in the growth rate depending on specific components of revenue and external factors.",
+    "model": "gpt-4o",
+    "input_tokens": 16812,
+    "output_tokens": 160,
+    "total_tokens": 16972,
+    "latency_ms": 10769,
+    "timestamp": "2026-01-29T18:21:37.899594",
+    "cost_usd": 0.043629999999999995
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "question_id": "q13",
+  "question_text": "What are total lease obligations?",
+  "category": "obligations_exposure",
+  "response": {
+    "content": "The total lease obligations are reported as $19,851,075 as of June 30, 2021\u30104:1\u2020source\u3011. \n\nConfidence level: HIGH (directly stated)",
+    "model": "gpt-4o",
+    "input_tokens": 16848,
+    "output_tokens": 63,
+    "total_tokens": 16911,
+    "latency_ms": 21649,
+    "timestamp": "2026-01-29T18:25:38.784458",
+    "cost_usd": 0.042749999999999996
+  }
+}

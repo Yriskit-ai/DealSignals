@@ -65,6 +65,28 @@ def test_submit_job_uses_expected_payload(tmp_path, mock_transport):
     assert b"sample.pdf" in body
 
 
+def test_submit_pdf_includes_options(tmp_path, mock_transport):
+    pdf_path = tmp_path / "sample-options.pdf"
+    pdf_path.write_bytes(b"%PDF-1.4 sample")
+
+    with OcrClient(base_url="http://localhost:8000", transport=mock_transport) as client:
+        job_id = client.submit_pdf(
+            file_path=str(pdf_path),
+            run_id="run_123",
+            document_id="doc_456",
+            parser_profile="ocrmypdf_tesseract_v1",
+            callback_url="http://localhost/callback",
+            options={"skip_text": True, "force_ocr": False},
+        )
+
+    assert job_id == "job_abc"
+    body = mock_transport.captured["body"]
+    assert b'name="skip_text"' in body
+    assert b'name="force_ocr"' in body
+    assert b"true" in body
+    assert b"false" in body
+
+
 def test_submit_pdf_raises_when_job_id_missing(tmp_path):
     transport = build_transport(200, {"status": "queued"})
     pdf_path = tmp_path / "missing-job.pdf"

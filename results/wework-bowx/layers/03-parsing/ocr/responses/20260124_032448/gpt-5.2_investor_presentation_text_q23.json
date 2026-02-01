@@ -1,0 +1,80 @@
+{
+  "content": "## Related-party transactions identified\n**Not found in document.** The OCR text provided does not include any disclosures or descriptions of related-party transactions (e.g., transactions with sponsors, founders, affiliates, executives, or significant shareholders). Most pages contain only the \u201c\u00a9 2021 WeWork. Confidential.\u201d footer and/or bullet placeholders without readable transaction details (e.g., Pages **1\u20139, 11\u201323, 26\u201350**; the only substantive readable content appears to be cultural statements on **Page 10** and a product description on **Page 25**, neither of which discusses related-party transactions).\n\n## Caveats / limitations\n- The document appears **heavily OCR-degraded**, with many pages showing only placeholders (\u201c\u2022\u201d) and no legible content (e.g., **Pages 6, 9, 15, 22\u201323, 27, 37\u201338, 45\u201346, 50**), so related-party transaction disclosures **could exist in the original** but are **not captured** in the provided text.\n\n**Confidence: HIGH** (that related-party transactions are **not present in the provided OCR text**; not a statement about the original underlying document).",
+  "model": "gpt-5.2",
+  "input_tokens": 1303,
+  "output_tokens": 251,
+  "latency_ms": 5937,
+  "timestamp": "2026-01-24T03:34:13.141917",
+  "cost_usd": 0.005794249999999999,
+  "raw_response": {
+    "id": "resp_06f743c8aa2230dd0069743daf8310819384a08772588c7dab",
+    "object": "response",
+    "created_at": 1769225647,
+    "status": "completed",
+    "background": false,
+    "billing": {
+      "payer": "openai"
+    },
+    "completed_at": 1769225652,
+    "error": null,
+    "frequency_penalty": 0,
+    "incomplete_details": null,
+    "instructions": null,
+    "max_output_tokens": null,
+    "max_tool_calls": null,
+    "model": "gpt-5.2-2025-12-11",
+    "output": [
+      {
+        "id": "msg_06f743c8aa2230dd0069743dafc0288193b182ee6a013e509e",
+        "type": "message",
+        "status": "completed",
+        "content": [
+          {
+            "type": "output_text",
+            "annotations": [],
+            "logprobs": [],
+            "text": "## Related-party transactions identified\n**Not found in document.** The OCR text provided does not include any disclosures or descriptions of related-party transactions (e.g., transactions with sponsors, founders, affiliates, executives, or significant shareholders). Most pages contain only the \u201c\u00a9 2021 WeWork. Confidential.\u201d footer and/or bullet placeholders without readable transaction details (e.g., Pages **1\u20139, 11\u201323, 26\u201350**; the only substantive readable content appears to be cultural statements on **Page 10** and a product description on **Page 25**, neither of which discusses related-party transactions).\n\n## Caveats / limitations\n- The document appears **heavily OCR-degraded**, with many pages showing only placeholders (\u201c\u2022\u201d) and no legible content (e.g., **Pages 6, 9, 15, 22\u201323, 27, 37\u201338, 45\u201346, 50**), so related-party transaction disclosures **could exist in the original** but are **not captured** in the provided text.\n\n**Confidence: HIGH** (that related-party transactions are **not present in the provided OCR text**; not a statement about the original underlying document)."
+          }
+        ],
+        "role": "assistant"
+      }
+    ],
+    "parallel_tool_calls": true,
+    "presence_penalty": 0,
+    "previous_response_id": null,
+    "prompt_cache_key": null,
+    "prompt_cache_retention": null,
+    "reasoning": {
+      "effort": "none",
+      "summary": null
+    },
+    "safety_identifier": null,
+    "service_tier": "default",
+    "store": true,
+    "temperature": 1,
+    "text": {
+      "format": {
+        "type": "text"
+      },
+      "verbosity": "medium"
+    },
+    "tool_choice": "auto",
+    "tools": [],
+    "top_logprobs": 0,
+    "top_p": 0.98,
+    "truncation": "disabled",
+    "usage": {
+      "input_tokens": 1303,
+      "input_tokens_details": {
+        "cached_tokens": 1152
+      },
+      "output_tokens": 251,
+      "output_tokens_details": {
+        "reasoning_tokens": 0
+      },
+      "total_tokens": 1554
+    },
+    "user": null,
+    "metadata": {}
+  }
+}

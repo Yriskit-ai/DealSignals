@@ -1,0 +1,15 @@
+{
+  "question_id": "q25",
+  "question_text": "What is Adam Neumann's ongoing relationship/exposure?",
+  "category": "risk_red_flags",
+  "response": {
+    "content": "Based on my review of the provided WeWork SPAC merger document, I found no information about Adam Neumann's ongoing relationship or exposure to WeWork.\n\n**Not found in document.**\n\n**Confidence: HIGH** - I thoroughly reviewed all pages of the document and found no mention of Adam Neumann, his ownership stake, board positions, ongoing contracts, or any other form of relationship or exposure to the company.\n\n**Key observations:**\n- Page 4 shows the current presenters (Sandeep Mathrani as CEO, Ben Dunham as CFO, Vivek Ranadiv\u00e9 as Chairman/Co-CEO of BowX, and Murray Rode as Co-CEO/CFO of BowX)\n- Page 8 details the experienced management team but does not mention Neumann\n- Page 37 shows the pro forma ownership structure post-transaction, breaking down ownership between BowX shares, PIPE shares, BowX Founder shares, and existing WeWork rollover equity, but provides no details about specific individuals\n- Page 43 outlines the proposed board composition, which includes various institutional representatives but no mention of Neumann\n\n**Caveat:** This document appears to be a March 2021 investor presentation focused on the SPAC transaction structure and financial projections. More detailed information about individual stakeholder relationships might be found in the actual proxy statement/prospectus referenced on page 2, which was expected to be filed with the SEC.",
+    "model": "claude-sonnet-4-20250514",
+    "input_tokens": 80343,
+    "output_tokens": 323,
+    "total_tokens": 80666,
+    "latency_ms": 14567,
+    "timestamp": "2026-01-29T17:52:18.884688",
+    "cost_usd": 0.24587399999999998
+  }
+}

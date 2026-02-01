@@ -1,0 +1,15 @@
+{
+  "question_id": "q26",
+  "question_text": "What are the top disclosed risk factors?",
+  "category": "risk_red_flags",
+  "response": {
+    "content": "I cannot find a section specifically dedicated to \"risk factors\" in this document. The document appears to be a SPAC merger presentation from March 2021 focused on WeWork's business overview, financial projections, and transaction details.\n\nHowever, I can identify several business challenges and risks that are implicitly mentioned throughout the document:\n\n**Operational Risks (inferred from content):**\n- COVID-19 impact on occupancy rates (page 15 shows physical occupancy dropped to 46% in 2020A vs 72% in 2019A)\n- Heavy lease obligations and fixed cost structure\n- Dependency on real estate markets and occupancy levels\n\n**Financial Risks (mentioned on pages 2-3 in disclaimers):**\n- Forward-looking statements carry inherent uncertainty and risk\n- Actual results may differ materially from projections\n- Business model subject to various market and operational factors\n\n**Regulatory/Legal Disclaimers (page 2):**\n- SEC filing requirements and regulatory compliance\n- Potential legal and tax implications of the transaction\n\n**Confidence: MEDIUM** - While risk factors are not explicitly listed in a dedicated section, these risks can be derived from the business model description, financial data, and standard disclaimer language.\n\n**Caveat:** This appears to be a business presentation rather than a formal SEC filing, which would typically contain a comprehensive \"Risk Factors\" section. For detailed risk disclosures, investors would need to review the actual proxy statement/prospectus referenced in the disclaimers.",
+    "model": "claude-sonnet-4-20250514",
+    "input_tokens": 80339,
+    "output_tokens": 336,
+    "total_tokens": 80675,
+    "latency_ms": 14869,
+    "timestamp": "2026-01-29T17:52:33.792155",
+    "cost_usd": 0.24605699999999997
+  }
+}

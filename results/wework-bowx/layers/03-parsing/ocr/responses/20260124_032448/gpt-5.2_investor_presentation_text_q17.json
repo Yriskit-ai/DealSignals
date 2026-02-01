@@ -1,0 +1,80 @@
+{
+  "content": "**Not found in document.** The provided OCR text does not include any statement or section describing what happens to the business at **50% occupancy** (e.g., profitability, cash burn, break-even, unit economics, or operational impacts). Most pages are redacted/blank in the OCR output, with only limited non-financial content visible (e.g., values on **p.10** and a high-level \u201cAll Access\u201d description on **p.25**), and none mentions \u201c50% occupancy.\u201d **(Pages 1\u201350; specifically p.10, p.25)**\n\n**Confidence:** HIGH (directly absent from provided text)\n\n**Caveats / limitations:** The OCR appears incomplete/redacted across many pages (numerous pages show only \u201c\u00a9 2021 WeWork. Confidential.\u201d or bullet placeholders), so the underlying original document may contain the occupancy analysis, but it is **not available in the provided OCR-parsed extract**. **(Pages 1\u201350)**",
+  "model": "gpt-5.2",
+  "input_tokens": 1308,
+  "output_tokens": 208,
+  "latency_ms": 6143,
+  "timestamp": "2026-01-24T03:33:40.783958",
+  "cost_usd": 0.005200999999999999,
+  "raw_response": {
+    "id": "resp_0d8aaa1bdd5d74020069743d8f3ffc8192aadaf6d9c20469dc",
+    "object": "response",
+    "created_at": 1769225615,
+    "status": "completed",
+    "background": false,
+    "billing": {
+      "payer": "openai"
+    },
+    "completed_at": 1769225620,
+    "error": null,
+    "frequency_penalty": 0,
+    "incomplete_details": null,
+    "instructions": null,
+    "max_output_tokens": null,
+    "max_tool_calls": null,
+    "model": "gpt-5.2-2025-12-11",
+    "output": [
+      {
+        "id": "msg_0d8aaa1bdd5d74020069743d8fbf8c8192ba89c0112efd52dd",
+        "type": "message",
+        "status": "completed",
+        "content": [
+          {
+            "type": "output_text",
+            "annotations": [],
+            "logprobs": [],
+            "text": "**Not found in document.** The provided OCR text does not include any statement or section describing what happens to the business at **50% occupancy** (e.g., profitability, cash burn, break-even, unit economics, or operational impacts). Most pages are redacted/blank in the OCR output, with only limited non-financial content visible (e.g., values on **p.10** and a high-level \u201cAll Access\u201d description on **p.25**), and none mentions \u201c50% occupancy.\u201d **(Pages 1\u201350; specifically p.10, p.25)**\n\n**Confidence:** HIGH (directly absent from provided text)\n\n**Caveats / limitations:** The OCR appears incomplete/redacted across many pages (numerous pages show only \u201c\u00a9 2021 WeWork. Confidential.\u201d or bullet placeholders), so the underlying original document may contain the occupancy analysis, but it is **not available in the provided OCR-parsed extract**. **(Pages 1\u201350)**"
+          }
+        ],
+        "role": "assistant"
+      }
+    ],
+    "parallel_tool_calls": true,
+    "presence_penalty": 0,
+    "previous_response_id": null,
+    "prompt_cache_key": null,
+    "prompt_cache_retention": null,
+    "reasoning": {
+      "effort": "none",
+      "summary": null
+    },
+    "safety_identifier": null,
+    "service_tier": "default",
+    "store": true,
+    "temperature": 1,
+    "text": {
+      "format": {
+        "type": "text"
+      },
+      "verbosity": "medium"
+    },
+    "tool_choice": "auto",
+    "tools": [],
+    "top_logprobs": 0,
+    "top_p": 0.98,
+    "truncation": "disabled",
+    "usage": {
+      "input_tokens": 1308,
+      "input_tokens_details": {
+        "cached_tokens": 1152
+      },
+      "output_tokens": 208,
+      "output_tokens_details": {
+        "reasoning_tokens": 0
+      },
+      "total_tokens": 1516
+    },
+    "user": null,
+    "metadata": {}
+  }
+}

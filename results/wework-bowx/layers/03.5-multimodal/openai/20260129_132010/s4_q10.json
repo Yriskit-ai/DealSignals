@@ -1,0 +1,15 @@
+{
+  "question_id": "q10",
+  "question_text": "What is occupancy rate and how has it trended?",
+  "category": "unit_economics",
+  "response": {
+    "content": "The occupancy rate is calculated by dividing the number of WeWork memberships and WeWork All Access memberships by workstation capacity in a location. It is a measure of how full the workspaces are\u30104:0\u2020source\u3011.\n\nAs for the trend, the occupancy rate as of June 1, 2021, was 55%, slightly down from 58% on June 1, 2020\u30104:0\u2020source\u3011. However, anticipated trends show an increase in occupancy in the coming years, predicting occupancy to rise to 74% in 2021, and projected to reach 86%-87% in 2023 and 2024\u30104:2\u2020source\u3011.\n\nConfidence: HIGH (The information is directly stated in the document)\n\nCaveat: The projections regarding future occupancy rates can be influenced by a variety of factors including external economic conditions and company-specific operational changes.",
+    "model": "gpt-4o",
+    "input_tokens": 17263,
+    "output_tokens": 219,
+    "total_tokens": 17482,
+    "latency_ms": 19995,
+    "timestamp": "2026-01-29T18:24:44.120295",
+    "cost_usd": 0.0453475
+  }
+}

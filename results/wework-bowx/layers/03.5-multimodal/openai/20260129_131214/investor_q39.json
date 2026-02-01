@@ -1,0 +1,15 @@
+{
+  "question_id": "q39",
+  "question_text": "What debt covenants and restrictions existed?",
+  "category": "synthesis_judgment",
+  "response": {
+    "content": "Not found in document. \n\nConfidence: HIGH (I searched the document thoroughly for references to debt covenants and restrictions). \n\nCaveats: The document might not be the complete set of financial statements or legal agreements where such information is typically detailed.",
+    "model": "gpt-4o",
+    "input_tokens": 3715,
+    "output_tokens": 97,
+    "total_tokens": 3812,
+    "latency_ms": 13559,
+    "timestamp": "2026-01-29T18:18:10.667832",
+    "cost_usd": 0.010257500000000001
+  }
+}

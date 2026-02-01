@@ -1,0 +1,15 @@
+{
+  "question_id": "q35",
+  "question_text": "What was the market context at deal time?",
+  "category": "governance_control",
+  "response": {
+    "content": "Based on the document, this WeWork SPAC merger presentation was from March 2021. Here's the market context at deal time:\n\n**COVID-19 Impact and Recovery Context:**\n- The presentation occurred during the pandemic recovery period (page 19-20)\n- COVID had \"accelerated flexible workspace trends as businesses face uncertainty around return to work and seek greater flexibility\" (page 19)\n- WeWork had weathered 2020 successfully, with the company \"repositioned and on the path to recovery\" (page 14)\n\n**WeWork's Specific Situation:**\n- The company had undergone a \"significant turnaround in 2020\" after the failed IPO attempt in 2019 (page 13)\n- WeWork had achieved major cost optimization, with ~$1.1B in functional expense savings and ~$400M in OpEx savings in 2020 (page 15)\n- Strategic asset exits and portfolio strengthening had occurred throughout 2020-2021 (page 14)\n\n**Market Opportunity:**\n- The document positioned this as a compelling moment due to the \"intersection of value, growth & aspiration\" (page 6)\n- COVID was presented as having accelerated the shift to flexible workspace solutions (page 21)\n- The flexible workspace market was projected to grow significantly, with WeWork positioned to capture market share in the \"multi-trillion dollar global office real estate market\" (page 23)\n\n**SPAC Transaction Details:**\n- $1.283 billion total cash proceeds, including $800 million PIPE at $10.00 per share (page 36)\n- 100% primary use of proceeds (page 36)\n\n**Confidence Level:** HIGH - This information is directly stated throughout the presentation with specific page references.",
+    "model": "claude-sonnet-4-20250514",
+    "input_tokens": 80340,
+    "output_tokens": 394,
+    "total_tokens": 80734,
+    "latency_ms": 17278,
+    "timestamp": "2026-01-29T18:06:39.141088",
+    "cost_usd": 0.24692999999999998
+  }
+}

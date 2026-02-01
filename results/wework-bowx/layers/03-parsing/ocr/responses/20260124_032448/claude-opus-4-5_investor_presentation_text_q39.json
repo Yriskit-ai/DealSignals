@@ -1,0 +1,34 @@
+{
+  "content": "## Analysis: Debt Covenants and Restrictions\n\n**Answer: Not found in document.**\n\nThe provided OCR-parsed document does not contain any information about debt covenants, restrictions, or related financial terms. The document appears to be a WeWork confidential presentation from 2021, but the OCR parsing has captured very limited substantive content. \n\n### What the document contains:\n- Copyright notices (\"\u00a9 2021 WeWork. Confidential.\") on every page\n- Company values/mission statement text (Page 10)\n- Brief description of an \"All Access\" subscription product model (Page 25)\n- Various bullet point markers without accompanying text\n- A timeline spanning 2010-2030 (Page 24)\n- Partial definitions or metrics references (Page 45-46)\n\n### Limitations:\nThe OCR parsing appears to have failed to capture most of the substantive text content from this document. Only fragments and formatting elements (bullet points, copyright notices) were extracted. Any debt covenant information that may have existed in the original document was not successfully parsed.\n\n**Confidence Level: HIGH** (that the information is not present in the *parsed* document - it is definitively not included in the text provided)\n\n**Caveat:** The original source document may contain debt covenant information that was not captured by the OCR process. A properly parsed version of this document would be needed to provide a complete answer to this question.",
+  "model": "claude-opus-4-5",
+  "input_tokens": 1661,
+  "output_tokens": 316,
+  "latency_ms": 8598,
+  "timestamp": "2026-01-24T03:48:35.766096",
+  "cost_usd": 0.016204999999999997,
+  "raw_response": {
+    "model": "claude-opus-4-5-20251101",
+    "id": "msg_01UribeuZ3ayJpiyupPoSkAa",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "## Analysis: Debt Covenants and Restrictions\n\n**Answer: Not found in document.**\n\nThe provided OCR-parsed document does not contain any information about debt covenants, restrictions, or related financial terms. The document appears to be a WeWork confidential presentation from 2021, but the OCR parsing has captured very limited substantive content. \n\n### What the document contains:\n- Copyright notices (\"\u00a9 2021 WeWork. Confidential.\") on every page\n- Company values/mission statement text (Page 10)\n- Brief description of an \"All Access\" subscription product model (Page 25)\n- Various bullet point markers without accompanying text\n- A timeline spanning 2010-2030 (Page 24)\n- Partial definitions or metrics references (Page 45-46)\n\n### Limitations:\nThe OCR parsing appears to have failed to capture most of the substantive text content from this document. Only fragments and formatting elements (bullet points, copyright notices) were extracted. Any debt covenant information that may have existed in the original document was not successfully parsed.\n\n**Confidence Level: HIGH** (that the information is not present in the *parsed* document - it is definitively not included in the text provided)\n\n**Caveat:** The original source document may contain debt covenant information that was not captured by the OCR process. A properly parsed version of this document would be needed to provide a complete answer to this question."
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "usage": {
+      "input_tokens": 1661,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 316,
+      "service_tier": "standard"
+    }
+  }
+}

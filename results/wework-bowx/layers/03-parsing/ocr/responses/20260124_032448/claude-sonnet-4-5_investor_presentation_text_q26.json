@@ -1,0 +1,34 @@
+{
+  "content": "# Answer: Risk Factors\n\n**Not found in document.**\n\n## Confidence: HIGH\n\n## Explanation:\nThe provided OCR-parsed document does not contain any disclosed risk factors. The document appears to be a WeWork investor presentation from 2021 that includes information about:\n- Company values and culture (Page 10)\n- Business model details including \"All Access\" product description (Page 25)\n- Various bullet points and sections (indicated by bullet markers throughout)\n- Timeline graphics (Page 24 showing years 2010-2030)\n\nHowever, there is no section dedicated to risk factors, and no specific risks are discussed or disclosed in the extracted text portions of this document.\n\n## Caveat:\nIt's important to note that this appears to be an incomplete OCR parsing of the document, as most pages only show the copyright notice \"\u00a9 2021 WeWork. Confidential.\" without the actual content. Risk factors may exist in the full document but were not captured in this OCR extraction. In typical SPAC merger documentation, risk factors would normally be found in:\n- SEC filing documents (S-4, proxy statements)\n- Investor presentations with dedicated risk disclosure sections\n- Supplementary disclosure materials\n\nA complete due diligence review would require access to the full, properly parsed document or the original PDF.",
+  "model": "claude-sonnet-4-5",
+  "input_tokens": 1660,
+  "output_tokens": 291,
+  "latency_ms": 9419,
+  "timestamp": "2026-01-24T03:28:51.198517",
+  "cost_usd": 0.009345000000000001,
+  "raw_response": {
+    "model": "claude-sonnet-4-5-20250929",
+    "id": "msg_016Bxzj9wAa5sDugnRX421uZ",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "# Answer: Risk Factors\n\n**Not found in document.**\n\n## Confidence: HIGH\n\n## Explanation:\nThe provided OCR-parsed document does not contain any disclosed risk factors. The document appears to be a WeWork investor presentation from 2021 that includes information about:\n- Company values and culture (Page 10)\n- Business model details including \"All Access\" product description (Page 25)\n- Various bullet points and sections (indicated by bullet markers throughout)\n- Timeline graphics (Page 24 showing years 2010-2030)\n\nHowever, there is no section dedicated to risk factors, and no specific risks are discussed or disclosed in the extracted text portions of this document.\n\n## Caveat:\nIt's important to note that this appears to be an incomplete OCR parsing of the document, as most pages only show the copyright notice \"\u00a9 2021 WeWork. Confidential.\" without the actual content. Risk factors may exist in the full document but were not captured in this OCR extraction. In typical SPAC merger documentation, risk factors would normally be found in:\n- SEC filing documents (S-4, proxy statements)\n- Investor presentations with dedicated risk disclosure sections\n- Supplementary disclosure materials\n\nA complete due diligence review would require access to the full, properly parsed document or the original PDF."
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "usage": {
+      "input_tokens": 1660,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 291,
+      "service_tier": "standard"
+    }
+  }
+}
